@@ -1,4 +1,3 @@
-// File: generate_geylang_addresses.js
 const fs = require('fs');
 const NodeGeocoder = require("node-geocoder");
 
@@ -20,15 +19,48 @@ function randomChoice(arr) {
 
 // Hàm tạo tên giả
 function generateFakeName() {
-  const firstNames = [
-    "Ali", "David", "Ng", "Siti", "Tan", "Goh", "Rachel", "Mohamed",
-    "Chen", "Elizabeth", "Arif", "Linda", "Wee", "Lim", "Guan", "Xiu"
-  ];
-  const lastNames = [
-    "Abdullah", "Tan", "Lee", "Wong", "Lim", "Teo", "Goh", "Chen",
-    "Chua", "Khan", "Saw", "Low", "Abbas", "Toh", "Nguyen", "Abdul"
-  ];
-  return `${randomChoice(firstNames)} ${randomChoice(lastNames)}`;
+  // Nếu hàm chưa khởi tạo thì khởi tạo một lần
+  if (!generateFakeName._initialized) {
+    const firstNames = [
+      "Monkey D.", "Roronoa", "Portgas D.", "Vinsmoke", "Charlotte", "Donquixote", "Nico", "Trafalgar D.", "Boa", "Nefertari", "Marshall D.", "Brook", "Tony Tony",
+      "Eustass", "Jewelry", "Capone", "Dracule", "Crocodile", "Bentham", "Urouge", "X. Drake", "Sabo", "Inuarashi", "Nekomamushi", "Koala", "Yamato",
+      "Kozuki", "Shirahoshi", "Franky", "Jimbei", "Pedro", "Pekoms", "Ivankov", "Viola", "Rebecca", "Shanks", "Buggy", "Arlong", "Enel", "Caesar"
+    ];
+    const lastNames = [
+      "Luffy", "Zoro", "Ace", "Sanji", "Katakuri", "Doflamingo", "Robin", "Law", "Hancock", "Vivi", "Teach", "(Soul King)", "Chopper",
+      "Kid", "Bonney", "Gang Bege", "Mihawk", "(Sir)", "(Mr.2)", "(Mad Monk)", "(Marine)", "(Revo)", "(Duke)", "(Cat Viper)", "(Fishman)", "(Onigashima)",
+      "Oden", "(Mermaid Princess)", "(Cyborg)", "(Knight of Sea)", "(Guard)", "(Lion)", "(Okama)", "(Dancer)", "(Gladiator)", "(Red-Haired)", "(Star Clown)", "(Fishman)", "(God)", "Clown"
+    ];
+
+    // Build tất cả combo
+    let combos = [];
+    for (const f of firstNames) {
+      for (const l of lastNames) {
+        combos.push(`${f} ${l}`);
+      }
+    }
+
+    // Shuffle combos
+    combos = combos.sort(() => 0.5 - Math.random());
+
+    // Gắn vào thuộc tính tĩnh của hàm
+    generateFakeName._pool = combos;
+    generateFakeName._index = 0;
+    generateFakeName._initialized = true;
+  }
+
+  // Nếu vượt quá số combo, ta có thể lặp lại hoặc báo lỗi
+  if (generateFakeName._index >= generateFakeName._pool.length) {
+    // Option A: trả về "Hết tên"
+    // return "No More Names";
+
+    // Option B: Lặp lại từ đầu:
+    generateFakeName._index = 0;
+  }
+
+  const name = generateFakeName._pool[generateFakeName._index];
+  generateFakeName._index++;
+  return name;
 }
 
 // Hàm tạo toạ độ ngẫu nhiên quanh khu vực Geylang
@@ -56,11 +88,12 @@ async function main() {
     "Tanjong Katong Road", "Jalan Satu", "Jalan Dua", "Jalan Enam"
   ];
 
-  const numAddresses = 5; // Số lượng địa chỉ cần tạo
+  const numAddresses = 700; // Số lượng địa chỉ cần tạo
   let csvLines = [];
 
   // Dòng tiêu đề CSV
-  csvLines.push("No.,Address,Household Owner,Coordinate");
+  const header = "No.,Address,Household Owner,Coordinate";
+  fs.writeFileSync('geylang_addresses.csv', header + '\n', 'utf8');
 
   for (let i = 1; i <= numAddresses; i++) {
     // Số nhà
@@ -80,34 +113,29 @@ async function main() {
     const res = await geocoder.geocode(address);
 
     // Toạ độ
-    // const [lat, lng] = generateRandomGeolocation();
     let lat = 0;
     let lng = 0;
     if (res && res.length > 0) {
         // Lấy thông tin lat/lng đầu tiên
         const { latitude, longitude } = res[0];
-        // Thêm dòng CSV
-        // csvLines.push(`${i + 1},\"${address}\",${latitude},${longitude}`);
-        console.log(`Geocoded: ${address} -> ${latitude}, ${longitude}`);
+        console.log(`[${i}/${numAddresses}] Geocoded: ${address} -> ${latitude}, ${longitude}`);
         lat = latitude;
         lng = longitude;
     } else {
         // Không tìm thấy kết quả
-        csvLines.push(`${i},"${fullAddress}",${ownerName},""`);
-        console.log(`Không tìm thấy toạ độ cho: ${fullAddress}`);
+        const row = `${i},"${fullAddress}",${ownerName},""`;
+        fs.appendFileSync('geylang_addresses.csv', row + '\n', 'utf8');
+        console.log(`[${i}/${numAddresses}] Không tìm thấy toạ độ cho: ${fullAddress}`);
         continue;
     }
 
     // Thêm dòng CSV
     const coordinate = `${lat.toFixed(6)},${lng.toFixed(6)}`;
-    csvLines.push(`${i},${fullAddress},${ownerName},${coordinate}`);
+    const row = `${i},${fullAddress},${ownerName},${coordinate}`;
+    fs.appendFileSync('geylang_addresses.csv', row + '\n', 'utf8');
 
     await new Promise(r => setTimeout(r, 1000));
   }
-
-  // Ghi ra file CSV
-  const csvData = csvLines.join('\n');
-  fs.writeFileSync('geylang_addresses.csv', csvData, 'utf8');
 
   console.log(`Đã tạo file 'geylang_addresses.csv' với ${numAddresses} địa chỉ mẫu ở Geylang.`);
 }
