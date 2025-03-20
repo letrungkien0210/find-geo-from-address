@@ -1,0 +1,501 @@
+No.,Number address,Street address,Household Owner,Latitude,Longitude
+1,735,Guillemard Road,Ali Abdul,1.312836,103.878086
+2,812,Lorong 22 Geylang,Ali Abbas,1.315260,103.893100
+3,191,Lorong 27 Geylang,Tan Lim,1.318139,103.871013
+4,852,Lorong 28 Geylang,Linda Lim,1.324554,103.885936
+5,195,Lorong 27 Geylang,Elizabeth Chua,1.319016,103.887757
+6,469,Guillemard Road,David Nguyen,1.321587,103.873894
+7,554,Lorong 38 Geylang,Guan Chen,1.322034,103.899788
+8,37,Geylang East Central,Tan Low,1.328878,103.876982
+9,979,Sims Avenue,David Lim,1.318294,103.881119
+10,819,Lorong 28 Geylang,Rachel Nguyen,1.324581,103.876153
+11,259,Aljunied Road,Tan Khan,1.324048,103.871936
+12,423,Sims Avenue,Goh Khan,1.314828,103.872267
+13,190,Lorong 22 Geylang,Arif Lim,1.325719,103.898107
+14,712,Geylang East Avenue 1,Elizabeth Tan,1.327236,103.877520
+15,363,Tanjong Katong Road,Rachel Saw,1.311960,103.885112
+16,591,Lorong 22 Geylang,Ali Abdul,1.317916,103.881407
+17,931,Tanjong Katong Road,Mohamed Goh,1.310427,103.884333
+18,273,Geylang East Central,Chen Low,1.315798,103.888507
+19,856,Lorong 27 Geylang,Lim Khan,1.326446,103.887666
+20,253,Lorong 27 Geylang,Siti Tan,1.317027,103.879064
+21,453,Geylang East Avenue 2,Rachel Toh,1.315194,103.877146
+22,258,Geylang East Avenue 1,Guan Lee,1.313290,103.876065
+23,260,Lorong 22 Geylang,David Saw,1.329910,103.871817
+24,657,Lorong 33 Geylang,Mohamed Low,1.311906,103.894160
+25,669,Tanjong Katong Road,Xiu Abbas,1.326709,103.873785
+26,2,Lorong 25 Geylang,Wee Chen,1.325817,103.894459
+27,841,Lorong 40 Geylang,Arif Tan,1.317237,103.892474
+28,729,Lorong 16 Geylang,Arif Chua,1.319274,103.887942
+29,151,Geylang East Avenue 2,Goh Abdullah,1.317866,103.877748
+30,892,Jalan Satu,Ali Wong,1.310741,103.881221
+31,985,Lorong 10 Geylang,Lim Lee,1.311431,103.892414
+32,716,Aljunied Road,Chen Toh,1.325448,103.876191
+33,568,Lorong 38 Geylang,Xiu Chua,1.326722,103.893807
+34,10,Tanjong Katong Road,Goh Goh,1.322011,103.888424
+35,653,Sims Avenue,David Khan,1.322634,103.897715
+36,794,Lorong Bachok,Mohamed Lim,1.316849,103.880868
+37,181,Lorong 25 Geylang,Wee Abbas,1.328488,103.870120
+38,535,Lorong 16 Geylang,Ng Chen,1.311177,103.894674
+39,76,Jalan Satu,Rachel Abdul,1.322193,103.878032
+40,465,Geylang East Avenue 1,Xiu Tan,1.318268,103.886977
+41,860,Lorong 33 Geylang,Ali Teo,1.328463,103.886060
+42,638,Lorong 27 Geylang,Elizabeth Goh,1.313486,103.870480
+43,691,Lorong 28 Geylang,Wee Goh,1.314120,103.885359
+44,225,Jalan Enam,David Saw,1.317935,103.884752
+45,676,Tanjong Katong Road,Chen Abdullah,1.310772,103.899725
+46,472,Lorong Bachok,David Saw,1.315046,103.875733
+47,425,Lorong 27 Geylang,Siti Abdullah,1.314434,103.873050
+48,946,Aljunied Road,Elizabeth Lee,1.312606,103.893519
+49,544,Lorong 27 Geylang,Elizabeth Abdullah,1.320045,103.870807
+50,790,Geylang East Central,Rachel Tan,1.317386,103.876864
+51,127,Jalan Enam,Siti Lee,1.323414,103.886329
+52,530,Guillemard Road,Lim Abbas,1.328526,103.890705
+53,288,Lorong 28 Geylang,Mohamed Nguyen,1.317866,103.878578
+54,95,Lorong 27 Geylang,Elizabeth Tan,1.315119,103.888053
+55,330,Lorong 33 Geylang,Guan Abbas,1.313567,103.899474
+56,724,Lorong 16 Geylang,Xiu Abdullah,1.325465,103.888783
+57,45,Geylang Road,Goh Tan,1.314784,103.885549
+58,92,Jalan Satu,Ali Chua,1.327415,103.888566
+59,299,Jalan Dua,Siti Abbas,1.329874,103.898545
+60,50,Jalan Satu,Guan Chua,1.310659,103.895740
+61,541,Geylang East Central,Arif Goh,1.324979,103.884182
+62,895,Tanjong Katong Road,Rachel Khan,1.323042,103.876155
+63,752,Geylang East Avenue 2,Xiu Chua,1.314305,103.899051
+64,363,Lorong 22 Geylang,Wee Toh,1.324628,103.894319
+65,673,Geylang East Avenue 2,Wee Goh,1.318303,103.894396
+66,762,Lorong 22 Geylang,Xiu Tan,1.312673,103.895495
+67,295,Lorong 38 Geylang,Rachel Low,1.318594,103.874741
+68,154,Lorong 16 Geylang,Tan Abbas,1.327308,103.882406
+69,121,Jalan Dua,Mohamed Wong,1.322881,103.890794
+70,512,Lorong 27 Geylang,Goh Abbas,1.325244,103.870771
+71,369,Guillemard Road,Mohamed Lee,1.320438,103.890302
+72,585,Geylang East Central,Linda Chen,1.324363,103.898332
+73,35,Lorong 27 Geylang,Linda Chen,1.310189,103.874929
+74,665,Guillemard Road,David Saw,1.327622,103.874652
+75,593,Lorong 25 Geylang,Arif Chua,1.318000,103.893722
+76,301,Jalan Satu,Elizabeth Teo,1.310312,103.899462
+77,999,Sims Avenue,Chen Khan,1.314944,103.878905
+78,636,Geylang Road,Wee Abbas,1.313304,103.871059
+79,299,Paya Lebar Road,Tan Abdul,1.317832,103.888732
+80,282,Lorong 12 Geylang,Mohamed Lee,1.310617,103.891553
+81,672,Geylang East Avenue 1,Ng Lee,1.323390,103.892127
+82,512,Lorong Bachok,Xiu Tan,1.310428,103.887140
+83,9,Lorong 16 Geylang,Chen Tan,1.313362,103.898216
+84,385,Lorong 28 Geylang,Xiu Teo,1.327434,103.899520
+85,873,Lorong Bachok,Arif Abdullah,1.318818,103.870881
+86,122,Lorong 25 Geylang,Lim Toh,1.327607,103.888854
+87,499,Lorong 40 Geylang,Guan Goh,1.325160,103.871865
+88,839,Geylang East Avenue 1,Elizabeth Low,1.317864,103.891259
+89,65,Geylang Road,Ng Abbas,1.323021,103.878934
+90,712,Lorong 10 Geylang,Xiu Saw,1.319138,103.887857
+91,925,Lorong 38 Geylang,Rachel Tan,1.322809,103.896362
+92,231,Lorong 38 Geylang,Arif Toh,1.314614,103.870476
+93,39,Lorong 25 Geylang,Tan Chen,1.315300,103.895301
+94,156,Lorong 25 Geylang,David Wong,1.320543,103.896453
+95,842,Lorong 10 Geylang,Tan Khan,1.327602,103.873699
+96,335,Aljunied Road,Siti Chua,1.317783,103.884003
+97,323,Aljunied Road,Rachel Lee,1.311631,103.893481
+98,129,Lorong 27 Geylang,Guan Chua,1.317719,103.890800
+99,695,Lorong 12 Geylang,Chen Tan,1.323394,103.871546
+100,615,Sims Avenue,Elizabeth Wong,1.314512,103.870852
+101,83,Geylang East Avenue 1,Chen Goh,1.321502,103.875516
+102,542,Geylang East Avenue 1,Goh Chua,1.310772,103.893087
+103,516,Lorong 22 Geylang,Elizabeth Abbas,1.311055,103.872720
+104,8,Lorong 10 Geylang,Siti Toh,1.329934,103.882640
+105,340,Sims Avenue,Ng Saw,1.328816,103.899464
+106,721,Lorong 38 Geylang,Guan Low,1.324111,103.870513
+107,28,Sims Avenue,Ng Wong,1.314768,103.876744
+108,478,Geylang Road,Ng Wong,1.313656,103.893879
+109,850,Jalan Satu,Chen Goh,1.329518,103.876786
+110,562,Geylang East Avenue 1,Lim Khan,1.311134,103.893609
+111,857,Guillemard Road,Linda Chua,1.327680,103.888308
+112,518,Jalan Satu,Guan Low,1.329328,103.896724
+113,332,Aljunied Road,Wee Khan,1.323314,103.894892
+114,402,Tanjong Katong Road,Rachel Saw,1.313380,103.890306
+115,217,Paya Lebar Road,Ali Tan,1.321863,103.890229
+116,119,Paya Lebar Road,Tan Abdul,1.328734,103.880165
+117,411,Guillemard Road,David Chua,1.327140,103.892857
+118,316,Jalan Enam,Chen Khan,1.314935,103.871297
+119,289,Lorong 33 Geylang,Siti Tan,1.327979,103.870432
+120,787,Aljunied Road,Goh Abdullah,1.325834,103.877153
+121,716,Jalan Satu,Chen Wong,1.310927,103.880912
+122,240,Jalan Dua,Wee Wong,1.314164,103.888884
+123,817,Tanjong Katong Road,Siti Low,1.319222,103.881422
+124,549,Geylang East Avenue 1,Mohamed Lim,1.310349,103.881546
+125,119,Lorong 28 Geylang,Wee Chen,1.326759,103.873126
+126,300,Geylang East Central,Tan Nguyen,1.318171,103.872548
+127,367,Geylang East Avenue 2,Goh Wong,1.329157,103.881453
+128,386,Geylang East Avenue 1,Guan Saw,1.318987,103.893182
+129,422,Lorong 10 Geylang,Goh Toh,1.329234,103.882230
+130,50,Aljunied Road,Lim Teo,1.329287,103.874329
+131,531,Lorong 27 Geylang,Lim Lee,1.310516,103.896210
+132,720,Lorong 16 Geylang,Elizabeth Abbas,1.315379,103.886416
+133,922,Lorong 25 Geylang,Ng Abdul,1.317834,103.885192
+134,358,Geylang East Avenue 2,Rachel Low,1.313362,103.875337
+135,388,Jalan Enam,Tan Nguyen,1.326130,103.873535
+136,765,Sims Avenue,Tan Nguyen,1.310450,103.898999
+137,135,Lorong 12 Geylang,Guan Abdullah,1.326420,103.883860
+138,928,Jalan Enam,Linda Abbas,1.327804,103.872682
+139,434,Lorong 38 Geylang,Ali Abdullah,1.318404,103.889103
+140,615,Jalan Enam,Ng Teo,1.325832,103.883954
+141,377,Geylang East Avenue 1,Tan Lee,1.320147,103.894529
+142,282,Lorong 22 Geylang,David Lee,1.318703,103.888650
+143,728,Paya Lebar Road,David Tan,1.319498,103.892618
+144,617,Lorong 12 Geylang,Mohamed Abdul,1.324151,103.895987
+145,900,Lorong 27 Geylang,Guan Abdullah,1.319144,103.898168
+146,586,Lorong 33 Geylang,Mohamed Tan,1.315477,103.878700
+147,881,Lorong 22 Geylang,Siti Nguyen,1.320408,103.878728
+148,21,Jalan Dua,Tan Nguyen,1.313460,103.875863
+149,591,Jalan Dua,Ali Teo,1.324299,103.873407
+150,379,Lorong 28 Geylang,Rachel Nguyen,1.318239,103.879324
+151,195,Geylang East Avenue 1,Xiu Abdullah,1.322918,103.895078
+152,178,Tanjong Katong Road,Chen Tan,1.326916,103.879550
+153,283,Geylang East Avenue 2,Guan Chua,1.313494,103.890642
+154,325,Jalan Enam,David Saw,1.318158,103.884757
+155,329,Paya Lebar Road,David Abdullah,1.318537,103.888727
+156,478,Lorong 12 Geylang,Chen Khan,1.328965,103.890063
+157,34,Lorong 38 Geylang,Goh Khan,1.310311,103.874882
+158,26,Lorong 28 Geylang,Wee Tan,1.325717,103.887441
+159,202,Lorong 28 Geylang,Goh Chen,1.318377,103.895796
+160,157,Geylang East Avenue 2,Wee Chen,1.310407,103.892848
+161,707,Geylang Road,Elizabeth Chen,1.316341,103.875840
+162,735,Tanjong Katong Road,Lim Saw,1.311453,103.892221
+163,730,Lorong 40 Geylang,Wee Nguyen,1.312353,103.879052
+164,62,Lorong 16 Geylang,Elizabeth Lee,1.312381,103.899108
+165,181,Jalan Satu,Siti Khan,1.327720,103.870261
+166,197,Lorong 28 Geylang,Elizabeth Tan,1.311396,103.878017
+167,805,Lorong 16 Geylang,Guan Abdul,1.311880,103.892682
+168,367,Lorong 28 Geylang,Siti Abbas,1.319392,103.882437
+169,578,Paya Lebar Road,Elizabeth Saw,1.310226,103.873953
+170,691,Sims Avenue,Lim Tan,1.319222,103.897938
+171,273,Jalan Enam,Tan Low,1.315485,103.889489
+172,421,Geylang Road,Mohamed Chen,1.313015,103.899915
+173,209,Lorong Bachok,Elizabeth Chen,1.324903,103.878536
+174,439,Jalan Enam,Elizabeth Low,1.318404,103.874100
+175,753,Geylang East Avenue 1,Lim Abbas,1.320078,103.899022
+176,59,Geylang East Avenue 1,Mohamed Abdul,1.313717,103.889398
+177,906,Lorong 38 Geylang,Goh Lee,1.316292,103.882550
+178,587,Geylang East Avenue 1,Chen Wong,1.323875,103.870396
+179,246,Lorong Bachok,Guan Nguyen,1.313452,103.884819
+180,199,Lorong 27 Geylang,Xiu Abdullah,1.317572,103.888255
+181,41,Lorong 27 Geylang,Siti Abbas,1.324261,103.876426
+182,19,Guillemard Road,Xiu Abbas,1.328405,103.878976
+183,551,Lorong 38 Geylang,Rachel Goh,1.318917,103.871883
+184,747,Lorong 16 Geylang,Elizabeth Abdullah,1.318160,103.880942
+185,424,Sims Avenue,Lim Low,1.317864,103.888687
+186,780,Sims Avenue,Ng Teo,1.312857,103.893938
+187,632,Aljunied Road,Ng Tan,1.320265,103.887077
+188,905,Geylang East Avenue 1,Rachel Abdul,1.324215,103.870891
+189,470,Tanjong Katong Road,Chen Abdul,1.323230,103.879737
+190,103,Lorong 33 Geylang,Tan Teo,1.322614,103.876314
+191,404,Aljunied Road,Xiu Teo,1.312693,103.892314
+192,1,Geylang East Central,Linda Lim,1.322260,103.894254
+193,259,Lorong 33 Geylang,Rachel Lee,1.323205,103.887239
+194,286,Lorong Bachok,Xiu Lim,1.311968,103.875846
+195,255,Jalan Dua,Lim Khan,1.329224,103.882268
+196,743,Lorong 27 Geylang,Guan Goh,1.312833,103.896878
+197,41,Jalan Enam,Tan Khan,1.323321,103.882785
+198,753,Sims Avenue,Elizabeth Abdullah,1.318135,103.883352
+199,304,Lorong 33 Geylang,Rachel Saw,1.324143,103.885040
+200,513,Geylang East Avenue 1,Linda Wong,1.310364,103.883305
+201,826,Lorong 38 Geylang,Mohamed Abdullah,1.312251,103.891927
+202,631,Lorong 38 Geylang,Siti Khan,1.329197,103.889208
+203,766,Aljunied Road,Guan Lim,1.310799,103.874189
+204,414,Lorong 33 Geylang,Mohamed Lim,1.310953,103.894545
+205,528,Lorong 27 Geylang,David Abdullah,1.323634,103.884667
+206,900,Lorong 28 Geylang,Siti Teo,1.320776,103.885573
+207,566,Jalan Dua,Tan Nguyen,1.324496,103.899541
+208,210,Aljunied Road,Mohamed Abdul,1.313904,103.882412
+209,364,Lorong 12 Geylang,Siti Tan,1.319209,103.877571
+210,783,Lorong 33 Geylang,Mohamed Lee,1.317758,103.882275
+211,693,Geylang East Central,Xiu Nguyen,1.323436,103.880596
+212,526,Geylang East Avenue 2,Tan Goh,1.321334,103.884785
+213,166,Geylang East Avenue 1,Rachel Wong,1.313454,103.894259
+214,348,Jalan Enam,Guan Toh,1.323849,103.886107
+215,14,Sims Avenue,Rachel Lim,1.313816,103.887461
+216,728,Lorong Bachok,Ng Nguyen,1.328591,103.886420
+217,387,Lorong 25 Geylang,David Tan,1.317974,103.892865
+218,123,Geylang East Avenue 1,Ng Chua,1.310085,103.878471
+219,486,Sims Avenue,Ali Teo,1.319555,103.880379
+220,157,Paya Lebar Road,Chen Lim,1.320621,103.882575
+221,494,Tanjong Katong Road,Linda Wong,1.311863,103.871698
+222,411,Aljunied Road,Goh Nguyen,1.320958,103.898738
+223,107,Geylang East Avenue 1,Guan Goh,1.314487,103.897871
+224,428,Guillemard Road,Xiu Abdullah,1.313864,103.880454
+225,737,Geylang Road,Chen Low,1.328590,103.877119
+226,697,Geylang East Avenue 1,David Lim,1.325539,103.889673
+227,280,Geylang East Central,Ali Abbas,1.320021,103.884900
+228,884,Guillemard Road,David Low,1.317616,103.879048
+229,713,Paya Lebar Road,Rachel Nguyen,1.329917,103.884271
+230,43,Geylang East Avenue 2,Rachel Chen,1.310817,103.877677
+231,159,Geylang Road,Chen Lee,1.313832,103.870021
+232,610,Lorong 12 Geylang,Mohamed Toh,1.319390,103.890329
+233,986,Sims Avenue,Linda Chua,1.310675,103.880759
+234,389,Lorong 28 Geylang,Lim Chua,1.329054,103.892717
+235,573,Lorong 27 Geylang,Ali Toh,1.326496,103.870293
+236,612,Jalan Enam,Linda Low,1.312494,103.895994
+237,310,Lorong 16 Geylang,Wee Abbas,1.325116,103.881937
+238,142,Jalan Enam,Ng Abbas,1.322183,103.880709
+239,71,Jalan Enam,Tan Abdullah,1.323145,103.871638
+240,271,Geylang East Avenue 1,Guan Chen,1.324821,103.871307
+241,800,Lorong 38 Geylang,David Toh,1.310477,103.898471
+242,63,Geylang East Central,Siti Wong,1.323640,103.884428
+243,686,Jalan Enam,Mohamed Chen,1.318000,103.884214
+244,372,Lorong 22 Geylang,Chen Abdul,1.316644,103.889991
+245,265,Geylang East Avenue 2,Ali Khan,1.327431,103.893749
+246,784,Jalan Satu,Goh Wong,1.311271,103.886672
+247,589,Geylang East Avenue 2,Wee Low,1.313586,103.899316
+248,940,Lorong 38 Geylang,Guan Wong,1.310410,103.873905
+249,570,Sims Avenue,Elizabeth Abdullah,1.326836,103.883889
+250,917,Lorong Bachok,Goh Nguyen,1.323938,103.898855
+251,483,Jalan Dua,Mohamed Lim,1.314079,103.884930
+252,201,Jalan Enam,Ng Lee,1.319731,103.889454
+253,519,Geylang East Central,Rachel Low,1.319707,103.890911
+254,533,Geylang East Central,Guan Toh,1.321925,103.878416
+255,587,Lorong 38 Geylang,Ali Abdul,1.327247,103.885643
+256,479,Lorong 33 Geylang,Wee Abdul,1.310524,103.892498
+257,891,Lorong 33 Geylang,Xiu Goh,1.315545,103.898835
+258,73,Lorong 28 Geylang,David Teo,1.324889,103.879988
+259,149,Lorong 38 Geylang,Elizabeth Goh,1.310503,103.881690
+260,872,Lorong 25 Geylang,Mohamed Nguyen,1.310769,103.887114
+261,993,Lorong 10 Geylang,Guan Nguyen,1.318122,103.890722
+262,211,Lorong 25 Geylang,Ng Lee,1.318645,103.882257
+263,722,Lorong 22 Geylang,Tan Lee,1.319612,103.871277
+264,150,Geylang Road,Mohamed Lim,1.315321,103.877414
+265,684,Geylang Road,Rachel Chen,1.325503,103.897256
+266,419,Jalan Dua,Tan Toh,1.315569,103.888848
+267,245,Geylang East Avenue 2,David Abbas,1.319562,103.885490
+268,453,Lorong 27 Geylang,Tan Chen,1.320033,103.884638
+269,988,Lorong 38 Geylang,Ng Wong,1.318118,103.896163
+270,301,Lorong 16 Geylang,Ali Tan,1.324585,103.888689
+271,202,Jalan Dua,Lim Nguyen,1.319626,103.883088
+272,355,Jalan Enam,Siti Low,1.311600,103.874289
+273,114,Lorong 38 Geylang,Tan Nguyen,1.329246,103.898803
+274,808,Lorong 25 Geylang,Arif Toh,1.328498,103.886601
+275,914,Geylang East Central,Rachel Abbas,1.320325,103.870438
+276,604,Lorong 16 Geylang,Goh Abbas,1.320458,103.895790
+277,313,Jalan Dua,Wee Abbas,1.324098,103.874283
+278,697,Lorong 33 Geylang,Rachel Goh,1.310926,103.888960
+279,703,Lorong 16 Geylang,Chen Abdul,1.319221,103.876193
+280,403,Geylang East Avenue 2,Mohamed Nguyen,1.329327,103.875949
+281,808,Paya Lebar Road,Goh Lim,1.319412,103.886559
+282,249,Aljunied Road,Guan Nguyen,1.320579,103.892281
+283,918,Guillemard Road,Xiu Wong,1.323478,103.894756
+284,475,Lorong 40 Geylang,Chen Abbas,1.319419,103.892799
+285,306,Lorong 10 Geylang,David Goh,1.322150,103.881617
+286,297,Sims Avenue,Ng Chua,1.316803,103.881586
+287,535,Lorong 12 Geylang,David Nguyen,1.316979,103.881796
+288,893,Jalan Satu,Elizabeth Chen,1.321005,103.892214
+289,349,Lorong 22 Geylang,Elizabeth Chua,1.312511,103.898994
+290,481,Guillemard Road,Arif Abdullah,1.318483,103.898134
+291,62,Geylang East Avenue 2,Chen Goh,1.317165,103.885554
+292,684,Geylang Road,Guan Saw,1.326238,103.887156
+293,736,Geylang East Central,Linda Teo,1.316156,103.876517
+294,792,Lorong Bachok,Wee Wong,1.317337,103.897530
+295,481,Lorong Bachok,Ali Low,1.325960,103.873646
+296,734,Lorong 28 Geylang,Rachel Low,1.317484,103.888217
+297,948,Lorong 22 Geylang,Guan Saw,1.325006,103.893913
+298,277,Geylang East Central,Elizabeth Khan,1.326812,103.899243
+299,852,Jalan Satu,Linda Abdul,1.324434,103.876066
+300,964,Lorong 16 Geylang,Arif Tan,1.328469,103.890031
+301,421,Tanjong Katong Road,Linda Teo,1.324946,103.899553
+302,961,Lorong 16 Geylang,Arif Lee,1.324977,103.888475
+303,508,Guillemard Road,Lim Abdul,1.329900,103.893509
+304,877,Sims Avenue,Goh Tan,1.317145,103.895801
+305,517,Lorong 22 Geylang,Ali Abbas,1.319140,103.872294
+306,688,Geylang East Avenue 2,Linda Abbas,1.327421,103.890749
+307,951,Lorong 28 Geylang,David Chen,1.323061,103.891101
+308,455,Lorong 27 Geylang,Goh Teo,1.323471,103.886520
+309,174,Tanjong Katong Road,Ng Wong,1.311217,103.885560
+310,235,Lorong 33 Geylang,Arif Toh,1.316589,103.898213
+311,943,Geylang East Avenue 1,Xiu Toh,1.326780,103.872266
+312,489,Geylang Road,Chen Nguyen,1.312597,103.878327
+313,668,Sims Avenue,Goh Nguyen,1.311816,103.878841
+314,619,Lorong 10 Geylang,Chen Abbas,1.327787,103.881182
+315,866,Lorong Bachok,Wee Khan,1.318178,103.876623
+316,815,Geylang Road,Elizabeth Chua,1.320860,103.883812
+317,545,Jalan Satu,Arif Wong,1.326357,103.894329
+318,473,Jalan Enam,Lim Wong,1.312206,103.873707
+319,692,Geylang Road,Arif Abbas,1.312441,103.875605
+320,722,Lorong 22 Geylang,Xiu Abbas,1.310236,103.899808
+321,948,Lorong Bachok,Guan Abdul,1.312659,103.897757
+322,86,Geylang East Avenue 2,Ng Teo,1.310410,103.879263
+323,470,Paya Lebar Road,Goh Chua,1.322782,103.884349
+324,75,Sims Avenue,David Lim,1.329793,103.898863
+325,488,Lorong Bachok,Elizabeth Abdul,1.312776,103.886860
+326,444,Geylang East Avenue 1,Goh Abdullah,1.312823,103.874841
+327,195,Jalan Enam,Mohamed Teo,1.316410,103.872568
+328,214,Lorong 38 Geylang,David Chen,1.325032,103.892808
+329,990,Geylang East Central,Goh Chen,1.316850,103.890672
+330,711,Lorong 22 Geylang,Guan Abdul,1.320320,103.890306
+331,652,Lorong 33 Geylang,Lim Goh,1.320401,103.889942
+332,901,Jalan Satu,Tan Nguyen,1.329045,103.876135
+333,854,Lorong 16 Geylang,Guan Wong,1.316852,103.885012
+334,66,Lorong 27 Geylang,Ali Teo,1.326302,103.891703
+335,750,Lorong 16 Geylang,Arif Nguyen,1.317397,103.879082
+336,659,Lorong 16 Geylang,David Chen,1.324795,103.892726
+337,773,Aljunied Road,Guan Lim,1.312518,103.897157
+338,913,Lorong 22 Geylang,Ali Chen,1.323306,103.896127
+339,853,Paya Lebar Road,Goh Chua,1.317971,103.886581
+340,54,Lorong 16 Geylang,Siti Abbas,1.325976,103.875821
+341,790,Geylang East Avenue 1,Tan Abdul,1.315477,103.881942
+342,747,Lorong 40 Geylang,Xiu Toh,1.329834,103.893496
+343,727,Geylang East Avenue 1,Tan Khan,1.322197,103.885117
+344,174,Lorong 28 Geylang,Goh Chen,1.325735,103.884519
+345,89,Lorong 22 Geylang,Mohamed Chua,1.318615,103.894438
+346,126,Lorong 40 Geylang,Goh Wong,1.329520,103.871657
+347,227,Guillemard Road,Ng Teo,1.315332,103.883602
+348,705,Lorong 16 Geylang,Ng Tan,1.312494,103.870830
+349,661,Lorong 27 Geylang,Ng Lee,1.319194,103.884296
+350,976,Lorong 12 Geylang,Arif Chua,1.327566,103.890183
+351,51,Lorong 25 Geylang,Elizabeth Toh,1.323891,103.896831
+352,430,Aljunied Road,David Abdul,1.324205,103.892324
+353,851,Lorong 27 Geylang,Elizabeth Lim,1.328416,103.886198
+354,386,Sims Avenue,Linda Wong,1.326840,103.887623
+355,644,Lorong 10 Geylang,Siti Saw,1.312702,103.891586
+356,270,Lorong 22 Geylang,Rachel Goh,1.328859,103.891268
+357,67,Geylang East Central,Linda Khan,1.315217,103.880806
+358,784,Geylang East Avenue 2,Ali Goh,1.320300,103.877817
+359,960,Geylang East Avenue 2,Rachel Saw,1.319164,103.878561
+360,157,Lorong 40 Geylang,Guan Abdullah,1.318191,103.882747
+361,176,Jalan Enam,Chen Wong,1.327130,103.873541
+362,506,Sims Avenue,Elizabeth Saw,1.328522,103.879061
+363,46,Lorong 25 Geylang,Xiu Nguyen,1.317654,103.886210
+364,668,Lorong 28 Geylang,Chen Wong,1.315509,103.898881
+365,39,Geylang Road,Ali Abdullah,1.315078,103.888298
+366,610,Lorong 12 Geylang,Lim Lim,1.326625,103.891430
+367,383,Jalan Enam,Xiu Teo,1.324470,103.888529
+368,809,Lorong 38 Geylang,Linda Abdullah,1.311761,103.877454
+369,678,Tanjong Katong Road,Rachel Saw,1.312904,103.894494
+370,906,Lorong 16 Geylang,Elizabeth Lim,1.329220,103.884635
+371,183,Geylang East Avenue 1,David Lim,1.328920,103.871926
+372,168,Lorong 33 Geylang,Mohamed Tan,1.326662,103.890736
+373,522,Geylang Road,Goh Low,1.321993,103.870877
+374,17,Guillemard Road,Rachel Saw,1.324329,103.878026
+375,152,Tanjong Katong Road,Chen Abbas,1.316923,103.873766
+376,978,Lorong 33 Geylang,Lim Khan,1.328466,103.883718
+377,595,Jalan Satu,David Nguyen,1.316117,103.871547
+378,469,Lorong 12 Geylang,Elizabeth Lim,1.327686,103.873853
+379,448,Sims Avenue,Wee Lim,1.326735,103.893180
+380,182,Sims Avenue,Goh Lim,1.310221,103.885758
+381,943,Geylang East Avenue 1,Arif Toh,1.310567,103.897877
+382,582,Lorong 22 Geylang,Ng Lee,1.314358,103.896374
+383,216,Lorong 38 Geylang,Elizabeth Low,1.326957,103.887716
+384,801,Lorong 25 Geylang,Siti Khan,1.321066,103.875413
+385,996,Geylang East Central,Ng Abbas,1.320806,103.877521
+386,644,Geylang Road,Guan Toh,1.310792,103.879179
+387,669,Lorong 16 Geylang,David Low,1.321647,103.889089
+388,424,Jalan Enam,Siti Lim,1.327612,103.899323
+389,536,Jalan Satu,Guan Wong,1.317997,103.898035
+390,487,Lorong 38 Geylang,Lim Chen,1.316424,103.871250
+391,730,Lorong 12 Geylang,Ali Tan,1.313058,103.893067
+392,494,Lorong 33 Geylang,Elizabeth Chen,1.316937,103.884241
+393,150,Tanjong Katong Road,Guan Toh,1.316424,103.891706
+394,6,Lorong 28 Geylang,Elizabeth Low,1.324149,103.899344
+395,580,Lorong 25 Geylang,Elizabeth Low,1.315857,103.878768
+396,269,Lorong 28 Geylang,Goh Wong,1.314638,103.874656
+397,82,Geylang East Avenue 2,Lim Abdul,1.310370,103.899844
+398,908,Lorong 16 Geylang,Chen Goh,1.326439,103.872296
+399,425,Lorong 28 Geylang,Guan Teo,1.325295,103.889058
+400,378,Lorong 10 Geylang,Arif Abdullah,1.313186,103.872761
+401,212,Lorong 28 Geylang,Ng Lim,1.329930,103.891763
+402,309,Lorong Bachok,Ng Lee,1.323201,103.876420
+403,173,Jalan Dua,Xiu Toh,1.310907,103.882291
+404,278,Geylang Road,Ng Teo,1.318526,103.884850
+405,420,Lorong 27 Geylang,Ng Nguyen,1.328170,103.884802
+406,99,Lorong 16 Geylang,Tan Khan,1.313210,103.897142
+407,519,Geylang East Central,Goh Lim,1.329875,103.884165
+408,394,Lorong 12 Geylang,Siti Toh,1.317358,103.872293
+409,392,Lorong 12 Geylang,Tan Tan,1.322823,103.885362
+410,673,Lorong Bachok,Linda Abdul,1.320451,103.883227
+411,277,Lorong 25 Geylang,Ali Chen,1.324758,103.878129
+412,809,Geylang Road,Elizabeth Abdullah,1.326056,103.890584
+413,472,Jalan Dua,David Wong,1.325100,103.883143
+414,987,Tanjong Katong Road,Linda Goh,1.325061,103.873776
+415,980,Lorong 38 Geylang,Rachel Wong,1.325459,103.884901
+416,920,Jalan Satu,Rachel Lim,1.315488,103.892135
+417,65,Jalan Dua,Elizabeth Abbas,1.327802,103.899772
+418,896,Geylang East Central,Arif Wong,1.318676,103.889020
+419,153,Geylang East Avenue 1,Chen Khan,1.322844,103.876872
+420,670,Lorong 16 Geylang,Wee Abbas,1.321523,103.877692
+421,22,Lorong Bachok,Tan Abbas,1.327268,103.875761
+422,21,Lorong 38 Geylang,Guan Toh,1.322070,103.891905
+423,196,Geylang East Avenue 2,Arif Saw,1.319991,103.871237
+424,601,Lorong 12 Geylang,Rachel Saw,1.317378,103.876241
+425,792,Aljunied Road,Linda Abdullah,1.318727,103.893691
+426,577,Lorong 25 Geylang,Arif Khan,1.322070,103.893374
+427,425,Tanjong Katong Road,Goh Low,1.325387,103.885058
+428,260,Lorong 27 Geylang,Rachel Chen,1.325763,103.880800
+429,177,Lorong 28 Geylang,Mohamed Goh,1.327583,103.882011
+430,693,Jalan Satu,Ali Abdul,1.317220,103.887153
+431,813,Lorong 12 Geylang,Lim Toh,1.320180,103.891345
+432,869,Jalan Satu,Ng Lim,1.322456,103.887061
+433,106,Geylang East Avenue 2,Linda Low,1.325635,103.892356
+434,540,Geylang East Avenue 2,David Abdul,1.324103,103.880538
+435,387,Lorong 12 Geylang,David Tan,1.319558,103.874212
+436,790,Lorong 10 Geylang,Chen Saw,1.317542,103.881452
+437,771,Lorong 40 Geylang,Rachel Teo,1.316797,103.894485
+438,150,Lorong 38 Geylang,Elizabeth Wong,1.314847,103.882383
+439,443,Lorong 27 Geylang,Ali Toh,1.317079,103.872981
+440,449,Geylang East Central,Siti Khan,1.316001,103.884202
+441,444,Guillemard Road,Ng Lee,1.315202,103.885846
+442,268,Tanjong Katong Road,Linda Abdul,1.313382,103.880611
+443,431,Tanjong Katong Road,Ng Teo,1.329739,103.891652
+444,122,Tanjong Katong Road,Linda Abdul,1.322266,103.897893
+445,583,Lorong 12 Geylang,Chen Goh,1.318506,103.895204
+446,973,Lorong 38 Geylang,Mohamed Teo,1.326691,103.880459
+447,283,Lorong 33 Geylang,Goh Abdullah,1.329570,103.893023
+448,689,Lorong 33 Geylang,Goh Abbas,1.321404,103.874281
+449,275,Geylang Road,Linda Abdullah,1.310385,103.895878
+450,765,Geylang East Avenue 1,Xiu Abdul,1.327236,103.899588
+451,105,Guillemard Road,Ng Lim,1.315147,103.895487
+452,519,Geylang Road,Chen Lim,1.317057,103.897331
+453,362,Aljunied Road,Mohamed Abdul,1.310074,103.893626
+454,151,Lorong 28 Geylang,Tan Nguyen,1.315132,103.891267
+455,759,Paya Lebar Road,Arif Abdullah,1.313564,103.891990
+456,16,Lorong 10 Geylang,Wee Chua,1.315887,103.897700
+457,998,Lorong 22 Geylang,Chen Toh,1.315797,103.899035
+458,625,Lorong 28 Geylang,David Saw,1.313509,103.883405
+459,435,Aljunied Road,Wee Chua,1.329985,103.877150
+460,51,Jalan Dua,Goh Abdullah,1.318342,103.872128
+461,765,Geylang East Avenue 2,Lim Khan,1.312618,103.891401
+462,581,Lorong 38 Geylang,Arif Chua,1.321050,103.871545
+463,935,Lorong 40 Geylang,Mohamed Wong,1.324376,103.882718
+464,466,Geylang East Avenue 1,Rachel Chen,1.325686,103.879963
+465,859,Lorong 40 Geylang,Xiu Saw,1.310645,103.872675
+466,923,Paya Lebar Road,Elizabeth Teo,1.316018,103.874582
+467,4,Aljunied Road,Elizabeth Abdul,1.316062,103.878549
+468,494,Lorong 25 Geylang,Siti Saw,1.320739,103.895017
+469,403,Lorong 16 Geylang,Xiu Saw,1.316888,103.885023
+470,849,Sims Avenue,Linda Wong,1.318035,103.882348
+471,532,Lorong 22 Geylang,Xiu Wong,1.315106,103.883035
+472,125,Lorong 16 Geylang,Goh Toh,1.326414,103.890346
+473,626,Lorong 12 Geylang,Guan Khan,1.327431,103.887149
+474,468,Lorong 16 Geylang,Siti Teo,1.328198,103.877815
+475,307,Geylang East Avenue 2,Elizabeth Abdullah,1.315221,103.892578
+476,948,Sims Avenue,Ali Teo,1.323619,103.883235
+477,860,Lorong 16 Geylang,Arif Toh,1.314820,103.888345
+478,202,Geylang East Central,Rachel Lim,1.329326,103.891467
+479,134,Aljunied Road,Siti Low,1.320153,103.879725
+480,330,Jalan Dua,Wee Toh,1.324070,103.873593
+481,176,Tanjong Katong Road,Wee Lee,1.312793,103.897617
+482,279,Lorong 38 Geylang,Wee Lee,1.329495,103.886224
+483,301,Lorong 27 Geylang,Mohamed Wong,1.323953,103.882325
+484,366,Lorong 40 Geylang,David Tan,1.320327,103.889812
+485,560,Geylang Road,Arif Tan,1.326017,103.889600
+486,342,Jalan Dua,Linda Low,1.329955,103.882197
+487,50,Paya Lebar Road,Lim Nguyen,1.327077,103.881266
+488,878,Lorong 27 Geylang,Xiu Goh,1.320682,103.890423
+489,701,Geylang East Central,Chen Abbas,1.323637,103.870819
+490,79,Jalan Dua,Ng Lee,1.326732,103.877173
+491,573,Lorong 38 Geylang,Chen Goh,1.317659,103.883165
+492,276,Jalan Dua,David Toh,1.315563,103.876934
+493,283,Jalan Enam,Guan Low,1.310411,103.881685
+494,547,Jalan Enam,Rachel Abdullah,1.325027,103.887101
+495,576,Geylang East Avenue 1,Elizabeth Saw,1.321637,103.875483
+496,300,Jalan Satu,David Abdullah,1.311432,103.881597
+497,512,Lorong 27 Geylang,Mohamed Chen,1.326124,103.898338
+498,405,Lorong 12 Geylang,Xiu Low,1.322831,103.870138
+499,886,Geylang Road,Wee Abbas,1.310021,103.892188
+500,501,Lorong 16 Geylang,Wee Saw,1.325915,103.893667
