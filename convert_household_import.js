@@ -6,6 +6,29 @@ function convertHouseholdData() {
     // Read the source file
     const data = fs.readFileSync('geylang_addresses.csv', 'utf8');
     
+    // Read meter serials file
+    let meterSerials = [];
+    try {
+      const meterData = fs.readFileSync('CNNT.meters.csv', 'utf8');
+      // Split into lines and extract serial numbers
+      const meterLines = meterData.split('\n');
+      // Skip header (first line)
+      for (let i = 1; i < meterLines.length; i++) {
+        const line = meterLines[i].trim();
+        if (!line) continue;
+        
+        // Split by comma and get the serial number (second column)
+        const columns = line.split(',');
+        if (columns.length >= 2) {
+          meterSerials.push(columns[1]);
+        }
+      }
+      console.log(`Loaded ${meterSerials.length} meter serial numbers from CNNT.meters.csv`);
+    } catch (err) {
+      console.warn('Warning: Could not read CNNT.meters.csv - proceeding without meter serials');
+      console.warn(err);
+    }
+    
     // Split into lines
     const lines = data.split('\n');
     
@@ -14,6 +37,9 @@ function convertHouseholdData() {
     
     // Create the new CSV content
     let newContent = [newHeader];
+    
+    // Counter for assigned meters
+    let meterCounter = 0;
     
     // Skip header (first line) and process the rest
     for (let i = 1; i < lines.length; i++) {
@@ -34,6 +60,13 @@ function convertHouseholdData() {
         const householdCode = columns[4];
         const coordinate = columns[5];
         
+        // Get meter serial if available
+        let meterSerial = '';
+        if (meterCounter < meterSerials.length) {
+          meterSerial = meterSerials[meterCounter];
+          meterCounter++;
+        }
+        
         // Create new line with transformed data
         const newLine = [
           householdCode, // code(*)
@@ -44,7 +77,7 @@ function convertHouseholdData() {
           'Singapore', // city(*)
           'Singapore', // country(*)
           coordinate, // coordinate
-          '' // meter_serial (empty)
+          meterSerial // meter_serial (from file or empty)
         ].join(';');
         
         newContent.push(newLine);
@@ -54,7 +87,7 @@ function convertHouseholdData() {
     // Write to new file
     fs.writeFileSync('household_import.csv', newContent.join('\n'), 'utf8');
     
-    console.log('Conversion completed. Created household_import.csv');
+    console.log(`Conversion completed. Created household_import.csv with ${meterCounter} assigned meters.`);
   } catch (err) {
     console.error('Error converting file:', err);
   }
