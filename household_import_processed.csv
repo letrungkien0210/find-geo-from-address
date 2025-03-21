@@ -1,0 +1,88 @@
+code(*);customer_id;first_name;street_number;street_name;city(*);country(*);coordinate;meter_serial
+Portgas_D_Merma;Portgas_D_Merma;Portgas D Mermaid Princess;20;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01261464
+Portgas_D_Gang_;Portgas_D_Gang_;Portgas D Gang Bege;866;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263473
+X_Drake_Sir;X_Drake_Sir;X Drake Sir;149;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01263362
+Marshall_D_Hanc;Marshall_D_Hanc;Marshall D Hancock;195;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01257985
+Portgas_D_Star_;Portgas_D_Star_;Portgas D Star Clown;663;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01259314
+Marshall_D_Vivi;Marshall_D_Vivi;Marshall D Vivi;553;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01257498
+X_Drake_Bonney;X_Drake_Bonney;X Drake Bonney;449;"Lorong 28 Geylang";Singapore;Singapore;1.312589,103.885594;01263247
+Portgas_D_Hanco;Portgas_D_Hanco;Portgas D Hancock;300;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01259069
+Marshall_D_Fish;Marshall_D_Fish;Marshall D Fishman;875;"Aljunied Road";Singapore;Singapore;1.325398,103.880874;01257591
+Monkey_D_Kataku;Monkey_D_Kataku;Monkey D Katakuri;574;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01261794
+Trafalgar_D_Duk;Trafalgar_D_Duk;Trafalgar D Duke;260;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01263157
+Trafalgar_D_Cat;Trafalgar_D_Cat;Trafalgar D Cat Viper;715;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01262575
+Monkey_D_Gang_B;Monkey_D_Gang_B;Monkey D Gang Bege;655;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01258862
+X_Drake_Gladiat;X_Drake_Gladiat;X Drake Gladiator;616;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01262207
+X_Drake_Fishman;X_Drake_Fishman;X Drake Fishman;849;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01260864
+X_Drake_Mr2;X_Drake_Mr2;X Drake Mr2;286;"Sims Avenue";Singapore;Singapore;1.313754,103.876751;01263234
+X_Drake_Teach;X_Drake_Teach;X Drake Teach;868;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01260951
+X_Drake_Onigash;X_Drake_Onigash;X Drake Onigashima;732;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01263521
+Monkey_D_Fishma;Monkey_D_Fishma;Monkey D Fishman;859;"Lorong 33 Geylang";Singapore;Singapore;1.314257,103.887989;01263305
+Marshall_D_Law;Marshall_D_Law;Marshall D Law;477;"Sims Avenue";Singapore;Singapore;1.316186,103.887524;01264045
+Marshall_D_Fish;Marshall_D_Fish;Marshall D Fishman;634;"Tanjong Katong Road";Singapore;Singapore;1.308121,103.895077;01262515
+Marshall_D_Luff;Marshall_D_Luff;Marshall D Luffy;201;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01257817
+Monkey_D_Mad_Mo;Monkey_D_Mad_Mo;Monkey D Mad Monk;920;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01260606
+X_Drake_Oden;X_Drake_Oden;X Drake Oden;918;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01262726
+Portgas_D_Kid;Portgas_D_Kid;Portgas D Kid;524;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01262683
+Enel_Mr2;Enel_Mr2;Enel Mr2;781;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01263090
+Trafalgar_D_Ode;Trafalgar_D_Ode;Trafalgar D Oden;978;"Guillemard Road";Singapore;Singapore;1.310403,103.882010;01262584
+Portgas_D_Sir;Portgas_D_Sir;Portgas D Sir;990;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01263317
+Yamato_Mr2;Yamato_Mr2;Yamato Mr2;680;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01260661
+Marshall_D_Clow;Marshall_D_Clow;Marshall D Clown;348;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01258577
+Portgas_D_Oden;Portgas_D_Oden;Portgas D Oden;449;"Tanjong Katong Road";Singapore;Singapore;1.304861,103.896356;01257443
+Marshall_D_Kata;Marshall_D_Kata;Marshall D Katakuri;905;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263878
+Portgas_D_Dance;Portgas_D_Dance;Portgas D Dancer;531;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01259227
+Marshall_D_Gang;Marshall_D_Gang;Marshall D Gang Bege;797;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01263558
+Portgas_D_Marin;Portgas_D_Marin;Portgas D Marine;823;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01258475
+Monkey_D_Onigas;Monkey_D_Onigas;Monkey D Onigashima;106;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01258069
+Monkey_D_Cat_Vi;Monkey_D_Cat_Vi;Monkey D Cat Viper;446;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263283
+Marshall_D_Robi;Marshall_D_Robi;Marshall D Robin;473;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01262855
+Monkey_D_Luffy;Monkey_D_Luffy;Monkey D Luffy;574;"Tanjong Katong Road";Singapore;Singapore;1.308459,103.894899;01260265
+Monkey_D_Clown;Monkey_D_Clown;Monkey D Clown;545;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263153
+Donquixote_Mr2;Donquixote_Mr2;Donquixote Mr2;700;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01262465
+Monkey_D_Teach;Monkey_D_Teach;Monkey D Teach;173;"Lorong 33 Geylang";Singapore;Singapore;1.315797,103.887885;01263248
+X_Drake_Sanji;X_Drake_Sanji;X Drake Sanji;796;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01263047
+Portgas_D_Teach;Portgas_D_Teach;Portgas D Teach;81;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01257484
+Jewelry_Mr2;Jewelry_Mr2;Jewelry Mr2;162;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01262513
+X_Drake_Cat_Vip;X_Drake_Cat_Vip;X Drake Cat Viper;771;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01258615
+Portgas_D_Dofla;Portgas_D_Dofla;Portgas D Doflamingo;833;"Lorong 25 Geylang";Singapore;Singapore;1.314279,103.882528;01264013
+Marshall_D_Mari;Marshall_D_Mari;Marshall D Marine;6;"Geylang East Avenue 2";Singapore;Singapore;1.317158,103.890001;01263365
+Portgas_D_Revo;Portgas_D_Revo;Portgas D Revo;887;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01259187
+Trafalgar_D_Mar;Trafalgar_D_Mar;Trafalgar D Marine;506;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01259446
+Bentham_Mr2;Bentham_Mr2;Bentham Mr2;324;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01259199
+Monkey_D_Mermai;Monkey_D_Mermai;Monkey D Mermaid Princess;780;"Geylang Road";Singapore;Singapore;1.313369,103.883518;01258527
+X_Drake_Ace;X_Drake_Ace;X Drake Ace;436;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01257893
+Monkey_D_Choppe;Monkey_D_Choppe;Monkey D Chopper;913;"Sims Avenue";Singapore;Singapore;1.311498,103.872027;01262433
+Ivankov_Mr2;Ivankov_Mr2;Ivankov Mr2;108;"Lorong 27 Geylang";Singapore;Singapore;1.315859,103.883817;01258533
+Trafalgar_D_Oni;Trafalgar_D_Oni;Trafalgar D Onigashima;673;"Guillemard Road";Singapore;Singapore;1.311316,103.885966;01258743
+Monkey_D_Sanji;Monkey_D_Sanji;Monkey D Sanji;704;"Geylang Road";Singapore;Singapore;1.314658,103.891052;01258914
+Marshall_D_Star;Marshall_D_Star;Marshall D Star Clown;911;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263438
+Shanks_Mr2;Shanks_Mr2;Shanks Mr2;115;"Geylang East Avenue 2";Singapore;Singapore;1.316929,103.888472;01263401
+Trafalgar_D_Rev;Trafalgar_D_Rev;Trafalgar D Revo;247;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01260882
+Portgas_D_Gladi;Portgas_D_Gladi;Portgas D Gladiator;602;"Lorong 40 Geylang";Singapore;Singapore;1.313881,103.889303;01263358
+X_Drake_RedHair;X_Drake_RedHair;X Drake Red-Haired;749;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01261949
+Portgas_D_Law;Portgas_D_Law;Portgas D Law;99;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01259648
+Inuarashi_Mr2;Inuarashi_Mr2;Inuarashi Mr2;392;"Tanjong Katong Road";Singapore;Singapore;1.308121,103.895077;01260672
+Monkey_D_Bonney;Monkey_D_Bonney;Monkey D Bonney;119;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01262088
+Marshall_D_Okam;Marshall_D_Okam;Marshall D Okama;409;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01262241
+Marshall_D_God;Marshall_D_God;Marshall D God;976;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01257233
+X_Drake_Hancock;X_Drake_Hancock;X Drake Hancock;124;"Sims Avenue";Singapore;Singapore;1.314097,103.878333;01262957
+Trafalgar_D_Mad;Trafalgar_D_Mad;Trafalgar D Mad Monk;354;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01263573
+X_Drake_Mad_Mon;X_Drake_Mad_Mon;X Drake Mad Monk;722;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01258376
+Roronoa_Mr2;Roronoa_Mr2;Roronoa Mr2;153;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01259151
+Portgas_D_Chopp;Portgas_D_Chopp;Portgas D Chopper;574;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01263361
+Marshall_D_Oden;Marshall_D_Oden;Marshall D Oden;592;"Geylang Road";Singapore;Singapore;1.314031,103.887856;01258094
+Monkey_D_Marine;Monkey_D_Marine;Monkey D Marine;145;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01260950
+Dracule_Mr2;Dracule_Mr2;Dracule Mr2;259;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01262053
+X_Drake_Clown;X_Drake_Clown;X Drake Clown;697;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01258516
+Monkey_D_God;Monkey_D_God;Monkey D God;710;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01263475
+X_Drake_Mihawk;X_Drake_Mihawk;X Drake Mihawk;722;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01261050
+X_Drake_Revo;X_Drake_Revo;X Drake Revo;643;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01257560
+Trafalgar_D_Cyb;Trafalgar_D_Cyb;Trafalgar D Cyborg;475;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01257455
+X_Drake_Doflami;X_Drake_Doflami;X Drake Doflamingo;995;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01260843
+Monkey_D_Robin;Monkey_D_Robin;Monkey D Robin;708;"Lorong 33 Geylang";Singapore;Singapore;1.315599,103.887786;01257283
+Charlotte_Mr2;Charlotte_Mr2;Charlotte Mr2;692;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01262528
+Trafalgar_D_Gla;Trafalgar_D_Gla;Trafalgar D Gladiator;894;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01259749
+Portgas_D_Bonne;Portgas_D_Bonne;Portgas D Bonney;876;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01263250
+Marshall_D_Onig;Marshall_D_Onig;Marshall D Onigashima;162;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01263175
+Trafalgar_D_Law;Trafalgar_D_Law;Trafalgar D Law;644;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01262696

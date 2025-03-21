@@ -1,0 +1,483 @@
+code(*);customer_id;first_name;street_number;street_name;city(*);country(*);coordinate;meter_serial
+Urouge_Sanji;Urouge_Sanji;Urouge Sanji;56;"Guillemard Road";Singapore;Singapore;1.311185,103.885307;TEST_01
+Shanks_Star_Clown;Shanks_Star_Clown;Shanks Star Clown;803;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01262493
+Brook_Mihawk;Brook_Mihawk;Brook Mihawk;312;"Aljunied Road";Singapore;Singapore;1.322887,103.881316;01257796
+Tony_Tony_Chopper;Tony_Tony_Chopper;Tony Tony Chopper;476;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01261813
+Shanks_Gang_Bege;Shanks_Gang_Bege;Shanks Gang Bege;240;"Geylang Road";Singapore;Singapore;1.316096,103.897248;01262550
+Tony_Tony_Mihawk;Tony_Tony_Mihawk;Tony Tony Mihawk;435;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01262419
+Capone_Ace;Capone_Ace;Capone Ace;857;"Geylang Road";Singapore;Singapore;1.314322,103.888354;01262867
+Jewelry_God;Jewelry_God;Jewelry God;353;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01260012
+Bentham_Kid;Bentham_Kid;Bentham Kid;717;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01260303
+Kozuki_Sanji;Kozuki_Sanji;Kozuki Sanji;12;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01259170
+Buggy_Onigashima;Buggy_Onigashima;Buggy Onigashima;502;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263810
+Nico_God;Nico_God;Nico God;480;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01257734
+Vinsmoke_Sir;Vinsmoke_Sir;Vinsmoke Sir;263;"Tanjong Katong Road";Singapore;Singapore;1.307772,103.895571;01262094
+Nekomamushi_Marine;Nekomamushi_Marine;Nekomamushi Marine;795;"Sims Avenue";Singapore;Singapore;1.310484,103.870335;01262571
+Portgas_D_Mermaid_Princess;Portgas_D_Mermaid_Princess;Portgas D. Mermaid Princess;20;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01261464
+Bentham_Mad_Monk;Bentham_Mad_Monk;Bentham Mad Monk;915;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01263173
+Dracule_Teach;Dracule_Teach;Dracule Teach;631;"Geylang Road";Singapore;Singapore;1.311765,103.875771;01263762
+Vinsmoke_Hancock;Vinsmoke_Hancock;Vinsmoke Hancock;568;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01260889
+Buggy_Zoro;Buggy_Zoro;Buggy Zoro;356;"Geylang Road";Singapore;Singapore;1.312682,103.880948;01257594
+Tony_Tony_Marine;Tony_Tony_Marine;Tony Tony Marine;693;"Geylang East Avenue 2";Singapore;Singapore;1.316305,103.888140;01263689
+Boa_Vivi;Boa_Vivi;Boa Vivi;343;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01257408
+Dracule_Marine;Dracule_Marine;Dracule Marine;360;"Tanjong Katong Road";Singapore;Singapore;1.305358,103.896144;01258134
+Portgas_D_Gang_Bege;Portgas_D_Gang_Bege;Portgas D. Gang Bege;866;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263473
+Dracule_Dancer;Dracule_Dancer;Dracule Dancer;705;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01257951
+Arlong_Fishman;Arlong_Fishman;Arlong Fishman;503;"Lorong 25 Geylang";Singapore;Singapore;1.315701,103.882550;01261189
+Vinsmoke_Bonney;Vinsmoke_Bonney;Vinsmoke Bonney;427;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01262224
+X_Drake_Sir;X_Drake_Sir;X. Drake Sir;149;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01263362
+Inuarashi_Fishman;Inuarashi_Fishman;Inuarashi Fishman;894;"Lorong 16 Geylang";Singapore;Singapore;1.311786,103.879886;01258375
+Jewelry_Star_Clown;Jewelry_Star_Clown;Jewelry Star Clown;484;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01263177
+Kozuki_Mad_Monk;Kozuki_Mad_Monk;Kozuki Mad Monk;22;"Lorong 16 Geylang";Singapore;Singapore;1.311786,103.879886;01262980
+Inuarashi_Cat_Viper;Inuarashi_Cat_Viper;Inuarashi Cat Viper;325;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01262223
+Marshall_D_Hancock;Marshall_D_Hancock;Marshall D. Hancock;195;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01257985
+Sabo_Cyborg;Sabo_Cyborg;Sabo Cyborg;275;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01262114
+Inuarashi_Dancer;Inuarashi_Dancer;Inuarashi Dancer;714;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01262431
+Portgas_D_Star_Clown;Portgas_D_Star_Clown;Portgas D. Star Clown;663;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01259314
+Marshall_D_Vivi;Marshall_D_Vivi;Marshall D. Vivi;553;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01257498
+Inuarashi_Mad_Monk;Inuarashi_Mad_Monk;Inuarashi Mad Monk;998;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01257843
+Roronoa_Revo;Roronoa_Revo;Roronoa Revo;530;"Guillemard Road";Singapore;Singapore;1.310910,103.884459;01264042
+Arlong_Cat_Viper;Arlong_Cat_Viper;Arlong Cat Viper;349;"Aljunied Road";Singapore;Singapore;1.329290,103.879483;01258078
+Roronoa_Mad_Monk;Roronoa_Mad_Monk;Roronoa Mad Monk;780;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01263560
+Donquixote_Gladiator;Donquixote_Gladiator;Donquixote Gladiator;659;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01258189
+Kozuki_Vivi;Kozuki_Vivi;Kozuki Vivi;69;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01263441
+Enel_Luffy;Enel_Luffy;Enel Luffy;870;"Lorong 33 Geylang";Singapore;Singapore;1.315599,103.887786;01257806
+Arlong_God;Arlong_God;Arlong God;96;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01262501
+Yamato_Gladiator;Yamato_Gladiator;Yamato Gladiator;795;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01262464
+Shanks_Bonney;Shanks_Bonney;Shanks Bonney;19;"Lorong 28 Geylang";Singapore;Singapore;1.312279,103.885597;01260658
+Brook_RedHaired;Brook_RedHaired;Brook Red-Haired;198;"Guillemard Road";Singapore;Singapore;1.310403,103.882010;01263076
+Enel_Sanji;Enel_Sanji;Enel Sanji;976;"Sims Avenue";Singapore;Singapore;1.319128,103.904389;01261551
+Roronoa_Mermaid_Princess;Roronoa_Mermaid_Princess;Roronoa Mermaid Princess;358;"Guillemard Road";Singapore;Singapore;1.310882,103.883859;01259009
+X_Drake_Bonney;X_Drake_Bonney;X. Drake Bonney;449;"Lorong 28 Geylang";Singapore;Singapore;1.312589,103.885594;01263247
+Buggy_Sanji;Buggy_Sanji;Buggy Sanji;362;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01263245
+Kozuki_Revo;Kozuki_Revo;Kozuki Revo;374;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01263639
+Roronoa_Teach;Roronoa_Teach;Roronoa Teach;732;"Lorong 33 Geylang";Singapore;Singapore;1.314985,103.887829;01258861
+Yamato_RedHaired;Yamato_RedHaired;Yamato Red-Haired;31;"Lorong 12 Geylang";Singapore;Singapore;1.310388,103.878782;01258243
+Portgas_D_Hancock;Portgas_D_Hancock;Portgas D. Hancock;300;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01259069
+Enel_Sir;Enel_Sir;Enel Sir;441;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01258042
+Eustass_Ace;Eustass_Ace;Eustass Ace;644;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01262619
+Marshall_D_Fishman;Marshall_D_Fishman;Marshall D. Fishman;875;"Aljunied Road";Singapore;Singapore;1.325398,103.880874;01257591
+Monkey_D_Katakuri;Monkey_D_Katakuri;Monkey D. Katakuri;574;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01261794
+Trafalgar_D_Duke;Trafalgar_D_Duke;Trafalgar D. Duke;260;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01263157
+Trafalgar_D_Cat_Viper;Trafalgar_D_Cat_Viper;Trafalgar D. Cat Viper;715;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01262575
+Yamato_Law;Yamato_Law;Yamato Law;245;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01263969
+Nekomamushi_Cyborg;Nekomamushi_Cyborg;Nekomamushi Cyborg;363;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01262449
+Yamato_Okama;Yamato_Okama;Yamato (Okama);289;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01257803
+Monkey_D_Gang_Bege;Monkey_D_Gang_Bege;Monkey D. Gang Bege;655;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01258862
+Donquixote_Duke;Donquixote_Duke;Donquixote Duke;284;"Aljunied Road";Singapore;Singapore;1.324154,103.881058;01262553
+Dracule_Okama;Dracule_Okama;Dracule (Okama);953;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01258865
+X_Drake_Gladiator;X_Drake_Gladiator;X. Drake Gladiator;616;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01262207
+X_Drake_Fishman;X_Drake_Fishman;X. Drake Fishman;849;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01260864
+Arlong_Gang_Bege;Arlong_Gang_Bege;Arlong Gang Bege;423;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01259242
+Tony_Tony_Okama;Tony_Tony_Okama;Tony Tony (Okama);755;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01262964
+Crocodile_Dancer;Crocodile_Dancer;Crocodile Dancer;370;"Jalan Dua";Singapore;Singapore;1.309179,103.888446;01258030
+Shanks_Cyborg;Shanks_Cyborg;Shanks Cyborg;846;"Geylang East Avenue 2";Singapore;Singapore;1.316197,103.888081;01259457
+Crocodile_God;Crocodile_God;Crocodile God;628;"Aljunied Road";Singapore;Singapore;1.331096,103.878988;01261286
+Yamato_Zoro;Yamato_Zoro;Yamato Zoro;732;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01263210
+Shirahoshi_Robin;Shirahoshi_Robin;Shirahoshi Robin;384;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01261567
+Brook_Ace;Brook_Ace;Brook Ace;46;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01259594
+Enel_Kid;Enel_Kid;Enel Kid;522;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01263161
+Enel_Marine;Enel_Marine;Enel Marine;182;"Aljunied Road";Singapore;Singapore;1.331096,103.878988;01263455
+Roronoa_Kid;Roronoa_Kid;Roronoa Kid;358;"Lorong 16 Geylang";Singapore;Singapore;1.312309,103.879837;01261578
+Sabo_Ace;Sabo_Ace;Sabo Ace;454;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01263396
+X_Drake_Mr2;X_Drake_Mr2;X. Drake Mr.2;286;"Sims Avenue";Singapore;Singapore;1.313754,103.876751;01263234
+X_Drake_Teach;X_Drake_Teach;X. Drake Teach;868;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01260951
+Kozuki_Zoro;Kozuki_Zoro;Kozuki Zoro;244;"Sims Avenue";Singapore;Singapore;1.318016,103.898978;01259550
+Arlong_Zoro;Arlong_Zoro;Arlong Zoro;873;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01263168
+Kozuki_Ace;Kozuki_Ace;Kozuki Ace;132;"Geylang Road";Singapore;Singapore;1.315855,103.895967;01261329
+Crocodile_Fishman;Crocodile_Fishman;Crocodile Fishman;404;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01263205
+X_Drake_Onigashima;X_Drake_Onigashima;X. Drake Onigashima;732;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01263521
+Jewelry_Luffy;Jewelry_Luffy;Jewelry Luffy;87;"Lorong Bachok";Singapore;Singapore;1.314037,103.880050;01258595
+Shanks_Fishman;Shanks_Fishman;Shanks Fishman;641;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01258357
+Boa_God;Boa_God;Boa God;651;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01263300
+Monkey_D_Fishman;Monkey_D_Fishman;Monkey D. Fishman;859;"Lorong 33 Geylang";Singapore;Singapore;1.314257,103.887989;01263305
+Vinsmoke_Law;Vinsmoke_Law;Vinsmoke Law;338;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01263557
+Boa_Mad_Monk;Boa_Mad_Monk;Boa Mad Monk;841;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01257955
+Marshall_D_Law;Marshall_D_Law;Marshall D. Law;477;"Sims Avenue";Singapore;Singapore;1.316186,103.887524;01264045
+Shirahoshi_Zoro;Shirahoshi_Zoro;Shirahoshi Zoro;28;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01263351
+Buggy_Kid;Buggy_Kid;Buggy Kid;4;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01258144
+Boa_Chopper;Boa_Chopper;Boa Chopper;562;"Sims Avenue";Singapore;Singapore;1.313754,103.876751;01257078
+Arlong_Dancer;Arlong_Dancer;Arlong Dancer;731;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01258659
+Marshall_D_Fishman;Marshall_D_Fishman;Marshall D. Fishman;634;"Tanjong Katong Road";Singapore;Singapore;1.308121,103.895077;01262515
+Brook_Kid;Brook_Kid;Brook Kid;51;"Lorong 33 Geylang";Singapore;Singapore;1.314257,103.887989;01262447
+Tony_Tony_Katakuri;Tony_Tony_Katakuri;Tony Tony Katakuri;790;"Sims Avenue";Singapore;Singapore;1.319128,103.904389;01263428
+Enel_Mad_Monk;Enel_Mad_Monk;Enel Mad Monk;219;"Lorong 40 Geylang";Singapore;Singapore;1.313164,103.889899;01261852
+Roronoa_Marine;Roronoa_Marine;Roronoa Marine;649;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01262555
+Donquixote_Onigashima;Donquixote_Onigashima;Donquixote Onigashima;397;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01262505
+Nekomamushi_Sir;Nekomamushi_Sir;Nekomamushi Sir;640;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01263547
+Marshall_D_Luffy;Marshall_D_Luffy;Marshall D. Luffy;201;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01257817
+Nefertari_God;Nefertari_God;Nefertari God;672;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01263431
+Donquixote_Fishman;Donquixote_Fishman;Donquixote Fishman;68;"Lorong 27 Geylang";Singapore;Singapore;1.313563,103.883757;01257292
+Monkey_D_Mad_Monk;Monkey_D_Mad_Monk;Monkey D. Mad Monk;920;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01260606
+Eustass_Mermaid_Princess;Eustass_Mermaid_Princess;Eustass Mermaid Princess;492;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01263765
+Enel_Bonney;Enel_Bonney;Enel Bonney;46;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01263121
+Nefertari_Mihawk;Nefertari_Mihawk;Nefertari Mihawk;125;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01263312
+Charlotte_Teach;Charlotte_Teach;Charlotte Teach;11;"Geylang Road";Singapore;Singapore;1.314755,103.894922;01257572
+X_Drake_Oden;X_Drake_Oden;X. Drake Oden;918;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01262726
+Boa_Kid;Boa_Kid;Boa Kid;496;"Sims Avenue";Singapore;Singapore;1.315966,103.888263;01259287
+Charlotte_Mihawk;Charlotte_Mihawk;Charlotte Mihawk;14;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01257699
+Sabo_Fishman;Sabo_Fishman;Sabo Fishman;754;"Geylang East Avenue 2";Singapore;Singapore;1.316197,103.888081;01262558
+Nekomamushi_Onigashima;Nekomamushi_Onigashima;Nekomamushi Onigashima;130;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01259442
+Buggy_Marine;Buggy_Marine;Buggy Marine;899;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01261555
+Portgas_D_Kid;Portgas_D_Kid;Portgas D. Kid;524;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01262683
+Jimbei_Clown;Jimbei_Clown;Jimbei Clown;344;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01257515
+Arlong_Duke;Arlong_Duke;Arlong Duke;944;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01257464
+Enel_Mr2;Enel_Mr2;Enel Mr.2;781;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01263090
+Trafalgar_D_Oden;Trafalgar_D_Oden;Trafalgar D. Oden;978;"Guillemard Road";Singapore;Singapore;1.310403,103.882010;01262584
+Eustass_Teach;Eustass_Teach;Eustass Teach;801;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01262255
+Jimbei_Hancock;Jimbei_Hancock;Jimbei Hancock;988;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01260990
+Jimbei_Kid;Jimbei_Kid;Jimbei Kid;351;"Lorong 27 Geylang";Singapore;Singapore;1.314348,103.883743;01263186
+Boa_Bonney;Boa_Bonney;Boa Bonney;939;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01262421
+Yamato_God;Yamato_God;Yamato God;688;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01262430
+Sabo_Katakuri;Sabo_Katakuri;Sabo Katakuri;945;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01258879
+Shanks_Dancer;Shanks_Dancer;Shanks Dancer;262;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01264032
+Shirahoshi_Dancer;Shirahoshi_Dancer;Shirahoshi Dancer;427;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01258528
+Kozuki_Cyborg;Kozuki_Cyborg;Kozuki Cyborg;642;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01257729
+Vinsmoke_Revo;Vinsmoke_Revo;Vinsmoke Revo;216;"Tanjong Katong Road";Singapore;Singapore;1.307258,103.895237;01262503
+Eustass_Cyborg;Eustass_Cyborg;Eustass Cyborg;604;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01262610
+Arlong_Onigashima;Arlong_Onigashima;Arlong Onigashima;177;"Tanjong Katong Road";Singapore;Singapore;1.300578,103.897151;01262456
+Buggy_Revo;Buggy_Revo;Buggy Revo;593;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01262402
+Buggy_Chopper;Buggy_Chopper;Buggy Chopper;215;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01262463
+Portgas_D_Sir;Portgas_D_Sir;Portgas D. Sir;990;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01263317
+Franky_Duke;Franky_Duke;Franky Duke;202;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01257604
+Ivankov_Fishman;Ivankov_Fishman;Ivankov Fishman;661;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01263808
+Rebecca_Robin;Rebecca_Robin;Rebecca Robin;409;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01261242
+Yamato_Mr2;Yamato_Mr2;Yamato Mr.2;680;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01260661
+Nefertari_Cat_Viper;Nefertari_Cat_Viper;Nefertari Cat Viper;877;"Geylang East Avenue 1";Singapore;Singapore;1.317633,103.885626;01262724
+Shirahoshi_Clown;Shirahoshi_Clown;Shirahoshi Clown;356;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01257559
+Enel_Law;Enel_Law;Enel Law;238;"Paya Lebar Road";Singapore;Singapore;1.332453,103.889079;01257808
+Dracule_Cat_Viper;Dracule_Cat_Viper;Dracule Cat Viper;12;"Sims Avenue";Singapore;Singapore;1.318016,103.898978;01263334
+Inuarashi_Fishman;Inuarashi_Fishman;Inuarashi Fishman;792;"Lorong 33 Geylang";Singapore;Singapore;1.314985,103.887829;01257783
+Arlong_Clown;Arlong_Clown;Arlong Clown;983;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263124
+Marshall_D_Clown;Marshall_D_Clown;Marshall D. Clown;348;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01258577
+Pekoms_Cat_Viper;Pekoms_Cat_Viper;Pekoms Cat Viper;662;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01258530
+Boa_Star_Clown;Boa_Star_Clown;Boa Star Clown;662;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01263880
+Crocodile_Doflamingo;Crocodile_Doflamingo;Crocodile Doflamingo;672;"Geylang Road";Singapore;Singapore;1.314515,103.890311;01258255
+Yamato_Cyborg;Yamato_Cyborg;Yamato Cyborg;705;"Tanjong Katong Road";Singapore;Singapore;1.307455,103.895417;01262406
+Enel_Cyborg;Enel_Cyborg;Enel Cyborg;451;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01262512
+Jewelry_Ace;Jewelry_Ace;Jewelry Ace;860;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01262454
+Dracule_Duke;Dracule_Duke;Dracule Duke;651;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01259780
+Bentham_Gang_Bege;Bentham_Gang_Bege;Bentham Gang Bege;76;"Guillemard Road";Singapore;Singapore;1.309616,103.880417;01261528
+Donquixote_Chopper;Donquixote_Chopper;Donquixote Chopper;522;"Sims Avenue";Singapore;Singapore;1.313754,103.876751;01261006
+Bentham_Oden;Bentham_Oden;Bentham Oden;196;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01261071
+Shanks_Mermaid_Princess;Shanks_Mermaid_Princess;Shanks Mermaid Princess;773;"Paya Lebar Road";Singapore;Singapore;1.330617,103.889438;01260865
+Portgas_D_Oden;Portgas_D_Oden;Portgas D. Oden;449;"Tanjong Katong Road";Singapore;Singapore;1.304861,103.896356;01257443
+Rebecca_Gang_Bege;Rebecca_Gang_Bege;Rebecca Gang Bege;957;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01261433
+Yamato_Dancer;Yamato_Dancer;Yamato Dancer;370;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01262723
+Inuarashi_Luffy;Inuarashi_Luffy;Inuarashi Luffy;468;"Paya Lebar Road";Singapore;Singapore;1.319647,103.891600;01262472
+Franky_Katakuri;Franky_Katakuri;Franky Katakuri;984;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01263394
+Marshall_D_Katakuri;Marshall_D_Katakuri;Marshall D. Katakuri;905;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263878
+Jimbei_Mihawk;Jimbei_Mihawk;Jimbei Mihawk;759;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01258338
+Viola_Cyborg;Viola_Cyborg;Viola Cyborg;874;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01258612
+Ivankov_Sanji;Ivankov_Sanji;Ivankov Sanji;185;"Lorong 33 Geylang";Singapore;Singapore;1.314257,103.887989;01262462
+Crocodile_Mad_Monk;Crocodile_Mad_Monk;Crocodile Mad Monk;419;"Tanjong Katong Road";Singapore;Singapore;1.304861,103.896356;01258534
+Portgas_D_Dancer;Portgas_D_Dancer;Portgas D. Dancer;531;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01259227
+Marshall_D_Gang_Bege;Marshall_D_Gang_Bege;Marshall D. Gang Bege;797;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01263558
+Portgas_D_Marine;Portgas_D_Marine;Portgas D. Marine;823;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01258475
+Shirahoshi_Mad_Monk;Shirahoshi_Mad_Monk;Shirahoshi Mad Monk;873;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01257845
+Shanks_Luffy;Shanks_Luffy;Shanks Luffy;286;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01257630
+Bentham_Duke;Bentham_Duke;Bentham Duke;863;"Sims Avenue";Singapore;Singapore;1.313754,103.876751;01262958
+Bentham_Cat_Viper;Bentham_Cat_Viper;Bentham Cat Viper;423;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01257688
+Dracule_Onigashima;Dracule_Onigashima;Dracule Onigashima;309;"Tanjong Katong Road";Singapore;Singapore;1.306196,103.896055;01258431
+Boa_Mihawk;Boa_Mihawk;Boa Mihawk;609;"Sims Avenue";Singapore;Singapore;1.319128,103.904389;01263216
+Donquixote_Sir;Donquixote_Sir;Donquixote Sir;744;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01260970
+Monkey_D_Onigashima;Monkey_D_Onigashima;Monkey D. Onigashima;106;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01258069
+Brook_Chopper;Brook_Chopper;Brook Chopper;295;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01257819
+Donquixote_Revo;Donquixote_Revo;Donquixote Revo;665;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01262478
+Vinsmoke_Doflamingo;Vinsmoke_Doflamingo;Vinsmoke Doflamingo;813;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01258025
+Nefertari_Cyborg;Nefertari_Cyborg;Nefertari Cyborg;305;"Tanjong Katong Road";Singapore;Singapore;1.306296,103.896019;01262428
+Crocodile_Chopper;Crocodile_Chopper;Crocodile Chopper;292;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01261137
+Dracule_Sir;Dracule_Sir;Dracule Sir;677;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01263193
+Monkey_D_Cat_Viper;Monkey_D_Cat_Viper;Monkey D. Cat Viper;446;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263283
+Bentham_Mermaid_Princess;Bentham_Mermaid_Princess;Bentham Mermaid Princess;404;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01258477
+Marshall_D_Robin;Marshall_D_Robin;Marshall D. Robin;473;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01262855
+Crocodile_Revo;Crocodile_Revo;Crocodile Revo;544;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01263855
+Vinsmoke_Fishman;Vinsmoke_Fishman;Vinsmoke Fishman;912;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01263886
+Jewelry_Fishman;Jewelry_Fishman;Jewelry Fishman;211;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01261459
+Monkey_D_Luffy;Monkey_D_Luffy;Monkey D. Luffy;574;"Tanjong Katong Road";Singapore;Singapore;1.308459,103.894899;01260265
+Monkey_D_Clown;Monkey_D_Clown;Monkey D. Clown;545;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263153
+Donquixote_Mr2;Donquixote_Mr2;Donquixote Mr.2;700;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01262465
+Nico_Ace;Nico_Ace;Nico Ace;722;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01262448
+Roronoa_Clown;Roronoa_Clown;Roronoa Clown;365;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01257260
+Tony_Tony_Gang_Bege;Tony_Tony_Gang_Bege;Tony Tony Gang Bege;415;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01260272
+Tony_Tony_Law;Tony_Tony_Law;Tony Tony Law;408;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01262432
+Eustass_Mihawk;Eustass_Mihawk;Eustass Mihawk;727;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263268
+Vinsmoke_Mad_Monk;Vinsmoke_Mad_Monk;Vinsmoke Mad Monk;660;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01263226
+Caesar_Mad_Monk;Caesar_Mad_Monk;Caesar Mad Monk;395;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01263155
+Koala_RedHaired;Koala_RedHaired;Koala Red-Haired;350;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01261170
+Monkey_D_Teach;Monkey_D_Teach;Monkey D. Teach;173;"Lorong 33 Geylang";Singapore;Singapore;1.315797,103.887885;01263248
+X_Drake_Sanji;X_Drake_Sanji;X. Drake Sanji;796;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01263047
+Donquixote_Sanji;Donquixote_Sanji;Donquixote Sanji;111;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01260378
+Pedro_Mermaid_Princess;Pedro_Mermaid_Princess;Pedro Mermaid Princess;634;"Guillemard Road";Singapore;Singapore;1.311316,103.885966;01262953
+Tony_Tony_Ace;Tony_Tony_Ace;Tony Tony Ace;109;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01260337
+Caesar_Robin;Caesar_Robin;Caesar Robin;666;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01263211
+Shanks_RedHaired;Shanks_RedHaired;Shanks Red-Haired;799;"Geylang East Avenue 2";Singapore;Singapore;1.319345,103.888818;01261379
+Portgas_D_Teach;Portgas_D_Teach;Portgas D. Teach;81;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01257484
+Franky_Mermaid_Princess;Franky_Mermaid_Princess;Franky Mermaid Princess;882;"Jalan Enam";Singapore;Singapore;1.307334,103.885615;01262661
+Yamato_Gang_Bege;Yamato_Gang_Bege;Yamato Gang Bege;919;"Lorong 16 Geylang";Singapore;Singapore;1.311786,103.879886;01263359
+Franky_Onigashima;Franky_Onigashima;Franky Onigashima;510;"Geylang East Avenue 2";Singapore;Singapore;1.316929,103.888472;01263103
+Kozuki_Luffy;Kozuki_Luffy;Kozuki Luffy;507;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01262403
+Viola_Revo;Viola_Revo;Viola Revo;143;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01261708
+Shirahoshi_Duke;Shirahoshi_Duke;Shirahoshi Duke;873;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01258461
+Inuarashi_Okama;Inuarashi_Okama;Inuarashi (Okama);278;"Jalan Enam";Singapore;Singapore;1.307334,103.885615;01263371
+Jewelry_Mr2;Jewelry_Mr2;Jewelry Mr.2;162;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01262513
+Sabo_Chopper;Sabo_Chopper;Sabo Chopper;97;"Guillemard Road";Singapore;Singapore;1.311316,103.885966;01262602
+Donquixote_Mermaid_Princess;Donquixote_Mermaid_Princess;Donquixote Mermaid Princess;582;"Sims Avenue";Singapore;Singapore;1.315242,103.883405;01259414
+Viola_Chopper;Viola_Chopper;Viola Chopper;72;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01257275
+Charlotte_Mad_Monk;Charlotte_Mad_Monk;Charlotte Mad Monk;881;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01258535
+Inuarashi_Robin;Inuarashi_Robin;Inuarashi Robin;242;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01263117
+Pedro_Hancock;Pedro_Hancock;Pedro Hancock;949;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01261648
+X_Drake_Cat_Viper;X_Drake_Cat_Viper;X. Drake Cat Viper;771;"Guillemard Road";Singapore;Singapore;1.309288,103.878047;01258615
+Sabo_Oden;Sabo_Oden;Sabo Oden;965;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01260708
+Viola_Onigashima;Viola_Onigashima;Viola Onigashima;162;"Lorong 16 Geylang";Singapore;Singapore;1.311786,103.879886;01259564
+Crocodile_Clown;Crocodile_Clown;Crocodile Clown;170;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01259463
+Nefertari_Mermaid_Princess;Nefertari_Mermaid_Princess;Nefertari Mermaid Princess;951;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01257162
+Caesar_Onigashima;Caesar_Onigashima;Caesar Onigashima;377;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01259202
+Jewelry_Kid;Jewelry_Kid;Jewelry Kid;196;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01262422
+Caesar_Ace;Caesar_Ace;Caesar Ace;594;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01262184
+Arlong_Star_Clown;Arlong_Star_Clown;Arlong Star Clown;224;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01258176
+Sabo_Clown;Sabo_Clown;Sabo Clown;882;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01258856
+Eustass_Zoro;Eustass_Zoro;Eustass Zoro;703;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01263400
+Nekomamushi_RedHaired;Nekomamushi_RedHaired;Nekomamushi Red-Haired;82;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01263453
+Charlotte_Revo;Charlotte_Revo;Charlotte Revo;917;"Lorong 38 Geylang";Singapore;Singapore;1.313951,103.888916;01263192
+Pedro_Cyborg;Pedro_Cyborg;Pedro Cyborg;907;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01262901
+Sabo_RedHaired;Sabo_RedHaired;Sabo Red-Haired;429;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01263333
+Nekomamushi_Chopper;Nekomamushi_Chopper;Nekomamushi Chopper;981;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01262477
+Franky_Law;Franky_Law;Franky Law;493;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01263360
+Donquixote_Doflamingo;Donquixote_Doflamingo;Donquixote Doflamingo;993;"Jalan Enam";Singapore;Singapore;1.307604,103.885438;01263562
+Charlotte_Okama;Charlotte_Okama;Charlotte (Okama);619;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01263224
+Brook_Cat_Viper;Brook_Cat_Viper;Brook Cat Viper;818;"Lorong 33 Geylang";Singapore;Singapore;1.316027,103.888000;01257142
+Roronoa_Gang_Bege;Roronoa_Gang_Bege;Roronoa Gang Bege;103;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01259173
+Dracule_Mihawk;Dracule_Mihawk;Dracule Mihawk;430;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01260859
+Pedro_Mihawk;Pedro_Mihawk;Pedro Mihawk;553;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01262439
+Nefertari_Zoro;Nefertari_Zoro;Nefertari Zoro;921;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01261891
+Roronoa_Gladiator;Roronoa_Gladiator;Roronoa Gladiator;551;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01257791
+Arlong_Robin;Arlong_Robin;Arlong Robin;883;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01262613
+Vinsmoke_Duke;Vinsmoke_Duke;Vinsmoke Duke;237;"Geylang East Avenue 2";Singapore;Singapore;1.318552,103.889010;01263316
+Crocodile_Luffy;Crocodile_Luffy;Crocodile Luffy;512;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01263131
+Portgas_D_Doflamingo;Portgas_D_Doflamingo;Portgas D. Doflamingo;833;"Lorong 25 Geylang";Singapore;Singapore;1.314279,103.882528;01264013
+Marshall_D_Marine;Marshall_D_Marine;Marshall D. Marine;6;"Geylang East Avenue 2";Singapore;Singapore;1.317158,103.890001;01263365
+Portgas_D_Revo;Portgas_D_Revo;Portgas D. Revo;887;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01259187
+Ivankov_Fishman;Ivankov_Fishman;Ivankov Fishman;355;"Tanjong Katong Road";Singapore;Singapore;1.303616,103.896680;01259909
+Trafalgar_D_Marine;Trafalgar_D_Marine;Trafalgar D. Marine;506;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01259446
+Bentham_Mr2;Bentham_Mr2;Bentham Mr.2;324;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01259199
+Vinsmoke_Teach;Vinsmoke_Teach;Vinsmoke Teach;226;"Lorong 16 Geylang";Singapore;Singapore;1.311786,103.879886;01259949
+Eustass_Mad_Monk;Eustass_Mad_Monk;Eustass Mad Monk;246;"Tanjong Katong Road";Singapore;Singapore;1.306358,103.895616;01263243
+Viola_Luffy;Viola_Luffy;Viola Luffy;515;"Lorong 27 Geylang";Singapore;Singapore;1.315859,103.883817;01259619
+Roronoa_Doflamingo;Roronoa_Doflamingo;Roronoa Doflamingo;558;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01260757
+Kozuki_Robin;Kozuki_Robin;Kozuki Robin;748;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01263189
+Rebecca_Mad_Monk;Rebecca_Mad_Monk;Rebecca Mad Monk;863;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01263174
+Yamato_Vivi;Yamato_Vivi;Yamato Vivi;526;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01259445
+Vinsmoke_Dancer;Vinsmoke_Dancer;Vinsmoke Dancer;199;"Lorong 27 Geylang";Singapore;Singapore;1.315859,103.883817;01261310
+Enel_Ace;Enel_Ace;Enel Ace;634;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01263472
+Dracule_God;Dracule_God;Dracule God;559;"Paya Lebar Road";Singapore;Singapore;1.328633,103.889822;01261172
+Sabo_Cat_Viper;Sabo_Cat_Viper;Sabo Cat Viper;291;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01260207
+Rebecca_Cat_Viper;Rebecca_Cat_Viper;Rebecca Cat Viper;606;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01260858
+Nico_Sanji;Nico_Sanji;Nico Sanji;798;"Geylang East Avenue 1";Singapore;Singapore;1.317657,103.885703;01259906
+Enel_Okama;Enel_Okama;Enel (Okama);893;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01263328
+Bentham_God;Bentham_God;Bentham God;81;"Paya Lebar Road";Singapore;Singapore;1.329271,103.889845;01262248
+Arlong_Revo;Arlong_Revo;Arlong Revo;308;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01263147
+Monkey_D_Mermaid_Princess;Monkey_D_Mermaid_Princess;Monkey D. Mermaid Princess;780;"Geylang Road";Singapore;Singapore;1.313369,103.883518;01258527
+Donquixote_Star_Clown;Donquixote_Star_Clown;Donquixote Star Clown;637;"Lorong 27 Geylang";Singapore;Singapore;1.315859,103.883817;01258090
+Boa_Oden;Boa_Oden;Boa Oden;798;"Aljunied Road";Singapore;Singapore;1.320843,103.881743;01263244
+Pekoms_Gang_Bege;Pekoms_Gang_Bege;Pekoms Gang Bege;894;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01262688
+Eustass_Kid;Eustass_Kid;Eustass Kid;152;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01263154
+Bentham_Clown;Bentham_Clown;Bentham Clown;953;"Lorong 10 Geylang";Singapore;Singapore;1.312150,103.877529;01261025
+Nico_Katakuri;Nico_Katakuri;Nico Katakuri;353;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01263118
+Buggy_Luffy;Buggy_Luffy;Buggy Luffy;625;"Geylang Road";Singapore;Singapore;1.313369,103.883518;01257509
+Eustass_Okama;Eustass_Okama;Eustass (Okama);544;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01263566
+Jewelry_Revo;Jewelry_Revo;Jewelry Revo;235;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01263517
+X_Drake_Ace;X_Drake_Ace;X. Drake Ace;436;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01257893
+Nefertari_Doflamingo;Nefertari_Doflamingo;Nefertari Doflamingo;183;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01263252
+Inuarashi_Gladiator;Inuarashi_Gladiator;Inuarashi Gladiator;216;"Lorong 16 Geylang";Singapore;Singapore;1.311786,103.879886;01263520
+Shanks_Duke;Shanks_Duke;Shanks Duke;35;"Geylang East Avenue 2";Singapore;Singapore;1.318016,103.888966;01260849
+Yamato_Duke;Yamato_Duke;Yamato Duke;314;"Jalan Dua";Singapore;Singapore;1.308984,103.887473;01258714
+Crocodile_Sir;Crocodile_Sir;Crocodile Sir;928;"Lorong 33 Geylang";Singapore;Singapore;1.315043,103.887816;01258321
+Urouge_Luffy;Urouge_Luffy;Urouge Luffy;190;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01257393
+Pedro_Fishman;Pedro_Fishman;Pedro Fishman;890;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01262500
+Enel_Robin;Enel_Robin;Enel Robin;414;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01257731
+Monkey_D_Chopper;Monkey_D_Chopper;Monkey D. Chopper;913;"Sims Avenue";Singapore;Singapore;1.311498,103.872027;01262433
+Roronoa_Sir;Roronoa_Sir;Roronoa Sir;759;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01258713
+Jewelry_Hancock;Jewelry_Hancock;Jewelry Hancock;157;"Aljunied Road";Singapore;Singapore;1.327641,103.880045;01257056
+Jewelry_Mad_Monk;Jewelry_Mad_Monk;Jewelry Mad Monk;72;"Jalan Enam";Singapore;Singapore;1.307334,103.885615;01258911
+Boa_Sir;Boa_Sir;Boa Sir;943;"Aljunied Road";Singapore;Singapore;1.329718,103.879493;01263220
+Nekomamushi_Fishman;Nekomamushi_Fishman;Nekomamushi Fishman;907;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01258998
+Crocodile_Teach;Crocodile_Teach;Crocodile Teach;637;"Jalan Enam";Singapore;Singapore;1.307334,103.885615;01257851
+Bentham_Robin;Bentham_Robin;Bentham Robin;632;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263516
+Sabo_God;Sabo_God;Sabo God;579;"Lorong 25 Geylang";Singapore;Singapore;1.313488,103.882843;01262056
+Jewelry_Onigashima;Jewelry_Onigashima;Jewelry Onigashima;130;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01257642
+Ivankov_Dancer;Ivankov_Dancer;Ivankov Dancer;711;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01261010
+Eustass_God;Eustass_God;Eustass God;395;"Lorong 16 Geylang";Singapore;Singapore;1.312466,103.879822;01257439
+Crocodile_Katakuri;Crocodile_Katakuri;Crocodile Katakuri;189;"Lorong 28 Geylang";Singapore;Singapore;1.312266,103.885598;01263194
+Charlotte_Duke;Charlotte_Duke;Charlotte Duke;928;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01259763
+Koala_Luffy;Koala_Luffy;Koala Luffy;846;"Sims Avenue";Singapore;Singapore;1.317481,103.901547;01261132
+Ivankov_Mr2;Ivankov_Mr2;Ivankov Mr.2;108;"Lorong 27 Geylang";Singapore;Singapore;1.315859,103.883817;01258533
+Kozuki_Oden;Kozuki_Oden;Kozuki Oden;100;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01258739
+Nefertari_Bonney;Nefertari_Bonney;Nefertari Bonney;129;"Lorong 28 Geylang";Singapore;Singapore;1.312948,103.885577;01257167
+Enel_Cat_Viper;Enel_Cat_Viper;Enel Cat Viper;772;"Geylang Road";Singapore;Singapore;1.313369,103.883518;01260987
+Vinsmoke_Fishman;Vinsmoke_Fishman;Vinsmoke Fishman;748;"Geylang Road";Singapore;Singapore;1.312238,103.877114;01259171
+Pedro_Sir;Pedro_Sir;Pedro Sir;720;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01258955
+Trafalgar_D_Onigashima;Trafalgar_D_Onigashima;Trafalgar D. Onigashima;673;"Guillemard Road";Singapore;Singapore;1.311316,103.885966;01258743
+Monkey_D_Sanji;Monkey_D_Sanji;Monkey D. Sanji;704;"Geylang Road";Singapore;Singapore;1.314658,103.891052;01258914
+Arlong_Cyborg;Arlong_Cyborg;Arlong Cyborg;208;"Sims Avenue";Singapore;Singapore;1.315242,103.883405;01259026
+Marshall_D_Star_Clown;Marshall_D_Star_Clown;Marshall D. Star Clown;911;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263438
+Buggy_God;Buggy_God;Buggy God;761;"Tanjong Katong Road";Singapore;Singapore;1.316038,103.894042;01263017
+Roronoa_Fishman;Roronoa_Fishman;Roronoa Fishman;797;"Lorong Bachok";Singapore;Singapore;1.313975,103.879763;01263565
+Capone_Fishman;Capone_Fishman;Capone Fishman;608;"Jalan Satu";Singapore;Singapore;1.308453,103.889060;01262445
+Tony_Tony_Fishman;Tony_Tony_Fishman;Tony Tony Fishman;522;"Lorong 38 Geylang";Singapore;Singapore;1.314268,103.888856;01257164
+Jewelry_Teach;Jewelry_Teach;Jewelry Teach;902;"Lorong 10 Geylang";Singapore;Singapore;1.311505,103.877669;01259907
+Brook_Star_Clown;Brook_Star_Clown;Brook Star Clown;291;"Geylang Road";Singapore;Singapore;1.313369,103.883518;01258948
+Inuarashi_Cyborg;Inuarashi_Cyborg;Inuarashi Cyborg;906;"Sims Avenue";Singapore;Singapore;1.317736,103.903608;01263366
+Ivankov_Hancock;Ivankov_Hancock;Ivankov Hancock;999;"Tanjong Katong Road";Singapore;Singapore;1.303616,103.896680;01264019
+Nefertari_Sir;Nefertari_Sir;Nefertari Sir;350;"Lorong 22 Geylang";Singapore;Singapore;1.311354,103.882128;01259947
+Shanks_Mr2;Shanks_Mr2;Shanks Mr.2;115;"Geylang East Avenue 2";Singapore;Singapore;1.316929,103.888472;01263401
+Capone_Cat_Viper;Capone_Cat_Viper;Capone Cat Viper;625;"Geylang East Avenue 1";Singapore;Singapore;1.316649,103.885158;01258374
+Koala_Robin;Koala_Robin;Koala Robin;90;"Lorong 25 Geylang";Singapore;Singapore;1.314279,103.882528;01260040
+Charlotte_Clown;Charlotte_Clown;Charlotte Clown;747;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263616
+Tony_Tony_Robin;Tony_Tony_Robin;Tony Tony Robin;794;"Aljunied Road";Singapore;Singapore;1.320843,103.881743;01262536
+Sabo_Gladiator;Sabo_Gladiator;Sabo Gladiator;406;"Geylang East Avenue 2";Singapore;Singapore;1.316929,103.888472;01258079
+Ivankov_Chopper;Ivankov_Chopper;Ivankov Chopper;748;"Lorong 40 Geylang";Singapore;Singapore;1.312992,103.889933;01258544
+Jimbei_Robin;Jimbei_Robin;Jimbei Robin;716;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01261628
+Brook_Cyborg;Brook_Cyborg;Brook Cyborg;794;"Paya Lebar Road";Singapore;Singapore;1.331659,103.889374;01260956
+Enel_Clown;Enel_Clown;Enel Clown;742;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01258415
+Crocodile_Okama;Crocodile_Okama;Crocodile (Okama);900;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01259114
+Roronoa_Zoro;Roronoa_Zoro;Roronoa Zoro;275;"Tanjong Katong Road";Singapore;Singapore;1.307071,103.895723;01263171
+Arlong_Ace;Arlong_Ace;Arlong Ace;337;"Guillemard Road";Singapore;Singapore;1.311482,103.885416;01258662
+Donquixote_Luffy;Donquixote_Luffy;Donquixote Luffy;631;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01260860
+Roronoa_Katakuri;Roronoa_Katakuri;Roronoa Katakuri;568;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01263691
+Inuarashi_Ace;Inuarashi_Ace;Inuarashi Ace;323;"Tanjong Katong Road";Singapore;Singapore;1.311794,103.894196;01263548
+Capone_Mihawk;Capone_Mihawk;Capone Mihawk;685;"Lorong 40 Geylang";Singapore;Singapore;1.313164,103.889899;01263184
+Franky_Zoro;Franky_Zoro;Franky Zoro;624;"Geylang Road";Singapore;Singapore;1.315336,103.893413;01257996
+Capone_Mermaid_Princess;Capone_Mermaid_Princess;Capone Mermaid Princess;525;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01264012
+Vinsmoke_Vivi;Vinsmoke_Vivi;Vinsmoke Vivi;211;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01258536
+Jimbei_Oden;Jimbei_Oden;Jimbei Oden;296;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01258391
+Koala_Mihawk;Koala_Mihawk;Koala Mihawk;240;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01260697
+Caesar_RedHaired;Caesar_RedHaired;Caesar Red-Haired;147;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01260645
+Shirahoshi_Sanji;Shirahoshi_Sanji;Shirahoshi Sanji;695;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263949
+Koala_Marine;Koala_Marine;Koala Marine;619;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01262615
+Brook_Mad_Monk;Brook_Mad_Monk;Brook Mad Monk;449;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01263159
+Roronoa_Vivi;Roronoa_Vivi;Roronoa Vivi;51;"Geylang Road";Singapore;Singapore;1.308361,103.886055;01263533
+Trafalgar_D_Revo;Trafalgar_D_Revo;Trafalgar D. Revo;247;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01260882
+Sabo_Mermaid_Princess;Sabo_Mermaid_Princess;Sabo Mermaid Princess;506;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01259008
+Boa_Law;Boa_Law;Boa Law;399;"Jalan Satu";Singapore;Singapore;1.308417,103.889067;01263534
+Rebecca_Kid;Rebecca_Kid;Rebecca Kid;582;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01258242
+Kozuki_Bonney;Kozuki_Bonney;Kozuki Bonney;717;"Geylang Road";Singapore;Singapore;1.315538,103.894412;01261902
+Capone_Clown;Capone_Clown;Capone Clown;331;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01260981
+Portgas_D_Gladiator;Portgas_D_Gladiator;Portgas D. Gladiator;602;"Lorong 40 Geylang";Singapore;Singapore;1.313881,103.889303;01263358
+Donquixote_RedHaired;Donquixote_RedHaired;Donquixote Red-Haired;477;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01261139
+X_Drake_RedHaired;X_Drake_RedHaired;X. Drake Red-Haired;749;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01261949
+Ivankov_Doflamingo;Ivankov_Doflamingo;Ivankov Doflamingo;434;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01260498
+Tony_Tony_God;Tony_Tony_God;Tony Tony God;347;"Guillemard Road";Singapore;Singapore;1.311635,103.886074;01260949
+Portgas_D_Law;Portgas_D_Law;Portgas D. Law;99;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01259648
+Eustass_Gang_Bege;Eustass_Gang_Bege;Eustass Gang Bege;813;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01263288
+Pedro_Luffy;Pedro_Luffy;Pedro Luffy;410;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01263145
+Inuarashi_Mr2;Inuarashi_Mr2;Inuarashi Mr.2;392;"Tanjong Katong Road";Singapore;Singapore;1.308121,103.895077;01260672
+Monkey_D_Bonney;Monkey_D_Bonney;Monkey D. Bonney;119;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01262088
+Eustass_Cat_Viper;Eustass_Cat_Viper;Eustass Cat Viper;651;"Lorong 40 Geylang";Singapore;Singapore;1.313164,103.889899;01258442
+Jewelry_Sanji;Jewelry_Sanji;Jewelry Sanji;262;"Geylang Road";Singapore;Singapore;1.310151,103.871860;01262622
+Capone_Revo;Capone_Revo;Capone Revo;832;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01264016
+Boa_Robin;Boa_Robin;Boa Robin;110;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01259025
+Bentham_Ace;Bentham_Ace;Bentham Ace;334;"Lorong 40 Geylang";Singapore;Singapore;1.313164,103.889899;01263264
+Crocodile_Mihawk;Crocodile_Mihawk;Crocodile Mihawk;580;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01261448
+Marshall_D_Okama;Marshall_D_Okama;Marshall D. (Okama);409;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01262241
+Marshall_D_God;Marshall_D_God;Marshall D. God;976;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01257233
+Sabo_Sir;Sabo_Sir;Sabo Sir;882;"Lorong Bachok";Singapore;Singapore;1.313895,103.879379;01263299
+Koala_Gladiator;Koala_Gladiator;Koala Gladiator;673;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01262977
+Yamato_Luffy;Yamato_Luffy;Yamato Luffy;969;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01263227
+Shirahoshi_Star_Clown;Shirahoshi_Star_Clown;Shirahoshi Star Clown;796;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01260743
+Inuarashi_Onigashima;Inuarashi_Onigashima;Inuarashi Onigashima;161;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01257352
+Brook_Mermaid_Princess;Brook_Mermaid_Princess;Brook Mermaid Princess;992;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01258552
+Pekoms_Sir;Pekoms_Sir;Pekoms Sir;286;"Guillemard Road";Singapore;Singapore;1.314038,103.892929;01260615
+X_Drake_Hancock;X_Drake_Hancock;X. Drake Hancock;124;"Sims Avenue";Singapore;Singapore;1.314097,103.878333;01262957
+Nefertari_Dancer;Nefertari_Dancer;Nefertari Dancer;888;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01263112
+Kozuki_Teach;Kozuki_Teach;Kozuki Teach;511;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01257394
+Tony_Tony_Clown;Tony_Tony_Clown;Tony Tony Clown;583;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01258244
+Trafalgar_D_Mad_Monk;Trafalgar_D_Mad_Monk;Trafalgar D. Mad Monk;354;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01263573
+Charlotte_Law;Charlotte_Law;Charlotte Law;750;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01258054
+X_Drake_Mad_Monk;X_Drake_Mad_Monk;X. Drake Mad Monk;722;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01258376
+Roronoa_Mr2;Roronoa_Mr2;Roronoa Mr.2;153;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01259151
+Pekoms_Hancock;Pekoms_Hancock;Pekoms Hancock;967;"Lorong 28 Geylang";Singapore;Singapore;1.311265,103.885729;01257456
+Portgas_D_Chopper;Portgas_D_Chopper;Portgas D. Chopper;574;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01263361
+Ivankov_Bonney;Ivankov_Bonney;Ivankov Bonney;983;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01257746
+Buggy_Bonney;Buggy_Bonney;Buggy Bonney;403;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01261607
+Pedro_Law;Pedro_Law;Pedro Law;327;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01257354
+Marshall_D_Oden;Marshall_D_Oden;Marshall D. Oden;592;"Geylang Road";Singapore;Singapore;1.314031,103.887856;01258094
+Urouge_Fishman;Urouge_Fishman;Urouge Fishman;325;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01259181
+Sabo_Doflamingo;Sabo_Doflamingo;Sabo Doflamingo;836;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01263763
+Shirahoshi_Fishman;Shirahoshi_Fishman;Shirahoshi Fishman;292;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01262418
+Nefertari_Gladiator;Nefertari_Gladiator;Nefertari Gladiator;317;"Geylang East Avenue 1";Singapore;Singapore;1.315622,103.885002;01263500
+Jimbei_Okama;Jimbei_Okama;Jimbei (Okama);151;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263048
+Vinsmoke_Mermaid_Princess;Vinsmoke_Mermaid_Princess;Vinsmoke Mermaid Princess;923;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01261861
+Monkey_D_Marine;Monkey_D_Marine;Monkey D. Marine;145;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01260950
+Dracule_Mr2;Dracule_Mr2;Dracule Mr.2;259;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01262053
+Vinsmoke_Ace;Vinsmoke_Ace;Vinsmoke Ace;898;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01258745
+Brook_Fishman;Brook_Fishman;Brook Fishman;901;"Jalan Satu";Singapore;Singapore;1.309643,103.887502;01257109
+X_Drake_Clown;X_Drake_Clown;X. Drake Clown;697;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01258516
+Bentham_Mihawk;Bentham_Mihawk;Bentham Mihawk;449;"Lorong 40 Geylang";Singapore;Singapore;1.313164,103.889899;01263090
+Eustass_Duke;Eustass_Duke;Eustass Duke;859;"Lorong 16 Geylang";Singapore;Singapore;1.312309,103.879837;01259046
+Franky_Sir;Franky_Sir;Franky Sir;947;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01257102
+Monkey_D_God;Monkey_D_God;Monkey D. God;710;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01263475
+Jewelry_Cat_Viper;Jewelry_Cat_Viper;Jewelry Cat Viper;639;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01262557
+Inuarashi_Mihawk;Inuarashi_Mihawk;Inuarashi Mihawk;510;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01262919
+Caesar_Fishman;Caesar_Fishman;Caesar Fishman;606;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263335
+Jewelry_Oden;Jewelry_Oden;Jewelry Oden;769;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01260461
+X_Drake_Mihawk;X_Drake_Mihawk;X. Drake Mihawk;722;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01261050
+Nefertari_Fishman;Nefertari_Fishman;Nefertari Fishman;65;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01258619
+Buggy_Katakuri;Buggy_Katakuri;Buggy Katakuri;698;"Lorong 27 Geylang";Singapore;Singapore;1.313563,103.883757;01257246
+Jewelry_Law;Jewelry_Law;Jewelry Law;34;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01260954
+Dracule_Kid;Dracule_Kid;Dracule Kid;726;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01263572
+Buggy_Duke;Buggy_Duke;Buggy Duke;623;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01261651
+Shirahoshi_God;Shirahoshi_God;Shirahoshi God;93;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01263195
+Koala_Onigashima;Koala_Onigashima;Koala Onigashima;139;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01262551
+Koala_Clown;Koala_Clown;Koala Clown;255;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01259937
+X_Drake_Revo;X_Drake_Revo;X. Drake Revo;643;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01257560
+Enel_Katakuri;Enel_Katakuri;Enel Katakuri;447;"Lorong 16 Geylang";Singapore;Singapore;1.311263,103.879935;01263429
+Trafalgar_D_Cyborg;Trafalgar_D_Cyborg;Trafalgar D. Cyborg;475;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01257455
+Capone_Bonney;Capone_Bonney;Capone Bonney;650;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263146
+Pedro_Star_Clown;Pedro_Star_Clown;Pedro Star Clown;701;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01263574
+Caesar_Mermaid_Princess;Caesar_Mermaid_Princess;Caesar Mermaid Princess;669;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01261381
+Shirahoshi_Cyborg;Shirahoshi_Cyborg;Shirahoshi Cyborg;960;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01257131
+Boa_Luffy;Boa_Luffy;Boa Luffy;706;"Geylang Road";Singapore;Singapore;1.314667,103.891098;01262259
+Rebecca_Katakuri;Rebecca_Katakuri;Rebecca Katakuri;746;"Lorong 28 Geylang";Singapore;Singapore;1.311265,103.885729;01258364
+Tony_Tony_Cyborg;Tony_Tony_Cyborg;Tony Tony Cyborg;694;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01259185
+Crocodile_Kid;Crocodile_Kid;Crocodile Kid;535;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01263881
+Nefertari_Chopper;Nefertari_Chopper;Nefertari Chopper;642;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01258853
+X_Drake_Doflamingo;X_Drake_Doflamingo;X. Drake Doflamingo;995;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01260843
+Charlotte_Vivi;Charlotte_Vivi;Charlotte Vivi;35;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263251
+Eustass_Robin;Eustass_Robin;Eustass Robin;430;"Tanjong Katong Road";Singapore;Singapore;1.304707,103.896406;01263258
+Tony_Tony_Revo;Tony_Tony_Revo;Tony Tony Revo;414;"Sims Avenue";Singapore;Singapore;1.318203,103.899875;01258653
+Nico_Hancock;Nico_Hancock;Nico Hancock;441;"Lorong 38 Geylang";Singapore;Singapore;1.314343,103.888842;01259000
+Monkey_D_Robin;Monkey_D_Robin;Monkey D. Robin;708;"Lorong 33 Geylang";Singapore;Singapore;1.315599,103.887786;01257283
+Charlotte_Robin;Charlotte_Robin;Charlotte Robin;71;"Lorong 16 Geylang";Singapore;Singapore;1.310378,103.880260;01261309
+Charlotte_Mr2;Charlotte_Mr2;Charlotte Mr.2;692;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01262528
+Eustass_Revo;Eustass_Revo;Eustass Revo;916;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263879
+Buggy_Clown;Buggy_Clown;Buggy Clown;105;"Jalan Dua";Singapore;Singapore;1.308992,103.887518;01260435
+Yamato_Oden;Yamato_Oden;Yamato Oden;208;"Lorong 27 Geylang";Singapore;Singapore;1.316220,103.883875;01260179
+Trafalgar_D_Gladiator;Trafalgar_D_Gladiator;Trafalgar D. Gladiator;894;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01259749
+Portgas_D_Bonney;Portgas_D_Bonney;Portgas D. Bonney;876;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01263250
+Nekomamushi_Teach;Nekomamushi_Teach;Nekomamushi Teach;685;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01261054
+Enel_Gang_Bege;Enel_Gang_Bege;Enel Gang Bege;717;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01263364
+Marshall_D_Onigashima;Marshall_D_Onigashima;Marshall D. Onigashima;162;"Jalan Enam";Singapore;Singapore;1.307526,103.885526;01263175
+Urouge_Okama;Urouge_Okama;Urouge (Okama);364;"Lorong 28 Geylang";Singapore;Singapore;1.313172,103.885564;01260719
+Trafalgar_D_Law;Trafalgar_D_Law;Trafalgar D. Law;644;"Lorong 22 Geylang";Singapore;Singapore;1.310695,103.882132;01262696
+Caesar_Marine;Caesar_Marine;Caesar Marine;760;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01261277
+Bentham_Cyborg;Bentham_Cyborg;Bentham Cyborg;273;"Geylang East Avenue 2";Singapore;Singapore;1.318169,103.889075;01263270
+Brook_Sir;Brook_Sir;Brook Sir;540;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01263271
+Koala_Mad_Monk;Koala_Mad_Monk;Koala Mad Monk;422;"Geylang Road";Singapore;Singapore;1.310151,103.871860;01263221
+Eustass_Marine;Eustass_Marine;Eustass Marine;65;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01257507
+Donquixote_Zoro;Donquixote_Zoro;Donquixote Zoro;350;"Lorong 12 Geylang";Singapore;Singapore;1.311688,103.878273;01259982
+Koala_Fishman;Koala_Fishman;Koala Fishman;197;"Guillemard Road";Singapore;Singapore;1.310403,103.882010;01262417
+Nekomamushi_Hancock;Nekomamushi_Hancock;Nekomamushi Hancock;439;"Lorong 25 Geylang";Singapore;Singapore;1.313546,103.882821;01261579
+Viola_Oden;Viola_Oden;Viola Oden;209;"Lorong 10 Geylang";Singapore;Singapore;1.311060,103.877770;01257959
+Inuarashi_Law;Inuarashi_Law;Inuarashi Law;891;"Lorong 33 Geylang";Singapore;Singapore;1.315935,103.887954;01258027
+Franky_Doflamingo;Franky_Doflamingo;Franky Doflamingo;162;"Lorong Bachok";Singapore;Singapore;1.313942,103.879613;01263370
+Inuarashi_Marine;Inuarashi_Marine;Inuarashi Marine;283;"Tanjong Katong Road";Singapore;Singapore;1.306872,103.895800;01260107
+Capone_RedHaired;Capone_RedHaired;Capone Red-Haired;906;"Geylang Road";Singapore;Singapore;1.315336,103.893413;01263114
+Donquixote_Dancer;Donquixote_Dancer;Donquixote Dancer;556;"Paya Lebar Road";Singapore;Singapore;1.317709,103.892050;01257831
+Inuarashi_Zoro;Inuarashi_Zoro;Inuarashi Zoro;824;"Lorong 40 Geylang";Singapore;Singapore;1.313164,103.889899;01263363
+Vinsmoke_Robin;Vinsmoke_Robin;Vinsmoke Robin;840;"Tanjong Katong Road";Singapore;Singapore;1.299503,103.897055;01259211
+Crocodile_Oden;Crocodile_Oden;Crocodile Oden;207;"Geylang Road";Singapore;Singapore;1.310151,103.871860;01261062
+Tony_Tony_Cat_Viper;Tony_Tony_Cat_Viper;Tony Tony Cat Viper;248;"Geylang East Avenue 2";Singapore;Singapore;1.316978,103.888492;01260054
+Rebecca_Clown;Rebecca_Clown;Rebecca Clown;286;"Geylang East Avenue 1";Singapore;Singapore;1.316644,103.885156;01259217
+Enel_Zoro;Enel_Zoro;Enel Zoro;465;"Aljunied Road";Singapore;Singapore;1.329506,103.879412;01258999
+Rebecca_Okama;Rebecca_Okama;Rebecca (Okama);993;"Guillemard Road";Singapore;Singapore;1.312628,103.891373;01257997

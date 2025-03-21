@@ -1,0 +1,11 @@
+code(*);customer_id;first_name;street_number;street_name;city(*);country(*);coordinate;meter_serial
+Caesar_Law;Caesar_Law;Caesar Law;530;Lorong Bachok;Singapore;Singapore;1.313975,103.879763;01263393
+Tony_Tony_Fishma;Tony_Tony_Fishma;Tony Tony Fishman;797;"Geylang East Avenue 1";Singapore;Singapore;1.317689,103.885652;01262451
+Koala_Revo;Koala_Revo;Koala Revo;761;"Aljunied Road";Singapore;Singapore;1.329290,103.879483;01260642
+Tony_Tony_Hancoc;Tony_Tony_Hancoc;Tony Tony Hancock;112;"Lorong 33 Geylang";Singapore;Singapore;1.316027,103.888000;01264034
+Yamato_Ace;Yamato_Ace;Yamato Ace;542;"Geylang East Avenue 2";Singapore;Singapore;1.316929,103.888472;01262443
+Arlong_Vivi;Arlong_Vivi;Arlong Vivi;901;"Lorong 38 Geylang";Singapore;Singapore;1.313951,103.888916;01260749
+Crocodile_RedHai;Crocodile_RedHai;Crocodile Red-Haired;484;"Geylang East Central";Singapore;Singapore;1.320271,103.887383;01263170
+Yamato_Teach;Yamato_Teach;Yamato Teach;375;"Sims Avenue";Singapore;Singapore;1.316329,103.889188;01260593
+Brook_Dancer;Brook_Dancer;Brook Dancer;703;"Geylang East Avenue 2";Singapore;Singapore;1.316305,103.888140;01259969
+Arlong_Okama;Arlong_Okama;Arlong Okama;370;"Aljunied Road";Singapore;Singapore;1.329290,103.879483;01257995
