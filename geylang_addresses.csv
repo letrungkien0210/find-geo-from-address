@@ -1,67 +1,8 @@
-No.,Address,Household Owner,Coordinate
-1,229 Aljunied Road,Buggy Kid,1.320843,103.881743
-2,656 Lorong 10 Geylang,Crocodile (Marine),1.311505,103.877669
-3,636 Aljunied Road,Dracule Teach,1.320843,103.881743
-4,619 Paya Lebar Road,Vinsmoke Bonney,1.328633,103.889822
-5,623 Jalan Satu,Charlotte Robin,1.308453,103.889060
-6,490 Lorong 28 Geylang,Charlotte Sanji,1.312948,103.885577
-7,265 Geylang East Avenue 1,Charlotte (Star Clown),1.316649,103.885158
-8,698 Jalan Enam,Portgas D. (Mermaid Princess),1.307334,103.885615
-9,690 Geylang East Central,Vinsmoke Law,1.320271,103.887383
-10,466 Aljunied Road,Dracule (Cat Viper),1.320843,103.881743
-11,209 Geylang Road,Tony Tony (Guard),1.315432,103.893860
-12,158 Lorong 12 Geylang,Dracule Clown,1.311688,103.878273
-13,977 Lorong 28 Geylang,Vinsmoke (Mad Monk),1.312948,103.885577
-14,482 Geylang East Central,Bentham (Fishman),1.320271,103.887383
-15,764 Geylang Road,Charlotte (Fishman),1.313369,103.883518
-16,979 Sims Avenue,Capone (Mermaid Princess),1.312129,103.872896
-17,460 Lorong Bachok,Monkey D. Gang Bege,1.313975,103.879763
-18,282 Jalan Enam,Monkey D. (Gladiator),1.307334,103.885615
-19,720 Lorong Bachok,Urouge Vivi,1.313975,103.879763
-20,12 Lorong 16 Geylang,Roronoa (Mad Monk),1.311786,103.879886
-21,740 Lorong 40 Geylang,Monkey D. Mihawk,1.312992,103.889933
-22,20 Lorong 22 Geylang,Brook Katakuri,1.311354,103.882128
-23,37 Lorong 10 Geylang,Bentham (Red-Haired),1.311505,103.877669
-24,561 Lorong 27 Geylang,Charlotte Mihawk,1.315859,103.883817
-25,822 Jalan Dua,Trafalgar D. Luffy,1.308984,103.887473
-26,349 Geylang East Central,Nico Kid,1.320271,103.887383
-27,347 Geylang East Central,Urouge (Sir),1.320271,103.887383
-28,386 Geylang Road,Donquixote Sanji,1.311328,103.874706
-29,603 Sims Avenue,Marshall D. Zoro,1.313857,103.877032
-30,481 Jalan Dua,Urouge (Guard),1.308984,103.887473
-31,203 Aljunied Road,Urouge (Knight of Sea),1.320843,103.881743
-32,976 Lorong 10 Geylang,Eustass Teach,1.311505,103.877669
-33,510 Lorong 40 Geylang,Monkey D. (Guard),1.312992,103.889933
-34,77 Jalan Enam,Roronoa (Cyborg),1.307334,103.885615
-35,139 Lorong 10 Geylang,Trafalgar D. (Fishman),1.311505,103.877669
-36,986 Tanjong Katong Road,Marshall D. Law,1.303616,103.896680
-37,301 Lorong 27 Geylang,Nefertari Gang Bege,1.315859,103.883817
-38,450 Jalan Dua,Urouge Luffy,1.308984,103.887473
-39,230 Lorong 22 Geylang,Tony Tony (Fishman),1.311354,103.882128
-40,346 Lorong 27 Geylang,Jewelry (Guard),1.313490,103.883759
-41,437 Geylang Road,Roronoa (Red-Haired),1.312238,103.877114
-42,893 Lorong 28 Geylang,Marshall D. (Guard),1.312948,103.885577
-43,821 Aljunied Road,Brook Robin,1.320843,103.881743
-44,361 Jalan Enam,Crocodile Katakuri,1.307334,103.885615
-45,138 Lorong 12 Geylang,Eustass (Guard),1.311688,103.878273
-46,484 Paya Lebar Road,Trafalgar D. Vivi,1.326715,103.890164
-47,724 Geylang East Central,Dracule (Lion),1.320271,103.887383
-48,55 Lorong Bachok,Pekoms (Marine),1.313975,103.879763
-49,705 Lorong 22 Geylang,Jimbei Teach,1.311354,103.882128
-50,612 Lorong 10 Geylang,Eustass (Red-Haired),1.311505,103.877669
-51,295 Lorong 40 Geylang,Marshall D. Robin,1.314497,103.889674
-52,814 Sims Avenue,Kozuki Hancock,1.313344,103.875519
-53,23 Tanjong Katong Road,Marshall D. (Mermaid Princess),1.303616,103.896680
-54,660 Lorong 40 Geylang,Crocodile Law,1.312992,103.889933
-55,103 Jalan Satu,Yamato (God),1.309407,103.887550
-56,910 Geylang East Central,Kozuki Clown,1.320271,103.887383
-57,554 Lorong 25 Geylang,Crocodile (Mr.2),1.313488,103.882843
-58,987 Lorong Bachok,Charlotte (Duke),1.314023,103.879982
-59,712 Lorong 40 Geylang,Portgas D. Chopper,1.312992,103.889933
-60,288 Jalan Satu,Brook Law,1.308453,103.889060
-61,841 Geylang Road,Donquixote (Gladiator),1.313369,103.883518
-62,652 Lorong 27 Geylang,Ivankov (Marine),1.315859,103.883817
-63,61 Lorong Bachok,Yamato (Mermaid Princess),1.313975,103.879763
-64,393 Lorong Bachok,Yamato Oden,1.313975,103.879763
-65,580 Lorong 28 Geylang,Nefertari (Mad Monk),1.312948,103.885577
-66,629 Lorong 16 Geylang,Yamato Doflamingo,1.311786,103.879886
+No.;Street Number;Street Name;Household Owner;Coordinate
+1;664;"Lorong 33 Geylang";Arlong (Gladiator);1.316027,103.888000
+2;702;"Lorong 16 Geylang";Inuarashi Law;1.311786,103.879886
+3;776;"Geylang Road";X. Drake Luffy;1.310178,103.871935
+4;291;"Lorong 28 Geylang";Yamato Teach;1.312948,103.885577
+5;401;"Jalan Enam";Kozuki Zoro;1.307334,103.885615
+6;855;"Lorong 16 Geylang";Kozuki Katakuri;1.311786,103.879886
+7;490;"Jalan Satu";Inuarashi (Marine);1.308453,103.889060

@@ -92,7 +92,7 @@ async function main() {
   let csvLines = [];
 
   // Dòng tiêu đề CSV
-  const header = "No.,Address,Household Owner,Coordinate";
+  const header = "No.;Street Number;Street Name;Household Owner;Coordinate";
   fs.writeFileSync('geylang_addresses.csv', header + '\n', 'utf8');
 
   for (let i = 1; i <= numAddresses; i++) {
@@ -105,10 +105,7 @@ async function main() {
     // Tên giả
     const ownerName = generateFakeName();
 
-    // Full address
-    const fullAddress = `${houseNumber} ${street}`;
-
-    // Gửi request tới OpenStreetMap qua node-geocoder
+    // Full address for geocoding
     const address = `${houseNumber} ${street}, Singapore`;
     const res = await geocoder.geocode(address);
 
@@ -123,15 +120,15 @@ async function main() {
         lng = longitude;
     } else {
         // Không tìm thấy kết quả
-        const row = `${i},"${fullAddress}",${ownerName},""`;
+        const row = `${i};${houseNumber};"${street}";${ownerName};""`;
         fs.appendFileSync('geylang_addresses.csv', row + '\n', 'utf8');
-        console.log(`[${i}/${numAddresses}] Không tìm thấy toạ độ cho: ${fullAddress}`);
+        console.log(`[${i}/${numAddresses}] Không tìm thấy toạ độ cho: ${address}`);
         continue;
     }
 
     // Thêm dòng CSV
     const coordinate = `${lat.toFixed(6)},${lng.toFixed(6)}`;
-    const row = `${i},${fullAddress},${ownerName},${coordinate}`;
+    const row = `${i};${houseNumber};"${street}";${ownerName};${coordinate}`;
     fs.appendFileSync('geylang_addresses.csv', row + '\n', 'utf8');
 
     await new Promise(r => setTimeout(r, 1000));
