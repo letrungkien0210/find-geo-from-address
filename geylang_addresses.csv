@@ -1,8 +1,701 @@
-No.;Street Number;Street Name;Household Owner;Coordinate
-1;664;"Lorong 33 Geylang";Arlong (Gladiator);1.316027,103.888000
-2;702;"Lorong 16 Geylang";Inuarashi Law;1.311786,103.879886
-3;776;"Geylang Road";X. Drake Luffy;1.310178,103.871935
-4;291;"Lorong 28 Geylang";Yamato Teach;1.312948,103.885577
-5;401;"Jalan Enam";Kozuki Zoro;1.307334,103.885615
-6;855;"Lorong 16 Geylang";Kozuki Katakuri;1.311786,103.879886
-7;490;"Jalan Satu";Inuarashi (Marine);1.308453,103.889060
+No.;Street Number;Street Name;Household Owner;Household Code;Coordinate
+1;530;"Lorong Bachok";Caesar Law;Caesar_Law;1.313975,103.879763
+2;797;"Geylang East Avenue 1";Tony Tony Fishman;Tony_Tony_Fishman;1.317689,103.885652
+3;761;"Aljunied Road";Koala Revo;Koala_Revo;1.329290,103.879483
+4;112;"Lorong 33 Geylang";Tony Tony Hancock;Tony_Tony_Hancock;1.316027,103.888000
+5;542;"Geylang East Avenue 2";Yamato Ace;Yamato_Ace;1.316929,103.888472
+6;901;"Lorong 38 Geylang";Arlong Vivi;Arlong_Vivi;1.313951,103.888916
+7;484;"Geylang East Central";Crocodile Red-Haired;Crocodile_RedHaired;1.320271,103.887383
+8;375;"Sims Avenue";Yamato Teach;Yamato_Teach;1.316329,103.889188
+9;703;"Geylang East Avenue 2";Brook Dancer;Brook_Dancer;1.316305,103.888140
+10;370;"Aljunied Road";Arlong (Okama);Arlong_Okama;1.329290,103.879483
+11;56;"Guillemard Road";Urouge Sanji;Urouge_Sanji;1.311185,103.885307
+12;803;"Lorong 38 Geylang";Shanks Star Clown;Shanks_Star_Clown;1.314268,103.888856
+13;312;"Aljunied Road";Brook Mihawk;Brook_Mihawk;1.322887,103.881316
+14;476;"Lorong 40 Geylang";Tony Tony Chopper;Tony_Tony_Chopper;1.312992,103.889933
+15;240;"Geylang Road";Shanks Gang Bege;Shanks_Gang_Bege;1.316096,103.897248
+16;435;"Lorong 10 Geylang";Tony Tony Mihawk;Tony_Tony_Mihawk;1.311505,103.877669
+17;857;"Geylang Road";Capone Ace;Capone_Ace;1.314322,103.888354
+18;353;"Geylang East Avenue 1";Jewelry God;Jewelry_God;1.316649,103.885158
+19;717;"Lorong 38 Geylang";Bentham Kid;Bentham_Kid;1.314268,103.888856
+20;12;"Jalan Satu";Kozuki Sanji;Kozuki_Sanji;1.308453,103.889060
+21;502;"Geylang East Central";Buggy Onigashima;Buggy_Onigashima;1.320271,103.887383
+22;480;"Jalan Satu";Nico God;Nico_God;1.308453,103.889060
+23;263;"Tanjong Katong Road";Vinsmoke Sir;Vinsmoke_Sir;1.307772,103.895571
+24;795;"Sims Avenue";Nekomamushi Marine;Nekomamushi_Marine;1.310484,103.870335
+25;20;"Lorong 10 Geylang";Portgas D. Mermaid Princess;Portgas_D_Mermaid_Princess;1.311505,103.877669
+26;915;"Jalan Dua";Bentham Mad Monk;Bentham_Mad_Monk;1.308984,103.887473
+27;631;"Geylang Road";Dracule Teach;Dracule_Teach;1.311765,103.875771
+28;568;"Geylang East Avenue 1";Vinsmoke Hancock;Vinsmoke_Hancock;1.316649,103.885158
+29;356;"Geylang Road";Buggy Zoro;Buggy_Zoro;1.312682,103.880948
+30;693;"Geylang East Avenue 2";Tony Tony Marine;Tony_Tony_Marine;1.316305,103.888140
+31;343;"Lorong 10 Geylang";Boa Vivi;Boa_Vivi;1.311505,103.877669
+32;360;"Tanjong Katong Road";Dracule Marine;Dracule_Marine;1.305358,103.896144
+33;866;"Lorong 25 Geylang";Portgas D. Gang Bege;Portgas_D_Gang_Bege;1.313488,103.882843
+34;705;"Geylang East Central";Dracule Dancer;Dracule_Dancer;1.320271,103.887383
+35;503;"Lorong 25 Geylang";Arlong Fishman;Arlong_Fishman;1.315701,103.882550
+36;427;"Lorong 40 Geylang";Vinsmoke Bonney;Vinsmoke_Bonney;1.312992,103.889933
+37;149;"Lorong 22 Geylang";X. Drake Sir;X_Drake_Sir;1.311354,103.882128
+38;894;"Lorong 16 Geylang";Inuarashi Fishman;Inuarashi_Fishman;1.311786,103.879886
+39;484;"Jalan Satu";Jewelry Star Clown;Jewelry_Star_Clown;1.308453,103.889060
+40;22;"Lorong 16 Geylang";Kozuki Mad Monk;Kozuki_Mad_Monk;1.311786,103.879886
+41;325;"Lorong 12 Geylang";Inuarashi Cat Viper;Inuarashi_Cat_Viper;1.311688,103.878273
+42;195;"Lorong 10 Geylang";Marshall D. Hancock;Marshall_D_Hancock;1.311505,103.877669
+43;275;"Lorong 28 Geylang";Sabo Cyborg;Sabo_Cyborg;1.312948,103.885577
+44;714;"Jalan Dua";Inuarashi Dancer;Inuarashi_Dancer;1.308984,103.887473
+45;663;"Lorong Bachok";Portgas D. Star Clown;Portgas_D_Star_Clown;1.313975,103.879763
+46;553;"Lorong Bachok";Marshall D. Vivi;Marshall_D_Vivi;1.313975,103.879763
+47;998;"Jalan Satu";Inuarashi Mad Monk;Inuarashi_Mad_Monk;1.308453,103.889060
+48;530;"Guillemard Road";Roronoa Revo;Roronoa_Revo;1.310910,103.884459
+49;349;"Aljunied Road";Arlong Cat Viper;Arlong_Cat_Viper;1.329290,103.879483
+50;780;"Lorong 10 Geylang";Roronoa Mad Monk;Roronoa_Mad_Monk;1.311505,103.877669
+51;659;"Lorong 10 Geylang";Donquixote Gladiator;Donquixote_Gladiator;1.311060,103.877770
+52;69;"Jalan Enam";Kozuki Vivi;Kozuki_Vivi;1.307526,103.885526
+53;870;"Lorong 33 Geylang";Enel Luffy;Enel_Luffy;1.315599,103.887786
+54;96;"Lorong Bachok";Arlong God;Arlong_God;1.313942,103.879613
+55;795;"Geylang East Central";Yamato Gladiator;Yamato_Gladiator;1.320271,103.887383
+56;19;"Lorong 28 Geylang";Shanks Bonney;Shanks_Bonney;1.312279,103.885597
+57;198;"Guillemard Road";Brook Red-Haired;Brook_RedHaired;1.310403,103.882010
+58;976;"Sims Avenue";Enel Sanji;Enel_Sanji;1.319128,103.904389
+59;358;"Guillemard Road";Roronoa Mermaid Princess;Roronoa_Mermaid_Princess;1.310882,103.883859
+60;449;"Lorong 28 Geylang";X. Drake Bonney;X_Drake_Bonney;1.312589,103.885594
+61;362;"Lorong 22 Geylang";Buggy Sanji;Buggy_Sanji;1.310695,103.882132
+62;374;"Lorong 22 Geylang";Kozuki Revo;Kozuki_Revo;1.310695,103.882132
+63;732;"Lorong 33 Geylang";Roronoa Teach;Roronoa_Teach;1.314985,103.887829
+64;31;"Lorong 12 Geylang";Yamato Red-Haired;Yamato_RedHaired;1.310388,103.878782
+65;300;"Lorong Bachok";Portgas D. Hancock;Portgas_D_Hancock;1.313942,103.879613
+66;441;"Jalan Dua";Enel Sir;Enel_Sir;1.308992,103.887518
+67;644;"Geylang East Central";Eustass Ace;Eustass_Ace;1.320271,103.887383
+68;875;"Aljunied Road";Marshall D. Fishman;Marshall_D_Fishman;1.325398,103.880874
+69;574;"Jalan Satu";Monkey D. Katakuri;Monkey_D_Katakuri;1.308417,103.889067
+70;260;"Lorong 38 Geylang";Trafalgar D. Duke;Trafalgar_D_Duke;1.314343,103.888842
+71;715;"Lorong 16 Geylang";Trafalgar D. Cat Viper;Trafalgar_D_Cat_Viper;1.311263,103.879935
+72;245;"Lorong 16 Geylang";Yamato Law;Yamato_Law;1.311263,103.879935
+73;363;"Jalan Enam";Nekomamushi Cyborg;Nekomamushi_Cyborg;1.307526,103.885526
+74;289;"Geylang East Avenue 2";Yamato (Okama);Yamato_Okama;1.316978,103.888492
+75;655;"Paya Lebar Road";Monkey D. Gang Bege;Monkey_D_Gang_Bege;1.317709,103.892050
+76;284;"Aljunied Road";Donquixote Duke;Donquixote_Duke;1.324154,103.881058
+77;953;"Lorong 38 Geylang";Dracule (Okama);Dracule_Okama;1.314343,103.888842
+78;616;"Lorong 10 Geylang";X. Drake Gladiator;X_Drake_Gladiator;1.311060,103.877770
+79;849;"Geylang East Avenue 1";X. Drake Fishman;X_Drake_Fishman;1.316644,103.885156
+80;423;"Lorong 16 Geylang";Arlong Gang Bege;Arlong_Gang_Bege;1.311263,103.879935
+81;755;"Aljunied Road";Tony Tony (Okama);Tony_Tony_Okama;1.329506,103.879412
+82;370;"Jalan Dua";Crocodile Dancer;Crocodile_Dancer;1.309179,103.888446
+83;846;"Geylang East Avenue 2";Shanks Cyborg;Shanks_Cyborg;1.316197,103.888081
+84;628;"Aljunied Road";Crocodile God;Crocodile_God;1.331096,103.878988
+85;732;"Guillemard Road";Yamato Zoro;Yamato_Zoro;1.312628,103.891373
+86;384;"Lorong 28 Geylang";Shirahoshi Robin;Shirahoshi_Robin;1.313172,103.885564
+87;46;"Jalan Enam";Brook Ace;Brook_Ace;1.307526,103.885526
+88;522;"Guillemard Road";Enel Kid;Enel_Kid;1.312628,103.891373
+89;182;"Aljunied Road";Enel Marine;Enel_Marine;1.331096,103.878988
+90;358;"Lorong 16 Geylang";Roronoa Kid;Roronoa_Kid;1.312309,103.879837
+91;454;"Jalan Dua";Sabo Ace;Sabo_Ace;1.308992,103.887518
+92;286;"Sims Avenue";X. Drake Mr.2;X_Drake_Mr2;1.313754,103.876751
+93;868;"Lorong 22 Geylang";X. Drake Teach;X_Drake_Teach;1.310695,103.882132
+94;244;"Sims Avenue";Kozuki Zoro;Kozuki_Zoro;1.318016,103.898978
+95;873;"Jalan Enam";Arlong Zoro;Arlong_Zoro;1.307526,103.885526
+96;132;"Geylang Road";Kozuki Ace;Kozuki_Ace;1.315855,103.895967
+97;404;"Jalan Enam";Crocodile Fishman;Crocodile_Fishman;1.307526,103.885526
+98;732;"Lorong 28 Geylang";X. Drake Onigashima;X_Drake_Onigashima;1.313172,103.885564
+99;87;"Lorong Bachok";Jewelry Luffy;Jewelry_Luffy;1.314037,103.880050
+100;641;"Lorong 33 Geylang";Shanks Fishman;Shanks_Fishman;1.315935,103.887954
+101;651;"Lorong 38 Geylang";Boa God;Boa_God;1.314343,103.888842
+102;859;"Lorong 33 Geylang";Monkey D. Fishman;Monkey_D_Fishman;1.314257,103.887989
+103;338;"Jalan Satu";Vinsmoke Law;Vinsmoke_Law;1.308417,103.889067
+104;841;"Lorong 12 Geylang";Boa Mad Monk;Boa_Mad_Monk;1.311688,103.878273
+105;477;"Sims Avenue";Marshall D. Law;Marshall_D_Law;1.316186,103.887524
+106;28;"Lorong 12 Geylang";Shirahoshi Zoro;Shirahoshi_Zoro;1.311688,103.878273
+107;4;"Lorong 33 Geylang";Buggy Kid;Buggy_Kid;1.315935,103.887954
+108;562;"Sims Avenue";Boa Chopper;Boa_Chopper;1.313754,103.876751
+109;731;"Lorong 12 Geylang";Arlong Dancer;Arlong_Dancer;1.311688,103.878273
+110;634;"Tanjong Katong Road";Marshall D. Fishman;Marshall_D_Fishman;1.308121,103.895077
+111;51;"Lorong 33 Geylang";Brook Kid;Brook_Kid;1.314257,103.887989
+112;790;"Sims Avenue";Tony Tony Katakuri;Tony_Tony_Katakuri;1.319128,103.904389
+113;219;"Lorong 40 Geylang";Enel Mad Monk;Enel_Mad_Monk;1.313164,103.889899
+114;649;"Jalan Dua";Roronoa Marine;Roronoa_Marine;1.308992,103.887518
+115;397;"Jalan Satu";Donquixote Onigashima;Donquixote_Onigashima;1.308417,103.889067
+116;640;"Jalan Dua";Nekomamushi Sir;Nekomamushi_Sir;1.308992,103.887518
+117;201;"Lorong Bachok";Marshall D. Luffy;Marshall_D_Luffy;1.313942,103.879613
+118;672;"Jalan Dua";Nefertari God;Nefertari_God;1.308992,103.887518
+119;68;"Lorong 27 Geylang";Donquixote Fishman;Donquixote_Fishman;1.313563,103.883757
+120;920;"Tanjong Katong Road";Monkey D. Mad Monk;Monkey_D_Mad_Monk;1.304707,103.896406
+121;492;"Lorong 33 Geylang";Eustass Mermaid Princess;Eustass_Mermaid_Princess;1.315935,103.887954
+122;46;"Geylang East Avenue 1";Enel Bonney;Enel_Bonney;1.316644,103.885156
+123;125;"Paya Lebar Road";Nefertari Mihawk;Nefertari_Mihawk;1.317709,103.892050
+124;11;"Geylang Road";Charlotte Teach;Charlotte_Teach;1.314755,103.894922
+125;918;"Tanjong Katong Road";X. Drake Oden;X_Drake_Oden;1.304707,103.896406
+126;496;"Sims Avenue";Boa Kid;Boa_Kid;1.315966,103.888263
+127;14;"Geylang East Avenue 2";Charlotte Mihawk;Charlotte_Mihawk;1.316978,103.888492
+128;754;"Geylang East Avenue 2";Sabo Fishman;Sabo_Fishman;1.316197,103.888081
+129;130;"Lorong 25 Geylang";Nekomamushi Onigashima;Nekomamushi_Onigashima;1.313546,103.882821
+130;899;"Lorong Bachok";Buggy Marine;Buggy_Marine;1.313942,103.879613
+131;524;"Jalan Satu";Portgas D. Kid;Portgas_D_Kid;1.308417,103.889067
+132;344;"Lorong 25 Geylang";Jimbei Clown;Jimbei_Clown;1.313546,103.882821
+133;944;"Geylang East Avenue 1";Arlong Duke;Arlong_Duke;1.316644,103.885156
+134;781;"Jalan Satu";Enel Mr.2;Enel_Mr2;1.308417,103.889067
+135;978;"Guillemard Road";Trafalgar D. Oden;Trafalgar_D_Oden;1.310403,103.882010
+136;801;"Lorong 27 Geylang";Eustass Teach;Eustass_Teach;1.316220,103.883875
+137;988;"Tanjong Katong Road";Jimbei Hancock;Jimbei_Hancock;1.304707,103.896406
+138;351;"Lorong 27 Geylang";Jimbei Kid;Jimbei_Kid;1.314348,103.883743
+139;939;"Geylang East Central";Boa Bonney;Boa_Bonney;1.320271,103.887383
+140;688;"Lorong 27 Geylang";Yamato God;Yamato_God;1.316220,103.883875
+141;945;"Guillemard Road";Sabo Katakuri;Sabo_Katakuri;1.312628,103.891373
+142;262;"Jalan Satu";Shanks Dancer;Shanks_Dancer;1.308417,103.889067
+143;427;"Geylang East Central";Shirahoshi Dancer;Shirahoshi_Dancer;1.320271,103.887383
+144;642;"Jalan Satu";Kozuki Cyborg;Kozuki_Cyborg;1.308417,103.889067
+145;216;"Tanjong Katong Road";Vinsmoke Revo;Vinsmoke_Revo;1.307258,103.895237
+146;604;"Geylang East Avenue 1";Eustass Cyborg;Eustass_Cyborg;1.316644,103.885156
+147;177;"Tanjong Katong Road";Arlong Onigashima;Arlong_Onigashima;1.300578,103.897151
+148;593;"Lorong 22 Geylang";Buggy Revo;Buggy_Revo;1.310695,103.882132
+149;215;"Lorong 27 Geylang";Buggy Chopper;Buggy_Chopper;1.316220,103.883875
+150;990;"Paya Lebar Road";Portgas D. Sir;Portgas_D_Sir;1.317709,103.892050
+151;202;"Jalan Enam";Franky Duke;Franky_Duke;1.307526,103.885526
+152;661;"Lorong 22 Geylang";Ivankov Fishman;Ivankov_Fishman;1.310695,103.882132
+153;409;"Jalan Enam";Rebecca Robin;Rebecca_Robin;1.307526,103.885526
+154;680;"Geylang East Avenue 2";Yamato Mr.2;Yamato_Mr2;1.316978,103.888492
+155;877;"Geylang East Avenue 1";Nefertari Cat Viper;Nefertari_Cat_Viper;1.317633,103.885626
+156;356;"Jalan Satu";Shirahoshi Clown;Shirahoshi_Clown;1.308417,103.889067
+157;238;"Paya Lebar Road";Enel Law;Enel_Law;1.332453,103.889079
+158;12;"Sims Avenue";Dracule Cat Viper;Dracule_Cat_Viper;1.318016,103.898978
+159;792;"Lorong 33 Geylang";Inuarashi Fishman;Inuarashi_Fishman;1.314985,103.887829
+160;983;"Lorong Bachok";Arlong Clown;Arlong_Clown;1.313942,103.879613
+161;348;"Aljunied Road";Marshall D. Clown;Marshall_D_Clown;1.329506,103.879412
+162;662;"Lorong 12 Geylang";Pekoms Cat Viper;Pekoms_Cat_Viper;1.311688,103.878273
+163;662;"Jalan Satu";Boa Star Clown;Boa_Star_Clown;1.308417,103.889067
+164;672;"Geylang Road";Crocodile Doflamingo;Crocodile_Doflamingo;1.314515,103.890311
+165;705;"Tanjong Katong Road";Yamato Cyborg;Yamato_Cyborg;1.307455,103.895417
+166;451;"Lorong 38 Geylang";Enel Cyborg;Enel_Cyborg;1.314343,103.888842
+167;860;"Lorong 16 Geylang";Jewelry Ace;Jewelry_Ace;1.311263,103.879935
+168;651;"Paya Lebar Road";Dracule Duke;Dracule_Duke;1.317709,103.892050
+169;76;"Guillemard Road";Bentham Gang Bege;Bentham_Gang_Bege;1.309616,103.880417
+170;522;"Sims Avenue";Donquixote Chopper;Donquixote_Chopper;1.313754,103.876751
+171;196;"Lorong 25 Geylang";Bentham Oden;Bentham_Oden;1.313546,103.882821
+172;773;"Paya Lebar Road";Shanks Mermaid Princess;Shanks_Mermaid_Princess;1.330617,103.889438
+173;449;"Tanjong Katong Road";Portgas D. Oden;Portgas_D_Oden;1.304861,103.896356
+174;957;"Lorong Bachok";Rebecca Gang Bege;Rebecca_Gang_Bege;1.313942,103.879613
+175;370;"Lorong 16 Geylang";Yamato Dancer;Yamato_Dancer;1.311263,103.879935
+176;468;"Paya Lebar Road";Inuarashi Luffy;Inuarashi_Luffy;1.319647,103.891600
+177;984;"Lorong 12 Geylang";Franky Katakuri;Franky_Katakuri;1.311688,103.878273
+178;905;"Lorong Bachok";Marshall D. Katakuri;Marshall_D_Katakuri;1.313942,103.879613
+179;759;"Geylang East Central";Jimbei Mihawk;Jimbei_Mihawk;1.320271,103.887383
+180;874;"Lorong 16 Geylang";Viola Cyborg;Viola_Cyborg;1.311263,103.879935
+181;185;"Lorong 33 Geylang";Ivankov Sanji;Ivankov_Sanji;1.314257,103.887989
+182;419;"Tanjong Katong Road";Crocodile Mad Monk;Crocodile_Mad_Monk;1.304861,103.896356
+183;531;"Geylang East Avenue 2";Portgas D. Dancer;Portgas_D_Dancer;1.316978,103.888492
+184;797;"Lorong 22 Geylang";Marshall D. Gang Bege;Marshall_D_Gang_Bege;1.310695,103.882132
+185;823;"Lorong 16 Geylang";Portgas D. Marine;Portgas_D_Marine;1.311263,103.879935
+186;873;"Jalan Enam";Shirahoshi Mad Monk;Shirahoshi_Mad_Monk;1.307526,103.885526
+187;286;"Lorong 22 Geylang";Shanks Luffy;Shanks_Luffy;1.310695,103.882132
+188;863;"Sims Avenue";Bentham Duke;Bentham_Duke;1.313754,103.876751
+189;423;"Lorong 10 Geylang";Bentham Cat Viper;Bentham_Cat_Viper;1.311060,103.877770
+190;309;"Tanjong Katong Road";Dracule Onigashima;Dracule_Onigashima;1.306196,103.896055
+191;609;"Sims Avenue";Boa Mihawk;Boa_Mihawk;1.319128,103.904389
+192;744;"Tanjong Katong Road";Donquixote Sir;Donquixote_Sir;1.304707,103.896406
+193;106;"Guillemard Road";Monkey D. Onigashima;Monkey_D_Onigashima;1.312628,103.891373
+194;295;"Lorong 12 Geylang";Brook Chopper;Brook_Chopper;1.311688,103.878273
+195;665;"Lorong 10 Geylang";Donquixote Revo;Donquixote_Revo;1.311060,103.877770
+196;813;"Lorong Bachok";Vinsmoke Doflamingo;Vinsmoke_Doflamingo;1.313942,103.879613
+197;305;"Tanjong Katong Road";Nefertari Cyborg;Nefertari_Cyborg;1.306296,103.896019
+198;292;"Lorong 40 Geylang";Crocodile Chopper;Crocodile_Chopper;1.312992,103.889933
+199;677;"Jalan Satu";Dracule Sir;Dracule_Sir;1.308453,103.889060
+200;446;"Lorong 25 Geylang";Monkey D. Cat Viper;Monkey_D_Cat_Viper;1.313488,103.882843
+201;404;"Lorong 28 Geylang";Bentham Mermaid Princess;Bentham_Mermaid_Princess;1.312948,103.885577
+202;473;"Lorong 40 Geylang";Marshall D. Robin;Marshall_D_Robin;1.312992,103.889933
+203;544;"Guillemard Road";Crocodile Revo;Crocodile_Revo;1.309288,103.878047
+204;912;"Paya Lebar Road";Vinsmoke Fishman;Vinsmoke_Fishman;1.328633,103.889822
+205;211;"Guillemard Road";Jewelry Fishman;Jewelry_Fishman;1.309288,103.878047
+206;574;"Tanjong Katong Road";Monkey D. Luffy;Monkey_D_Luffy;1.308459,103.894899
+207;545;"Lorong 25 Geylang";Monkey D. Clown;Monkey_D_Clown;1.313488,103.882843
+208;700;"Guillemard Road";Donquixote Mr.2;Donquixote_Mr2;1.309288,103.878047
+209;722;"Geylang East Central";Nico Ace;Nico_Ace;1.320271,103.887383
+210;365;"Lorong 38 Geylang";Roronoa Clown;Roronoa_Clown;1.314268,103.888856
+211;415;"Paya Lebar Road";Tony Tony Gang Bege;Tony_Tony_Gang_Bege;1.328633,103.889822
+212;408;"Lorong 10 Geylang";Tony Tony Law;Tony_Tony_Law;1.311505,103.877669
+213;727;"Geylang East Central";Eustass Mihawk;Eustass_Mihawk;1.320271,103.887383
+214;660;"Lorong 22 Geylang";Vinsmoke Mad Monk;Vinsmoke_Mad_Monk;1.311354,103.882128
+215;395;"Paya Lebar Road";Caesar Mad Monk;Caesar_Mad_Monk;1.328633,103.889822
+216;350;"Lorong Bachok";Koala Red-Haired;Koala_RedHaired;1.313975,103.879763
+217;173;"Lorong 33 Geylang";Monkey D. Teach;Monkey_D_Teach;1.315797,103.887885
+218;796;"Lorong 40 Geylang";X. Drake Sanji;X_Drake_Sanji;1.312992,103.889933
+219;111;"Lorong 12 Geylang";Donquixote Sanji;Donquixote_Sanji;1.311688,103.878273
+220;634;"Guillemard Road";Pedro Mermaid Princess;Pedro_Mermaid_Princess;1.311316,103.885966
+221;109;"Guillemard Road";Tony Tony Ace;Tony_Tony_Ace;1.309288,103.878047
+222;666;"Lorong 40 Geylang";Caesar Robin;Caesar_Robin;1.312992,103.889933
+223;799;"Geylang East Avenue 2";Shanks Red-Haired;Shanks_RedHaired;1.319345,103.888818
+224;81;"Lorong 22 Geylang";Portgas D. Teach;Portgas_D_Teach;1.311354,103.882128
+225;882;"Jalan Enam";Franky Mermaid Princess;Franky_Mermaid_Princess;1.307334,103.885615
+226;919;"Lorong 16 Geylang";Yamato Gang Bege;Yamato_Gang_Bege;1.311786,103.879886
+227;510;"Geylang East Avenue 2";Franky Onigashima;Franky_Onigashima;1.316929,103.888472
+228;507;"Lorong 38 Geylang";Kozuki Luffy;Kozuki_Luffy;1.314268,103.888856
+229;143;"Lorong 10 Geylang";Viola Revo;Viola_Revo;1.311505,103.877669
+230;873;"Lorong 38 Geylang";Shirahoshi Duke;Shirahoshi_Duke;1.314268,103.888856
+231;278;"Jalan Enam";Inuarashi (Okama);Inuarashi_Okama;1.307334,103.885615
+232;162;"Lorong 38 Geylang";Jewelry Mr.2;Jewelry_Mr2;1.314268,103.888856
+233;97;"Guillemard Road";Sabo Chopper;Sabo_Chopper;1.311316,103.885966
+234;582;"Sims Avenue";Donquixote Mermaid Princess;Donquixote_Mermaid_Princess;1.315242,103.883405
+235;72;"Lorong 38 Geylang";Viola Chopper;Viola_Chopper;1.314268,103.888856
+236;881;"Lorong 40 Geylang";Charlotte Mad Monk;Charlotte_Mad_Monk;1.312992,103.889933
+237;242;"Lorong 25 Geylang";Inuarashi Robin;Inuarashi_Robin;1.313488,103.882843
+238;949;"Lorong Bachok";Pedro Hancock;Pedro_Hancock;1.313975,103.879763
+239;771;"Guillemard Road";X. Drake Cat Viper;X_Drake_Cat_Viper;1.309288,103.878047
+240;965;"Lorong 38 Geylang";Sabo Oden;Sabo_Oden;1.314268,103.888856
+241;162;"Lorong 16 Geylang";Viola Onigashima;Viola_Onigashima;1.311786,103.879886
+242;170;"Lorong 25 Geylang";Crocodile Clown;Crocodile_Clown;1.313488,103.882843
+243;951;"Geylang East Avenue 1";Nefertari Mermaid Princess;Nefertari_Mermaid_Princess;1.316649,103.885158
+244;377;"Lorong 12 Geylang";Caesar Onigashima;Caesar_Onigashima;1.311688,103.878273
+245;196;"Paya Lebar Road";Jewelry Kid;Jewelry_Kid;1.328633,103.889822
+246;594;"Lorong 40 Geylang";Caesar Ace;Caesar_Ace;1.312992,103.889933
+247;224;"Jalan Satu";Arlong Star Clown;Arlong_Star_Clown;1.308453,103.889060
+248;882;"Lorong 28 Geylang";Sabo Clown;Sabo_Clown;1.312948,103.885577
+249;703;"Lorong 28 Geylang";Eustass Zoro;Eustass_Zoro;1.312948,103.885577
+250;82;"Jalan Dua";Nekomamushi Red-Haired;Nekomamushi_RedHaired;1.308984,103.887473
+251;917;"Lorong 38 Geylang";Charlotte Revo;Charlotte_Revo;1.313951,103.888916
+252;907;"Lorong 10 Geylang";Pedro Cyborg;Pedro_Cyborg;1.311505,103.877669
+253;429;"Lorong 40 Geylang";Sabo Red-Haired;Sabo_RedHaired;1.312992,103.889933
+254;981;"Lorong 25 Geylang";Nekomamushi Chopper;Nekomamushi_Chopper;1.313488,103.882843
+255;493;"Lorong 40 Geylang";Franky Law;Franky_Law;1.312992,103.889933
+256;993;"Jalan Enam";Donquixote Doflamingo;Donquixote_Doflamingo;1.307604,103.885438
+257;619;"Paya Lebar Road";Charlotte (Okama);Charlotte_Okama;1.328633,103.889822
+258;818;"Lorong 33 Geylang";Brook Cat Viper;Brook_Cat_Viper;1.316027,103.888000
+259;103;"Lorong 12 Geylang";Roronoa Gang Bege;Roronoa_Gang_Bege;1.311688,103.878273
+260;430;"Lorong 12 Geylang";Dracule Mihawk;Dracule_Mihawk;1.311688,103.878273
+261;553;"Geylang East Central";Pedro Mihawk;Pedro_Mihawk;1.320271,103.887383
+262;921;"Geylang East Avenue 1";Nefertari Zoro;Nefertari_Zoro;1.316649,103.885158
+263;551;"Lorong Bachok";Roronoa Gladiator;Roronoa_Gladiator;1.313975,103.879763
+264;883;"Jalan Dua";Arlong Robin;Arlong_Robin;1.308984,103.887473
+265;237;"Geylang East Avenue 2";Vinsmoke Duke;Vinsmoke_Duke;1.318552,103.889010
+266;512;"Lorong 38 Geylang";Crocodile Luffy;Crocodile_Luffy;1.314268,103.888856
+267;833;"Lorong 25 Geylang";Portgas D. Doflamingo;Portgas_D_Doflamingo;1.314279,103.882528
+268;6;"Geylang East Avenue 2";Marshall D. Marine;Marshall_D_Marine;1.317158,103.890001
+269;887;"Jalan Dua";Portgas D. Revo;Portgas_D_Revo;1.308984,103.887473
+270;355;"Tanjong Katong Road";Ivankov Fishman;Ivankov_Fishman;1.303616,103.896680
+271;506;"Lorong 25 Geylang";Trafalgar D. Marine;Trafalgar_D_Marine;1.313488,103.882843
+272;324;"Paya Lebar Road";Bentham Mr.2;Bentham_Mr2;1.328633,103.889822
+273;226;"Lorong 16 Geylang";Vinsmoke Teach;Vinsmoke_Teach;1.311786,103.879886
+274;246;"Tanjong Katong Road";Eustass Mad Monk;Eustass_Mad_Monk;1.306358,103.895616
+275;515;"Lorong 27 Geylang";Viola Luffy;Viola_Luffy;1.315859,103.883817
+276;558;"Lorong Bachok";Roronoa Doflamingo;Roronoa_Doflamingo;1.313975,103.879763
+277;748;"Lorong 40 Geylang";Kozuki Robin;Kozuki_Robin;1.312992,103.889933
+278;863;"Lorong 10 Geylang";Rebecca Mad Monk;Rebecca_Mad_Monk;1.311505,103.877669
+279;526;"Paya Lebar Road";Yamato Vivi;Yamato_Vivi;1.328633,103.889822
+280;199;"Lorong 27 Geylang";Vinsmoke Dancer;Vinsmoke_Dancer;1.315859,103.883817
+281;634;"Geylang East Avenue 1";Enel Ace;Enel_Ace;1.316649,103.885158
+282;559;"Paya Lebar Road";Dracule God;Dracule_God;1.328633,103.889822
+283;291;"Lorong 40 Geylang";Sabo Cat Viper;Sabo_Cat_Viper;1.312992,103.889933
+284;606;"Lorong 25 Geylang";Rebecca Cat Viper;Rebecca_Cat_Viper;1.313488,103.882843
+285;798;"Geylang East Avenue 1";Nico Sanji;Nico_Sanji;1.317657,103.885703
+286;893;"Lorong 38 Geylang";Enel (Okama);Enel_Okama;1.314268,103.888856
+287;81;"Paya Lebar Road";Bentham God;Bentham_God;1.329271,103.889845
+288;308;"Lorong 12 Geylang";Arlong Revo;Arlong_Revo;1.311688,103.878273
+289;780;"Geylang Road";Monkey D. Mermaid Princess;Monkey_D_Mermaid_Princess;1.313369,103.883518
+290;637;"Lorong 27 Geylang";Donquixote Star Clown;Donquixote_Star_Clown;1.315859,103.883817
+291;798;"Aljunied Road";Boa Oden;Boa_Oden;1.320843,103.881743
+292;894;"Lorong 10 Geylang";Pekoms Gang Bege;Pekoms_Gang_Bege;1.311505,103.877669
+293;152;"Lorong Bachok";Eustass Kid;Eustass_Kid;1.313975,103.879763
+294;953;"Lorong 10 Geylang";Bentham Clown;Bentham_Clown;1.312150,103.877529
+295;353;"Geylang East Avenue 1";Nico Katakuri;Nico_Katakuri;1.316649,103.885158
+296;625;"Geylang Road";Buggy Luffy;Buggy_Luffy;1.313369,103.883518
+297;544;"Lorong 12 Geylang";Eustass (Okama);Eustass_Okama;1.311688,103.878273
+298;235;"Jalan Satu";Jewelry Revo;Jewelry_Revo;1.308453,103.889060
+299;436;"Lorong 28 Geylang";X. Drake Ace;X_Drake_Ace;1.312948,103.885577
+300;183;"Jalan Dua";Nefertari Doflamingo;Nefertari_Doflamingo;1.308984,103.887473
+301;216;"Lorong 16 Geylang";Inuarashi Gladiator;Inuarashi_Gladiator;1.311786,103.879886
+302;35;"Geylang East Avenue 2";Shanks Duke;Shanks_Duke;1.318016,103.888966
+303;314;"Jalan Dua";Yamato Duke;Yamato_Duke;1.308984,103.887473
+304;928;"Lorong 33 Geylang";Crocodile Sir;Crocodile_Sir;1.315043,103.887816
+305;190;"Geylang East Central";Urouge Luffy;Urouge_Luffy;1.320271,103.887383
+306;890;"Geylang East Central";Pedro Fishman;Pedro_Fishman;1.320271,103.887383
+307;414;"Lorong 25 Geylang";Enel Robin;Enel_Robin;1.313488,103.882843
+308;913;"Sims Avenue";Monkey D. Chopper;Monkey_D_Chopper;1.311498,103.872027
+309;759;"Lorong 22 Geylang";Roronoa Sir;Roronoa_Sir;1.311354,103.882128
+310;157;"Aljunied Road";Jewelry Hancock;Jewelry_Hancock;1.327641,103.880045
+311;72;"Jalan Enam";Jewelry Mad Monk;Jewelry_Mad_Monk;1.307334,103.885615
+312;943;"Aljunied Road";Boa Sir;Boa_Sir;1.329718,103.879493
+313;907;"Lorong 28 Geylang";Nekomamushi Fishman;Nekomamushi_Fishman;1.312948,103.885577
+314;637;"Jalan Enam";Crocodile Teach;Crocodile_Teach;1.307334,103.885615
+315;632;"Geylang East Central";Bentham Robin;Bentham_Robin;1.320271,103.887383
+316;579;"Lorong 25 Geylang";Sabo God;Sabo_God;1.313488,103.882843
+317;130;"Lorong Bachok";Jewelry Onigashima;Jewelry_Onigashima;1.313975,103.879763
+318;711;"Lorong Bachok";Ivankov Dancer;Ivankov_Dancer;1.313975,103.879763
+319;395;"Lorong 16 Geylang";Eustass God;Eustass_God;1.312466,103.879822
+320;189;"Lorong 28 Geylang";Crocodile Katakuri;Crocodile_Katakuri;1.312266,103.885598
+321;928;"Geylang East Avenue 1";Charlotte Duke;Charlotte_Duke;1.316649,103.885158
+322;846;"Sims Avenue";Koala Luffy;Koala_Luffy;1.317481,103.901547
+323;108;"Lorong 27 Geylang";Ivankov Mr.2;Ivankov_Mr2;1.315859,103.883817
+324;100;"Lorong 38 Geylang";Kozuki Oden;Kozuki_Oden;1.314268,103.888856
+325;129;"Lorong 28 Geylang";Nefertari Bonney;Nefertari_Bonney;1.312948,103.885577
+326;772;"Geylang Road";Enel Cat Viper;Enel_Cat_Viper;1.313369,103.883518
+327;748;"Geylang Road";Vinsmoke Fishman;Vinsmoke_Fishman;1.312238,103.877114
+328;720;"Lorong 38 Geylang";Pedro Sir;Pedro_Sir;1.314268,103.888856
+329;673;"Guillemard Road";Trafalgar D. Onigashima;Trafalgar_D_Onigashima;1.311316,103.885966
+330;704;"Geylang Road";Monkey D. Sanji;Monkey_D_Sanji;1.314658,103.891052
+331;208;"Sims Avenue";Arlong Cyborg;Arlong_Cyborg;1.315242,103.883405
+332;911;"Geylang East Central";Marshall D. Star Clown;Marshall_D_Star_Clown;1.320271,103.887383
+333;761;"Tanjong Katong Road";Buggy God;Buggy_God;1.316038,103.894042
+334;797;"Lorong Bachok";Roronoa Fishman;Roronoa_Fishman;1.313975,103.879763
+335;608;"Jalan Satu";Capone Fishman;Capone_Fishman;1.308453,103.889060
+336;522;"Lorong 38 Geylang";Tony Tony Fishman;Tony_Tony_Fishman;1.314268,103.888856
+337;902;"Lorong 10 Geylang";Jewelry Teach;Jewelry_Teach;1.311505,103.877669
+338;291;"Geylang Road";Brook Star Clown;Brook_Star_Clown;1.313369,103.883518
+339;906;"Sims Avenue";Inuarashi Cyborg;Inuarashi_Cyborg;1.317736,103.903608
+340;999;"Tanjong Katong Road";Ivankov Hancock;Ivankov_Hancock;1.303616,103.896680
+341;350;"Lorong 22 Geylang";Nefertari Sir;Nefertari_Sir;1.311354,103.882128
+342;115;"Geylang East Avenue 2";Shanks Mr.2;Shanks_Mr2;1.316929,103.888472
+343;625;"Geylang East Avenue 1";Capone Cat Viper;Capone_Cat_Viper;1.316649,103.885158
+344;90;"Lorong 25 Geylang";Koala Robin;Koala_Robin;1.314279,103.882528
+345;747;"Geylang East Central";Charlotte Clown;Charlotte_Clown;1.320271,103.887383
+346;794;"Aljunied Road";Tony Tony Robin;Tony_Tony_Robin;1.320843,103.881743
+347;406;"Geylang East Avenue 2";Sabo Gladiator;Sabo_Gladiator;1.316929,103.888472
+348;748;"Lorong 40 Geylang";Ivankov Chopper;Ivankov_Chopper;1.312992,103.889933
+349;716;"Lorong 27 Geylang";Jimbei Robin;Jimbei_Robin;1.316220,103.883875
+350;794;"Paya Lebar Road";Brook Cyborg;Brook_Cyborg;1.331659,103.889374
+351;742;"Lorong 16 Geylang";Enel Clown;Enel_Clown;1.311263,103.879935
+352;900;"Geylang East Avenue 2";Crocodile (Okama);Crocodile_Okama;1.316978,103.888492
+353;275;"Tanjong Katong Road";Roronoa Zoro;Roronoa_Zoro;1.307071,103.895723
+354;337;"Guillemard Road";Arlong Ace;Arlong_Ace;1.311482,103.885416
+355;631;"Lorong Bachok";Donquixote Luffy;Donquixote_Luffy;1.313942,103.879613
+356;568;"Geylang East Avenue 1";Roronoa Katakuri;Roronoa_Katakuri;1.316644,103.885156
+357;323;"Tanjong Katong Road";Inuarashi Ace;Inuarashi_Ace;1.311794,103.894196
+358;685;"Lorong 40 Geylang";Capone Mihawk;Capone_Mihawk;1.313164,103.889899
+359;624;"Geylang Road";Franky Zoro;Franky_Zoro;1.315336,103.893413
+360;525;"Lorong Bachok";Capone Mermaid Princess;Capone_Mermaid_Princess;1.313942,103.879613
+361;211;"Lorong 16 Geylang";Vinsmoke Vivi;Vinsmoke_Vivi;1.311263,103.879935
+362;296;"Lorong 25 Geylang";Jimbei Oden;Jimbei_Oden;1.313546,103.882821
+363;240;"Geylang East Avenue 1";Koala Mihawk;Koala_Mihawk;1.316644,103.885156
+364;147;"Lorong 16 Geylang";Caesar Red-Haired;Caesar_RedHaired;1.311263,103.879935
+365;695;"Geylang East Central";Shirahoshi Sanji;Shirahoshi_Sanji;1.320271,103.887383
+366;619;"Paya Lebar Road";Koala Marine;Koala_Marine;1.317709,103.892050
+367;449;"Paya Lebar Road";Brook Mad Monk;Brook_Mad_Monk;1.317709,103.892050
+368;51;"Geylang Road";Roronoa Vivi;Roronoa_Vivi;1.308361,103.886055
+369;247;"Lorong 22 Geylang";Trafalgar D. Revo;Trafalgar_D_Revo;1.310695,103.882132
+370;506;"Lorong 28 Geylang";Sabo Mermaid Princess;Sabo_Mermaid_Princess;1.313172,103.885564
+371;399;"Jalan Satu";Boa Law;Boa_Law;1.308417,103.889067
+372;582;"Geylang East Central";Rebecca Kid;Rebecca_Kid;1.320271,103.887383
+373;717;"Geylang Road";Kozuki Bonney;Kozuki_Bonney;1.315538,103.894412
+374;331;"Aljunied Road";Capone Clown;Capone_Clown;1.329506,103.879412
+375;602;"Lorong 40 Geylang";Portgas D. Gladiator;Portgas_D_Gladiator;1.313881,103.889303
+376;477;"Paya Lebar Road";Donquixote Red-Haired;Donquixote_RedHaired;1.317709,103.892050
+377;749;"Aljunied Road";X. Drake Red-Haired;X_Drake_RedHaired;1.329506,103.879412
+378;434;"Aljunied Road";Ivankov Doflamingo;Ivankov_Doflamingo;1.329506,103.879412
+379;347;"Guillemard Road";Tony Tony God;Tony_Tony_God;1.311635,103.886074
+380;99;"Lorong Bachok";Portgas D. Law;Portgas_D_Law;1.313942,103.879613
+381;813;"Lorong 27 Geylang";Eustass Gang Bege;Eustass_Gang_Bege;1.316220,103.883875
+382;410;"Guillemard Road";Pedro Luffy;Pedro_Luffy;1.312628,103.891373
+383;392;"Tanjong Katong Road";Inuarashi Mr.2;Inuarashi_Mr2;1.308121,103.895077
+384;119;"Jalan Enam";Monkey D. Bonney;Monkey_D_Bonney;1.307526,103.885526
+385;651;"Lorong 40 Geylang";Eustass Cat Viper;Eustass_Cat_Viper;1.313164,103.889899
+386;262;"Geylang Road";Jewelry Sanji;Jewelry_Sanji;1.310151,103.871860
+387;832;"Lorong 25 Geylang";Capone Revo;Capone_Revo;1.313546,103.882821
+388;110;"Tanjong Katong Road";Boa Robin;Boa_Robin;1.304707,103.896406
+389;334;"Lorong 40 Geylang";Bentham Ace;Bentham_Ace;1.313164,103.889899
+390;580;"Lorong 22 Geylang";Crocodile Mihawk;Crocodile_Mihawk;1.310695,103.882132
+391;409;"Lorong 10 Geylang";Marshall D. (Okama);Marshall_D_Okama;1.311060,103.877770
+392;976;"Lorong 38 Geylang";Marshall D. God;Marshall_D_God;1.314343,103.888842
+393;882;"Lorong Bachok";Sabo Sir;Sabo_Sir;1.313895,103.879379
+394;673;"Lorong 38 Geylang";Koala Gladiator;Koala_Gladiator;1.314343,103.888842
+395;969;"Geylang East Avenue 2";Yamato Luffy;Yamato_Luffy;1.316978,103.888492
+396;796;"Lorong 10 Geylang";Shirahoshi Star Clown;Shirahoshi_Star_Clown;1.311060,103.877770
+397;161;"Lorong 12 Geylang";Inuarashi Onigashima;Inuarashi_Onigashima;1.311688,103.878273
+398;992;"Lorong 22 Geylang";Brook Mermaid Princess;Brook_Mermaid_Princess;1.310695,103.882132
+399;286;"Guillemard Road";Pekoms Sir;Pekoms_Sir;1.314038,103.892929
+400;124;"Sims Avenue";X. Drake Hancock;X_Drake_Hancock;1.314097,103.878333
+401;888;"Paya Lebar Road";Nefertari Dancer;Nefertari_Dancer;1.317709,103.892050
+402;511;"Paya Lebar Road";Kozuki Teach;Kozuki_Teach;1.317709,103.892050
+403;583;"Lorong 38 Geylang";Tony Tony Clown;Tony_Tony_Clown;1.314343,103.888842
+404;354;"Aljunied Road";Trafalgar D. Mad Monk;Trafalgar_D_Mad_Monk;1.329506,103.879412
+405;750;"Lorong 28 Geylang";Charlotte Law;Charlotte_Law;1.313172,103.885564
+406;722;"Lorong 22 Geylang";X. Drake Mad Monk;X_Drake_Mad_Monk;1.310695,103.882132
+407;153;"Lorong 38 Geylang";Roronoa Mr.2;Roronoa_Mr2;1.314343,103.888842
+408;967;"Lorong 28 Geylang";Pekoms Hancock;Pekoms_Hancock;1.311265,103.885729
+409;574;"Guillemard Road";Portgas D. Chopper;Portgas_D_Chopper;1.312628,103.891373
+410;983;"Lorong 38 Geylang";Ivankov Bonney;Ivankov_Bonney;1.314343,103.888842
+411;403;"Lorong 25 Geylang";Buggy Bonney;Buggy_Bonney;1.313546,103.882821
+412;327;"Lorong 38 Geylang";Pedro Law;Pedro_Law;1.314343,103.888842
+413;592;"Geylang Road";Marshall D. Oden;Marshall_D_Oden;1.314031,103.887856
+414;325;"Lorong 12 Geylang";Urouge Fishman;Urouge_Fishman;1.311688,103.878273
+415;836;"Lorong 33 Geylang";Sabo Doflamingo;Sabo_Doflamingo;1.315935,103.887954
+416;292;"Lorong 27 Geylang";Shirahoshi Fishman;Shirahoshi_Fishman;1.316220,103.883875
+417;317;"Geylang East Avenue 1";Nefertari Gladiator;Nefertari_Gladiator;1.315622,103.885002
+418;151;"Lorong Bachok";Jimbei (Okama);Jimbei_Okama;1.313942,103.879613
+419;923;"Geylang East Central";Vinsmoke Mermaid Princess;Vinsmoke_Mermaid_Princess;1.320271,103.887383
+420;145;"Lorong 16 Geylang";Monkey D. Marine;Monkey_D_Marine;1.311263,103.879935
+421;259;"Lorong 38 Geylang";Dracule Mr.2;Dracule_Mr2;1.314343,103.888842
+422;898;"Lorong 16 Geylang";Vinsmoke Ace;Vinsmoke_Ace;1.311263,103.879935
+423;901;"Jalan Satu";Brook Fishman;Brook_Fishman;1.309643,103.887502
+424;697;"Tanjong Katong Road";X. Drake Clown;X_Drake_Clown;1.304707,103.896406
+425;449;"Lorong 40 Geylang";Bentham Mihawk;Bentham_Mihawk;1.313164,103.889899
+426;859;"Lorong 16 Geylang";Eustass Duke;Eustass_Duke;1.312309,103.879837
+427;947;"Lorong 16 Geylang";Franky Sir;Franky_Sir;1.311263,103.879935
+428;710;"Geylang East Avenue 2";Monkey D. God;Monkey_D_God;1.316978,103.888492
+429;639;"Lorong 12 Geylang";Jewelry Cat Viper;Jewelry_Cat_Viper;1.311688,103.878273
+430;510;"Tanjong Katong Road";Inuarashi Mihawk;Inuarashi_Mihawk;1.304707,103.896406
+431;606;"Geylang East Central";Caesar Fishman;Caesar_Fishman;1.320271,103.887383
+432;769;"Lorong 27 Geylang";Jewelry Oden;Jewelry_Oden;1.316220,103.883875
+433;722;"Aljunied Road";X. Drake Mihawk;X_Drake_Mihawk;1.329506,103.879412
+434;65;"Lorong 28 Geylang";Nefertari Fishman;Nefertari_Fishman;1.313172,103.885564
+435;698;"Lorong 27 Geylang";Buggy Katakuri;Buggy_Katakuri;1.313563,103.883757
+436;34;"Lorong 33 Geylang";Jewelry Law;Jewelry_Law;1.315935,103.887954
+437;726;"Lorong 28 Geylang";Dracule Kid;Dracule_Kid;1.313172,103.885564
+438;623;"Guillemard Road";Buggy Duke;Buggy_Duke;1.312628,103.891373
+439;93;"Aljunied Road";Shirahoshi God;Shirahoshi_God;1.329506,103.879412
+440;139;"Lorong 25 Geylang";Koala Onigashima;Koala_Onigashima;1.313546,103.882821
+441;255;"Geylang East Avenue 2";Koala Clown;Koala_Clown;1.316978,103.888492
+442;643;"Jalan Dua";X. Drake Revo;X_Drake_Revo;1.308992,103.887518
+443;447;"Lorong 16 Geylang";Enel Katakuri;Enel_Katakuri;1.311263,103.879935
+444;475;"Lorong 12 Geylang";Trafalgar D. Cyborg;Trafalgar_D_Cyborg;1.311688,103.878273
+445;650;"Lorong Bachok";Capone Bonney;Capone_Bonney;1.313942,103.879613
+446;701;"Lorong 27 Geylang";Pedro Star Clown;Pedro_Star_Clown;1.316220,103.883875
+447;669;"Paya Lebar Road";Caesar Mermaid Princess;Caesar_Mermaid_Princess;1.317709,103.892050
+448;960;"Lorong 33 Geylang";Shirahoshi Cyborg;Shirahoshi_Cyborg;1.315935,103.887954
+449;706;"Geylang Road";Boa Luffy;Boa_Luffy;1.314667,103.891098
+450;746;"Lorong 28 Geylang";Rebecca Katakuri;Rebecca_Katakuri;1.311265,103.885729
+451;694;"Lorong 12 Geylang";Tony Tony Cyborg;Tony_Tony_Cyborg;1.311688,103.878273
+452;535;"Lorong 10 Geylang";Crocodile Kid;Crocodile_Kid;1.311060,103.877770
+453;642;"Geylang East Avenue 2";Nefertari Chopper;Nefertari_Chopper;1.316978,103.888492
+454;995;"Lorong 12 Geylang";X. Drake Doflamingo;X_Drake_Doflamingo;1.311688,103.878273
+455;35;"Lorong Bachok";Charlotte Vivi;Charlotte_Vivi;1.313942,103.879613
+456;430;"Tanjong Katong Road";Eustass Robin;Eustass_Robin;1.304707,103.896406
+457;414;"Sims Avenue";Tony Tony Revo;Tony_Tony_Revo;1.318203,103.899875
+458;441;"Lorong 38 Geylang";Nico Hancock;Nico_Hancock;1.314343,103.888842
+459;708;"Lorong 33 Geylang";Monkey D. Robin;Monkey_D_Robin;1.315599,103.887786
+460;71;"Lorong 16 Geylang";Charlotte Robin;Charlotte_Robin;1.310378,103.880260
+461;692;"Lorong 25 Geylang";Charlotte Mr.2;Charlotte_Mr2;1.313546,103.882821
+462;916;"Lorong Bachok";Eustass Revo;Eustass_Revo;1.313942,103.879613
+463;105;"Jalan Dua";Buggy Clown;Buggy_Clown;1.308992,103.887518
+464;208;"Lorong 27 Geylang";Yamato Oden;Yamato_Oden;1.316220,103.883875
+465;894;"Geylang East Avenue 2";Trafalgar D. Gladiator;Trafalgar_D_Gladiator;1.316978,103.888492
+466;876;"Lorong 28 Geylang";Portgas D. Bonney;Portgas_D_Bonney;1.313172,103.885564
+467;685;"Geylang East Central";Nekomamushi Teach;Nekomamushi_Teach;1.320271,103.887383
+468;717;"Lorong 22 Geylang";Enel Gang Bege;Enel_Gang_Bege;1.310695,103.882132
+469;162;"Jalan Enam";Marshall D. Onigashima;Marshall_D_Onigashima;1.307526,103.885526
+470;364;"Lorong 28 Geylang";Urouge (Okama);Urouge_Okama;1.313172,103.885564
+471;644;"Lorong 22 Geylang";Trafalgar D. Law;Trafalgar_D_Law;1.310695,103.882132
+472;760;"Lorong 10 Geylang";Caesar Marine;Caesar_Marine;1.311060,103.877770
+473;273;"Geylang East Avenue 2";Bentham Cyborg;Bentham_Cyborg;1.318169,103.889075
+474;540;"Geylang East Avenue 2";Brook Sir;Brook_Sir;1.316978,103.888492
+475;422;"Geylang Road";Koala Mad Monk;Koala_Mad_Monk;1.310151,103.871860
+476;65;"Lorong 25 Geylang";Eustass Marine;Eustass_Marine;1.313546,103.882821
+477;350;"Lorong 12 Geylang";Donquixote Zoro;Donquixote_Zoro;1.311688,103.878273
+478;197;"Guillemard Road";Koala Fishman;Koala_Fishman;1.310403,103.882010
+479;439;"Lorong 25 Geylang";Nekomamushi Hancock;Nekomamushi_Hancock;1.313546,103.882821
+480;209;"Lorong 10 Geylang";Viola Oden;Viola_Oden;1.311060,103.877770
+481;891;"Lorong 33 Geylang";Inuarashi Law;Inuarashi_Law;1.315935,103.887954
+482;162;"Lorong Bachok";Franky Doflamingo;Franky_Doflamingo;1.313942,103.879613
+483;283;"Tanjong Katong Road";Inuarashi Marine;Inuarashi_Marine;1.306872,103.895800
+484;906;"Geylang Road";Capone Red-Haired;Capone_RedHaired;1.315336,103.893413
+485;556;"Paya Lebar Road";Donquixote Dancer;Donquixote_Dancer;1.317709,103.892050
+486;824;"Lorong 40 Geylang";Inuarashi Zoro;Inuarashi_Zoro;1.313164,103.889899
+487;840;"Tanjong Katong Road";Vinsmoke Robin;Vinsmoke_Robin;1.299503,103.897055
+488;207;"Geylang Road";Crocodile Oden;Crocodile_Oden;1.310151,103.871860
+489;248;"Geylang East Avenue 2";Tony Tony Cat Viper;Tony_Tony_Cat_Viper;1.316978,103.888492
+490;286;"Geylang East Avenue 1";Rebecca Clown;Rebecca_Clown;1.316644,103.885156
+491;465;"Aljunied Road";Enel Zoro;Enel_Zoro;1.329506,103.879412
+492;993;"Guillemard Road";Rebecca (Okama);Rebecca_Okama;1.312628,103.891373
+493;944;"Lorong 33 Geylang";Vinsmoke Mihawk;Vinsmoke_Mihawk;1.315935,103.887954
+494;419;"Lorong 10 Geylang";Pekoms Sanji;Pekoms_Sanji;1.311060,103.877770
+495;398;"Lorong 27 Geylang";Nefertari Star Clown;Nefertari_Star_Clown;1.316220,103.883875
+496;459;"Jalan Dua";Buggy Cat Viper;Buggy_Cat_Viper;1.308992,103.887518
+497;377;"Guillemard Road";Tony Tony Red-Haired;Tony_Tony_RedHaired;1.312628,103.891373
+498;675;"Guillemard Road";Dracule Law;Dracule_Law;1.312628,103.891373
+499;424;"Jalan Dua";Vinsmoke Luffy;Vinsmoke_Luffy;1.308984,103.887473
+500;286;"Aljunied Road";Rebecca Doflamingo;Rebecca_Doflamingo;1.329290,103.879483
+501;713;"Jalan Satu";Rebecca Mermaid Princess;Rebecca_Mermaid_Princess;1.308453,103.889060
+502;165;"Geylang East Central";Brook Mr.2;Brook_Mr2;1.320271,103.887383
+503;13;"Paya Lebar Road";Ivankov Duke;Ivankov_Duke;1.329811,103.889595
+504;987;"Lorong 38 Geylang";Sabo Sanji;Sabo_Sanji;1.313951,103.888916
+505;391;"Tanjong Katong Road";Tony Tony Oden;Tony_Tony_Oden;1.305358,103.896144
+506;963;"Lorong 25 Geylang";Franky Kid;Franky_Kid;1.313488,103.882843
+507;373;"Guillemard Road";Rebecca Duke;Rebecca_Duke;1.312959,103.891674
+508;366;"Jalan Enam";Franky Cyborg;Franky_Cyborg;1.307334,103.885615
+509;423;"Paya Lebar Road";Nico Robin;Nico_Robin;1.317709,103.892050
+510;499;"Geylang Road";X. Drake Cyborg;X_Drake_Cyborg;1.313840,103.885911
+511;661;"Aljunied Road";Eustass Bonney;Eustass_Bonney;1.329290,103.879483
+512;83;"Lorong 33 Geylang";Ivankov Marine;Ivankov_Marine;1.316027,103.888000
+513;195;"Lorong 28 Geylang";Dracule Cyborg;Dracule_Cyborg;1.312948,103.885577
+514;107;"Lorong 16 Geylang";Pedro Chopper;Pedro_Chopper;1.311786,103.879886
+515;275;"Paya Lebar Road";Crocodile Bonney;Crocodile_Bonney;1.317709,103.892050
+516;59;"Lorong 28 Geylang";Jimbei Cat Viper;Jimbei_Cat_Viper;1.311408,103.885655
+517;467;"Jalan Enam";Boa Onigashima;Boa_Onigashima;1.307334,103.885615
+518;736;"Geylang East Avenue 1";Tony Tony Mermaid Princess;Tony_Tony_Mermaid_Princess;1.316649,103.885158
+519;429;"Geylang East Central";Enel Vivi;Enel_Vivi;1.320271,103.887383
+520;380;"Lorong 16 Geylang";Pekoms Gladiator;Pekoms_Gladiator;1.311786,103.879886
+521;887;"Jalan Dua";Eustass Hancock;Eustass_Hancock;1.308984,103.887473
+522;776;"Lorong 22 Geylang";Brook Zoro;Brook_Zoro;1.311354,103.882128
+523;627;"Lorong 27 Geylang";Nekomamushi Bonney;Nekomamushi_Bonney;1.315859,103.883817
+524;357;"Geylang East Avenue 1";Crocodile Gang Bege;Crocodile_Gang_Bege;1.316649,103.885158
+525;251;"Jalan Dua";Sabo Teach;Sabo_Teach;1.308984,103.887473
+526;550;"Lorong 16 Geylang";Shanks Vivi;Shanks_Vivi;1.311786,103.879886
+527;228;"Jalan Enam";Enel God;Enel_God;1.307334,103.885615
+528;946;"Lorong 12 Geylang";Vinsmoke Zoro;Vinsmoke_Zoro;1.311688,103.878273
+529;723;"Guillemard Road";Jewelry Zoro;Jewelry_Zoro;1.311597,103.887383
+530;655;"Guillemard Road";Brook Clown;Brook_Clown;1.312959,103.891674
+531;333;"Lorong 16 Geylang";Tony Tony Gladiator;Tony_Tony_Gladiator;1.311786,103.879886
+532;487;"Lorong 16 Geylang";Dracule Ace;Dracule_Ace;1.311786,103.879886
+533;834;"Geylang East Central";Pekoms Cyborg;Pekoms_Cyborg;1.320271,103.887383
+534;373;"Lorong 40 Geylang";Rebecca Law;Rebecca_Law;1.312992,103.889933
+535;886;"Lorong 10 Geylang";Koala Duke;Koala_Duke;1.311505,103.877669
+536;651;"Lorong 27 Geylang";Nekomamushi Kid;Nekomamushi_Kid;1.315859,103.883817
+537;111;"Lorong 38 Geylang";Inuarashi Sir;Inuarashi_Sir;1.314268,103.888856
+538;434;"Lorong 25 Geylang";Dracule Vivi;Dracule_Vivi;1.313488,103.882843
+539;35;"Jalan Dua";Nico (Okama);Nico_Okama;1.308984,103.887473
+540;907;"Geylang East Central";Rebecca Chopper;Rebecca_Chopper;1.320271,103.887383
+541;555;"Lorong 12 Geylang";Charlotte Katakuri;Charlotte_Katakuri;1.311688,103.878273
+542;892;"Lorong 22 Geylang";X. Drake (Okama);X_Drake_Okama;1.311354,103.882128
+543;362;"Tanjong Katong Road";Inuarashi Chopper;Inuarashi_Chopper;1.305358,103.896144
+544;613;"Jalan Dua";Monkey D. Fishman;Monkey_D_Fishman;1.308984,103.887473
+545;460;"Sims Avenue";Inuarashi God;Inuarashi_God;1.315705,103.886943
+546;779;"Lorong 27 Geylang";Bentham Fishman;Bentham_Fishman;1.315859,103.883817
+547;272;"Guillemard Road";Buggy Teach;Buggy_Teach;1.312959,103.891674
+548;261;"Geylang East Avenue 2";Shirahoshi Kid;Shirahoshi_Kid;1.316929,103.888472
+549;127;"Geylang East Avenue 1";Inuarashi Mermaid Princess;Inuarashi_Mermaid_Princess;1.317920,103.887889
+550;616;"Jalan Satu";Nico Luffy;Nico_Luffy;1.308453,103.889060
+551;156;"Lorong Bachok";Sabo Onigashima;Sabo_Onigashima;1.313975,103.879763
+552;92;"Geylang East Avenue 2";Roronoa Dancer;Roronoa_Dancer;1.316929,103.888472
+553;6;"Geylang Road";Roronoa Bonney;Roronoa_Bonney;1.310178,103.871935
+554;785;"Lorong 16 Geylang";Tony Tony Mad Monk;Tony_Tony_Mad_Monk;1.311786,103.879886
+555;663;"Geylang East Avenue 2";X. Drake Katakuri;X_Drake_Katakuri;1.316929,103.888472
+556;802;"Lorong 27 Geylang";Pekoms Teach;Pekoms_Teach;1.315859,103.883817
+557;261;"Lorong 22 Geylang";Trafalgar D. Mermaid Princess;Trafalgar_D_Mermaid_Princess;1.311354,103.882128
+558;468;"Guillemard Road";Kozuki Star Clown;Kozuki_Star_Clown;1.314192,103.893803
+559;813;"Lorong 33 Geylang";Nekomamushi Mermaid Princess;Nekomamushi_Mermaid_Princess;1.315797,103.887885
+560;992;"Geylang East Central";Capone Law;Capone_Law;1.320271,103.887383
+561;546;"Guillemard Road";Tony Tony Duke;Tony_Tony_Duke;1.312959,103.891674
+562;423;"Lorong 28 Geylang";Nico Chopper;Nico_Chopper;1.312948,103.885577
+563;838;"Lorong 16 Geylang";Marshall D. Bonney;Marshall_D_Bonney;1.311786,103.879886
+564;844;"Geylang Road";Portgas D. Katakuri;Portgas_D_Katakuri;1.316096,103.897248
+565;332;"Geylang Road";Shirahoshi Doflamingo;Shirahoshi_Doflamingo;1.310178,103.871935
+566;696;"Geylang Road";Pekoms Kid;Pekoms_Kid;1.314622,103.890865
+567;806;"Lorong 28 Geylang";Ivankov Cyborg;Ivankov_Cyborg;1.312948,103.885577
+568;142;"Sims Avenue";Nefertari Marine;Nefertari_Marine;1.314268,103.878873
+569;371;"Paya Lebar Road";Boa Duke;Boa_Duke;1.329811,103.889595
+570;844;"Geylang East Avenue 2";Eustass Fishman;Eustass_Fishman;1.316929,103.888472
+571;785;"Lorong 12 Geylang";Nekomamushi Robin;Nekomamushi_Robin;1.311688,103.878273
+572;17;"Geylang Road";Koala Bonney;Koala_Bonney;1.329799,103.888577
+573;314;"Lorong 40 Geylang";Sabo Dancer;Sabo_Dancer;1.312992,103.889933
+574;610;"Sims Avenue";Rebecca Revo;Rebecca_Revo;1.315909,103.886809
+575;974;"Lorong 28 Geylang";Nekomamushi (Okama);Nekomamushi_Okama;1.311309,103.885706
+576;124;"Lorong 12 Geylang";Crocodile Law;Crocodile_Law;1.311688,103.878273
+577;660;"Lorong 40 Geylang";Vinsmoke Kid;Vinsmoke_Kid;1.312992,103.889933
+578;15;"Lorong 25 Geylang";Monkey D. Gladiator;Monkey_D_Gladiator;1.313488,103.882843
+579;270;"Lorong 10 Geylang";Capone Chopper;Capone_Chopper;1.311505,103.877669
+580;950;"Lorong 22 Geylang";Yamato Mihawk;Yamato_Mihawk;1.311354,103.882128
+581;116;"Lorong Bachok";Crocodile Mr.2;Crocodile_Mr2;1.313975,103.879763
+582;358;"Lorong 27 Geylang";Yamato Marine;Yamato_Marine;1.314345,103.883743
+583;774;"Paya Lebar Road";Boa Ace;Boa_Ace;1.317709,103.892050
+584;257;"Lorong 16 Geylang";Caesar Luffy;Caesar_Luffy;1.311786,103.879886
+585;149;"Lorong 38 Geylang";Donquixote Fishman;Donquixote_Fishman;1.314268,103.888856
+586;182;"Sims Avenue";Yamato Cat Viper;Yamato_Cat_Viper;1.312970,103.874397
+587;743;"Lorong 12 Geylang";Brook Fishman;Brook_Fishman;1.311688,103.878273
+588;355;"Jalan Satu";Arlong Fishman;Arlong_Fishman;1.308453,103.889060
+589;85;"Aljunied Road";Urouge Dancer;Urouge_Dancer;1.317091,103.881645
+590;962;"Lorong 10 Geylang";Viola Law;Viola_Law;1.311505,103.877669
+591;935;"Jalan Enam";Kozuki Fishman;Kozuki_Fishman;1.307334,103.885615
+592;779;"Jalan Satu";Shanks Fishman;Shanks_Fishman;1.308453,103.889060
+593;312;"Jalan Enam";Sabo (Okama);Sabo_Okama;1.307334,103.885615
+594;138;"Lorong 10 Geylang";Portgas D. Red-Haired;Portgas_D_RedHaired;1.311505,103.877669
+595;163;"Geylang East Avenue 1";Shirahoshi Marine;Shirahoshi_Marine;1.316649,103.885158
+596;630;"Lorong 40 Geylang";Capone Mad Monk;Capone_Mad_Monk;1.313873,103.889261
+597;224;"Lorong 16 Geylang";Boa Teach;Boa_Teach;1.311786,103.879886
+598;224;"Lorong Bachok";Enel Duke;Enel_Duke;1.313975,103.879763
+599;488;"Geylang Road";Portgas D. Mihawk;Portgas_D_Mihawk;1.313241,103.884681
+600;541;"Jalan Enam";Shirahoshi Fishman;Shirahoshi_Fishman;1.307334,103.885615
+601;608;"Lorong 12 Geylang";Caesar Katakuri;Caesar_Katakuri;1.311688,103.878273
+602;216;"Lorong 25 Geylang";Caesar Sanji;Caesar_Sanji;1.313488,103.882843
+603;602;"Jalan Dua";Ivankov Katakuri;Ivankov_Katakuri;1.308984,103.887473
+604;693;"Jalan Enam";Boa Gang Bege;Boa_Gang_Bege;1.307334,103.885615
+605;335;"Lorong 22 Geylang";Vinsmoke (Okama);Vinsmoke_Okama;1.311354,103.882128
+606;646;"Jalan Dua";Capone Oden;Capone_Oden;1.308984,103.887473
+607;218;"Lorong Bachok";Pedro Zoro;Pedro_Zoro;1.313975,103.879763
+608;251;"Paya Lebar Road";Capone Robin;Capone_Robin;1.317709,103.892050
+609;331;"Lorong 28 Geylang";Rebecca Vivi;Rebecca_Vivi;1.312266,103.885598
+610;225;"Tanjong Katong Road";Caesar Doflamingo;Caesar_Doflamingo;1.305358,103.896144
+611;878;"Paya Lebar Road";Kozuki Dancer;Kozuki_Dancer;1.316150,103.892441
+612;785;"Lorong 40 Geylang";Koala Kid;Koala_Kid;1.312992,103.889933
+613;956;"Lorong 16 Geylang";Roronoa Hancock;Roronoa_Hancock;1.312466,103.879822
+614;194;"Lorong 38 Geylang";Nekomamushi Oden;Nekomamushi_Oden;1.314268,103.888856
+615;385;"Aljunied Road";Koala Oden;Koala_Oden;1.333059,103.878802
+616;626;"Lorong 33 Geylang";Brook Law;Brook_Law;1.316027,103.888000
+617;622;"Tanjong Katong Road";Arlong Luffy;Arlong_Luffy;1.305358,103.896144
+618;717;"Lorong 28 Geylang";Buggy Doflamingo;Buggy_Doflamingo;1.312948,103.885577
+619;395;"Jalan Satu";Arlong Doflamingo;Arlong_Doflamingo;1.308453,103.889060
+620;485;"Lorong 28 Geylang";Koala Mermaid Princess;Koala_Mermaid_Princess;1.311821,103.885626
+621;554;"Lorong 12 Geylang";Brook Luffy;Brook_Luffy;1.311688,103.878273
+622;541;"Lorong 10 Geylang";Vinsmoke Gang Bege;Vinsmoke_Gang_Bege;1.311505,103.877669
+623;873;"Lorong 10 Geylang";Capone Sanji;Capone_Sanji;1.311505,103.877669
+624;945;"Geylang East Avenue 2";Donquixote Cyborg;Donquixote_Cyborg;1.316929,103.888472
+625;674;"Jalan Dua";Tony Tony Sir;Tony_Tony_Sir;1.308984,103.887473
+626;738;"Tanjong Katong Road";Brook Robin;Brook_Robin;1.299503,103.897055
+627;344;"Geylang East Avenue 1";Dracule Sanji;Dracule_Sanji;1.316649,103.885158
+628;427;"Geylang East Central";Viola Clown;Viola_Clown;1.320271,103.887383
+629;957;"Geylang Road";Dracule Mad Monk;Dracule_Mad_Monk;1.314322,103.888354
+630;577;"Paya Lebar Road";Shanks Sir;Shanks_Sir;1.317709,103.892050
+631;865;"Lorong 40 Geylang";Eustass Doflamingo;Eustass_Doflamingo;1.312992,103.889933
+632;479;"Sims Avenue";Monkey D. Mihawk;Monkey_D_Mihawk;1.316195,103.887572
+633;918;"Sims Avenue";Trafalgar D. Vivi;Trafalgar_D_Vivi;1.315575,103.885110
+634;972;"Geylang Road";Pedro Ace;Pedro_Ace;1.312238,103.877114
+635;417;"Lorong 33 Geylang";Inuarashi Hancock;Inuarashi_Hancock;1.316027,103.888000
+636;328;"Lorong 25 Geylang";Urouge Bonney;Urouge_Bonney;1.313488,103.882843
+637;682;"Sims Avenue";Franky Ace;Franky_Ace;1.310484,103.870335
+638;17;"Jalan Satu";Crocodile Fishman;Crocodile_Fishman;1.308453,103.889060
+639;599;"Jalan Enam";Monkey D. Kid;Monkey_D_Kid;1.307334,103.885615
+640;81;"Geylang East Avenue 1";Arlong Teach;Arlong_Teach;1.316649,103.885158
+641;448;"Sims Avenue";Monkey D. Hancock;Monkey_D_Hancock;1.314300,103.878452
+642;407;"Sims Avenue";Yamato Mermaid Princess;Yamato_Mermaid_Princess;1.315657,103.885513
+643;823;"Lorong 40 Geylang";Kozuki (Okama);Kozuki_Okama;1.313873,103.889261
+644;596;"Jalan Enam";Pedro Oden;Pedro_Oden;1.307334,103.885615
+645;722;"Lorong 28 Geylang";X. Drake Kid;X_Drake_Kid;1.312948,103.885577
+646;342;"Paya Lebar Road";Kozuki Gladiator;Kozuki_Gladiator;1.328633,103.889822
+647;356;"Aljunied Road";Pedro Mr.2;Pedro_Mr2;1.320843,103.881743
+648;297;"Lorong 22 Geylang";Kozuki Katakuri;Kozuki_Katakuri;1.311354,103.882128
+649;874;"Geylang Road";Bentham Hancock;Bentham_Hancock;1.312238,103.877114
+650;909;"Jalan Satu";Urouge Ace;Urouge_Ace;1.310372,103.887350
+651;343;"Paya Lebar Road";Pedro Sanji;Pedro_Sanji;1.328633,103.889822
+652;906;"Aljunied Road";Pekoms Mermaid Princess;Pekoms_Mermaid_Princess;1.313544,103.882020
+653;833;"Lorong 25 Geylang";Portgas D. Robin;Portgas_D_Robin;1.314279,103.882528
+654;283;"Lorong 16 Geylang";Marshall D. Zoro;Marshall_D_Zoro;1.311786,103.879886
+655;462;"Lorong 28 Geylang";Rebecca Luffy;Rebecca_Luffy;1.312948,103.885577
+656;742;"Lorong 22 Geylang";Roronoa Luffy;Roronoa_Luffy;1.311354,103.882128
+657;311;"Geylang East Avenue 1";Dracule Bonney;Dracule_Bonney;1.316649,103.885158
+658;415;"Tanjong Katong Road";Jimbei Fishman;Jimbei_Fishman;1.303616,103.896680
+659;912;"Lorong 12 Geylang";Kozuki Doflamingo;Kozuki_Doflamingo;1.311688,103.878273
+660;238;"Lorong Bachok";Shirahoshi Luffy;Shirahoshi_Luffy;1.313913,103.879470
+661;416;"Lorong 16 Geylang";Monkey D. Sir;Monkey_D_Sir;1.311786,103.879886
+662;901;"Jalan Enam";Nico Kid;Nico_Kid;1.307334,103.885615
+663;291;"Lorong 10 Geylang";Viola (Okama);Viola_Okama;1.311505,103.877669
+664;560;"Lorong 16 Geylang";Tony Tony Teach;Tony_Tony_Teach;1.311786,103.879886
+665;631;"Geylang Road";Nefertari Oden;Nefertari_Oden;1.313369,103.883518
+666;793;"Lorong 38 Geylang";Enel Revo;Enel_Revo;1.313951,103.888916
+667;200;"Lorong 22 Geylang";Viola Mihawk;Viola_Mihawk;1.311354,103.882128
+668;261;"Lorong 40 Geylang";Franky Sanji;Franky_Sanji;1.312992,103.889933
+669;122;"Geylang East Central";Pekoms Bonney;Pekoms_Bonney;1.320271,103.887383
+670;97;"Geylang Road";Enel Fishman;Enel_Fishman;1.312238,103.877114
+671;665;"Lorong 12 Geylang";Eustass Sanji;Eustass_Sanji;1.311688,103.878273
+672;964;"Lorong 10 Geylang";Koala Teach;Koala_Teach;1.311505,103.877669
+673;959;"Lorong 40 Geylang";Franky Marine;Franky_Marine;1.314497,103.889674
+674;330;"Lorong 33 Geylang";Urouge Doflamingo;Urouge_Doflamingo;1.316027,103.888000
+675;505;"Tanjong Katong Road";Enel Star Clown;Enel_Star_Clown;1.303616,103.896680
+676;44;"Paya Lebar Road";Caesar Gladiator;Caesar_Gladiator;1.318007,103.892110
+677;508;"Geylang Road";Trafalgar D. Ace;Trafalgar_D_Ace;1.312582,103.878979
+678;160;"Jalan Satu";Ivankov Vivi;Ivankov_Vivi;1.308453,103.889060
+679;865;"Lorong Bachok";Charlotte God;Charlotte_God;1.313975,103.879763
+680;216;"Lorong 38 Geylang";Shanks Sanji;Shanks_Sanji;1.314268,103.888856
+681;872;"Lorong 40 Geylang";Rebecca Oden;Rebecca_Oden;1.312992,103.889933
+682;556;"Lorong 40 Geylang";X. Drake Duke;X_Drake_Duke;1.312992,103.889933
+683;150;"Sims Avenue";Crocodile Vivi;Crocodile_Vivi;1.312129,103.872896
+684;129;"Lorong 33 Geylang";Capone Katakuri;Capone_Katakuri;1.316027,103.888000
+685;48;"Lorong 25 Geylang";Franky Bonney;Franky_Bonney;1.313488,103.882843
+686;260;"Lorong 25 Geylang";Arlong Hancock;Arlong_Hancock;1.313488,103.882843
+687;41;"Lorong 25 Geylang";Portgas D. Mad Monk;Portgas_D_Mad_Monk;1.313488,103.882843
+688;556;"Lorong 27 Geylang";Koala Katakuri;Koala_Katakuri;1.315859,103.883817
+689;158;"Jalan Dua";Shirahoshi Red-Haired;Shirahoshi_RedHaired;1.308984,103.887473
+690;493;"Aljunied Road";Crocodile Duke;Crocodile_Duke;1.329718,103.879493
+691;461;"Lorong 33 Geylang";Enel Mihawk;Enel_Mihawk;1.316027,103.888000
+692;527;"Geylang East Central";Buggy Fishman;Buggy_Fishman;1.320271,103.887383
+693;970;"Jalan Enam";Monkey D. Ace;Monkey_D_Ace;1.307334,103.885615
+694;182;"Geylang East Avenue 2";Bentham Gladiator;Bentham_Gladiator;1.316929,103.888472
+695;474;"Aljunied Road";Shirahoshi Gladiator;Shirahoshi_Gladiator;1.320843,103.881743
+696;525;"Aljunied Road";Charlotte Star Clown;Charlotte_Star_Clown;1.320843,103.881743
+697;285;"Aljunied Road";Roronoa Onigashima;Roronoa_Onigashima;1.325358,103.880763
+698;422;"Geylang East Avenue 1";Nekomamushi Doflamingo;Nekomamushi_Doflamingo;1.316649,103.885158
+699;670;"Lorong 38 Geylang";Inuarashi Teach;Inuarashi_Teach;1.314268,103.888856
+700;647;"Jalan Satu";Charlotte Hancock;Charlotte_Hancock;1.308453,103.889060

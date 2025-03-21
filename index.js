@@ -27,9 +27,9 @@ function generateFakeName() {
       "Kozuki", "Shirahoshi", "Franky", "Jimbei", "Pedro", "Pekoms", "Ivankov", "Viola", "Rebecca", "Shanks", "Buggy", "Arlong", "Enel", "Caesar"
     ];
     const lastNames = [
-      "Luffy", "Zoro", "Ace", "Sanji", "Katakuri", "Doflamingo", "Robin", "Law", "Hancock", "Vivi", "Teach", "(Soul King)", "Chopper",
-      "Kid", "Bonney", "Gang Bege", "Mihawk", "(Sir)", "(Mr.2)", "(Mad Monk)", "(Marine)", "(Revo)", "(Duke)", "(Cat Viper)", "(Fishman)", "(Onigashima)",
-      "Oden", "(Mermaid Princess)", "(Cyborg)", "(Knight of Sea)", "(Guard)", "(Lion)", "(Okama)", "(Dancer)", "(Gladiator)", "(Red-Haired)", "(Star Clown)", "(Fishman)", "(God)", "Clown"
+      "Luffy", "Zoro", "Ace", "Sanji", "Katakuri", "Doflamingo", "Robin", "Law", "Hancock", "Vivi", "Teach", "Chopper",
+      "Kid", "Bonney", "Gang Bege", "Mihawk", "Sir", "Mr.2", "Mad Monk", "Marine", "Revo", "Duke", "Cat Viper", "Fishman", "Onigashima",
+      "Oden", "Mermaid Princess", "Cyborg", "(Okama)", "Dancer", "Gladiator", "Red-Haired", "Star Clown", "Fishman", "God", "Clown"
     ];
 
     // Build tất cả combo
@@ -63,6 +63,15 @@ function generateFakeName() {
   return name;
 }
 
+// Hàm tạo mã từ tên
+function generateHouseholdCode(name) {
+  // Loại bỏ các ký tự đặc biệt (giữ lại chữ và số)
+  let code = name.replace(/[^\w\s]/g, '');
+  // Thay thế khoảng trắng bằng gạch dưới
+  code = code.replace(/\s+/g, '_');
+  return code;
+}
+
 // Hàm tạo toạ độ ngẫu nhiên quanh khu vực Geylang
 function generateRandomGeolocation() {
   // Giá trị ước lượng, bạn có thể điều chỉnh lại tuỳ ý
@@ -92,7 +101,7 @@ async function main() {
   let csvLines = [];
 
   // Dòng tiêu đề CSV
-  const header = "No.;Street Number;Street Name;Household Owner;Coordinate";
+  const header = "No.;Street Number;Street Name;Household Owner;Household Code;Coordinate";
   fs.writeFileSync('geylang_addresses.csv', header + '\n', 'utf8');
 
   for (let i = 1; i <= numAddresses; i++) {
@@ -104,6 +113,9 @@ async function main() {
 
     // Tên giả
     const ownerName = generateFakeName();
+    
+    // Tạo household code
+    const householdCode = generateHouseholdCode(ownerName);
 
     // Full address for geocoding
     const address = `${houseNumber} ${street}, Singapore`;
@@ -120,7 +132,7 @@ async function main() {
         lng = longitude;
     } else {
         // Không tìm thấy kết quả
-        const row = `${i};${houseNumber};"${street}";${ownerName};""`;
+        const row = `${i};${houseNumber};"${street}";${ownerName};${householdCode};""`;
         fs.appendFileSync('geylang_addresses.csv', row + '\n', 'utf8');
         console.log(`[${i}/${numAddresses}] Không tìm thấy toạ độ cho: ${address}`);
         continue;
@@ -128,7 +140,7 @@ async function main() {
 
     // Thêm dòng CSV
     const coordinate = `${lat.toFixed(6)},${lng.toFixed(6)}`;
-    const row = `${i};${houseNumber};"${street}";${ownerName};${coordinate}`;
+    const row = `${i};${houseNumber};"${street}";${ownerName};${householdCode};${coordinate}`;
     fs.appendFileSync('geylang_addresses.csv', row + '\n', 'utf8');
 
     await new Promise(r => setTimeout(r, 1000));
